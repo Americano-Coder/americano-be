@@ -1,0 +1,5751 @@
+Date,Amount,Category
+2017-01-01,38.1,Social Life
+2017-01-01,2000,Other
+2017-01-01,875,Food
+2017-01-01,130,Transportation
+2017-01-02,32.4,Social Life
+2017-01-02,90,Food
+2017-01-02,97,Food
+2017-01-03,34.5,Social Life
+2017-01-03,50,Transportation
+2017-01-03,179,Food
+2017-01-04,20.7,Social Life
+2017-01-04,20,Food
+2017-01-04,58,Transportation
+2017-01-04,70,Food
+2017-01-04,15,Food
+2017-01-05,21.5,Social Life
+2017-01-05,145,Food
+2017-01-05,58,Transportation
+2017-01-05,95,Food
+2017-01-06,23.1,Social Life
+2017-01-06,60,Food
+2017-01-07,29.7,Social Life
+2017-01-07,3,Petty cash
+2017-01-07,30,Food
+2017-01-07,75,Food
+2017-01-07,2000,Allowance
+2017-01-07,35,Transportation
+2017-01-07,130,Food
+2017-01-07,120,Food
+2017-01-08,36.6,Social Life
+2017-01-08,150,Food
+2017-01-08,269.4,Food
+2017-01-08,94,Food
+2017-01-08,40,Food
+2017-01-09,36.1,Social Life
+2017-01-09,40,Food
+2017-01-09,40,Food
+2017-01-09,40,Food
+2017-01-09,50,Food
+2017-01-10,20.6,Social Life
+2017-01-10,102,Food
+2017-01-10,70,Food
+2017-01-10,128,Food
+2017-01-10,115,Gift
+2017-01-11,20.4,Social Life
+2017-01-11,150,Food
+2017-01-11,160,Food
+2017-01-11,196,Beauty
+2017-01-12,30.1,Social Life
+2017-01-12,75,Food
+2017-01-12,504,Food
+2017-01-13,38.7,Social Life
+2017-01-13,20,Apparel
+2017-01-13,40,Food
+2017-01-13,1000,Allowance
+2017-01-13,25,Food
+2017-01-13,130,Apparel
+2017-01-14,41.4,Social Life
+2017-01-14,200,Food
+2017-01-14,30,Other
+2017-01-14,65,Food
+2017-01-14,324,Food
+2017-01-15,37,Social Life
+2017-01-15,4800,Household
+2017-01-15,8000,Allowance
+2017-01-15,1800,Apparel
+2017-01-15,25,Food
+2017-01-16,36,Social Life
+2017-01-16,150,Food
+2017-01-16,140,Apparel
+2017-01-16,500,Apparel
+2017-01-16,25,Food
+2017-01-17,37,Social Life
+2017-01-17,15,Food
+2017-01-17,25,Food
+2017-01-18,38,Social Life
+2017-01-18,10,Food
+2017-01-18,100,Food
+2017-01-18,15,Food
+2017-01-19,23,Social Life
+2017-01-19,110,Food
+2017-01-19,25,Food
+2017-01-19,280,Food
+2017-01-19,40,Food
+2017-01-20,26.7,Social Life
+2017-01-20,195,Food
+2017-01-20,241,Food
+2017-01-21,27.5,Social Life
+2017-01-21,240,Other
+2017-01-21,1000,Allowance
+2017-01-22,21.7,Social Life
+2017-01-22,25,Food
+2017-01-23,22.9,Social Life
+2017-01-23,65,Food
+2017-01-23,74,Food
+2017-01-23,80,Food
+2017-01-23,75,Food
+2017-01-23,40,Food
+2017-01-24,26.2,Social Life
+2017-01-24,110,Food
+2017-01-24,30,Food
+2017-01-24,20,Food
+2017-01-24,30,Food
+2017-01-25,36.5,Social Life
+2017-01-25,50,Other
+2017-01-25,110,Food
+2017-01-25,70,Food
+2017-01-26,41.8,Social Life
+2017-01-26,160,Food
+2017-01-26,400,Other
+2017-01-26,113,Food
+2017-01-26,1000,Allowance
+2017-01-26,100,Other
+2017-01-26,200,Other
+2017-01-27,21.5,Social Life
+2017-01-27,100,Other
+2017-01-28,19.2,Social Life
+2017-01-28,40,Food
+2017-01-29,25,Social Life
+2017-01-29,85,Food
+2017-01-30,28.9,Social Life
+2017-01-30,20,Food
+2017-01-31,23.2,Social Life
+2017-01-31,20,Food
+2017-02-01,31.5,Social Life
+2017-02-01,80,Transportation
+2017-02-02,36.2,Social Life
+2017-02-02,80,Food
+2017-02-03,38.2,Social Life
+2017-02-03,18,Food
+2017-02-03,25,Food
+2017-02-03,239,Food
+2017-02-04,26.4,Social Life
+2017-02-04,32,Food
+2017-02-04,15,Food
+2017-02-05,20.9,Social Life
+2017-02-05,262,Food
+2017-02-06,21.5,Social Life
+2017-02-06,40,Food
+2017-02-06,30,Food
+2017-02-06,30,Food
+2017-02-06,400,Self-development
+2017-02-06,306,Transportation
+2017-02-06,504,Food
+2017-02-07,30.2,Social Life
+2017-02-07,40,Other
+2017-02-07,50,Food
+2017-02-07,80,Other
+2017-02-07,115,Food
+2017-02-07,14,Food
+2017-02-08,33.4,Social Life
+2017-02-08,250,Other
+2017-02-08,20,Food
+2017-02-08,20,Other
+2017-02-08,286,Transportation
+2017-02-08,250,Other
+2017-02-08,199,Transportation
+2017-02-08,25,Food
+2017-02-08,30,Other
+2017-02-08,43,Transportation
+2017-02-08,20,Food
+2017-02-09,32.6,Social Life
+2017-02-09,1000,Allowance
+2017-02-09,85,Food
+2017-02-10,22.2,Social Life
+2017-02-10,725,Transportation
+2017-02-10,200,Food
+2017-02-10,8,Other
+2017-02-11,21.7,Social Life
+2017-02-11,300,Other
+2017-02-11,300,Food
+2017-02-11,140,Other
+2017-02-11,5,Other
+2017-02-11,201,Other
+2017-02-11,10,Food
+2017-02-12,30,Social Life
+2017-02-12,107,Food
+2017-02-12,80,Other
+2017-02-12,106,Food
+2017-02-12,8000,Salary
+2017-02-12,1400,Education
+2017-02-13,35.7,Social Life
+2017-02-13,388,Food
+2017-02-13,60,Transportation
+2017-02-13,500,Other
+2017-02-13,500,Other
+2017-02-13,30,Other
+2017-02-13,354,Food
+2017-02-13,40,Other
+2017-02-13,211,Food
+2017-02-14,32.8,Social Life
+2017-02-14,42,Transportation
+2017-02-14,10,Food
+2017-02-14,877.81,Food
+2017-02-14,20,Food
+2017-02-14,440,Other
+2017-02-15,39.3,Social Life
+2017-02-15,15,Food
+2017-02-15,4580,Household
+2017-02-15,535.3,Food
+2017-02-15,260,Other
+2017-02-16,25.5,Social Life
+2017-02-16,106,Food
+2017-02-16,135.5,Food
+2017-02-17,23,Social Life
+2017-02-17,301.75,Food
+2017-02-17,200,Other
+2017-02-17,479,Other
+2017-02-18,19.9,Social Life
+2017-02-18,43,Transportation
+2017-02-18,1000,Other
+2017-02-18,66,Food
+2017-02-19,21.3,Social Life
+2017-02-19,340,Other
+2017-02-19,1530,Food
+2017-02-19,240,Other
+2017-02-19,70,Other
+2017-02-19,340,Other
+2017-02-19,170,Other
+2017-02-20,20.8,Social Life
+2017-02-20,1500,Other
+2017-02-20,70,Food
+2017-02-20,1365,Transportation
+2017-02-21,21.7,Social Life
+2017-02-21,100,Food
+2017-02-22,23.8,Social Life
+2017-02-22,200,Other
+2017-02-22,1000,Other
+2017-02-22,148,Food
+2017-02-22,59,Food
+2017-02-22,301.15,Food
+2017-02-23,29,Social Life
+2017-02-23,171,Food
+2017-02-24,23.7,Social Life
+2017-02-24,37,Food
+2017-02-24,200,Other
+2017-02-24,188,Food
+2017-02-25,21.3,Social Life
+2017-02-25,176,Food
+2017-02-25,2000,Other
+2017-02-25,300,Food
+2017-02-25,302,Food
+2017-02-25,310,Other
+2017-02-25,465,Food
+2017-02-25,40,Food
+2017-02-26,28.5,Social Life
+2017-02-26,133,Food
+2017-02-26,40,Food
+2017-02-27,33.6,Social Life
+2017-02-27,325,Transportation
+2017-02-27,18,Food
+2017-02-27,259,Food
+2017-02-28,34.6,Social Life
+2017-02-28,25,Food
+2017-02-28,115,Food
+2017-02-28,125,Other
+2017-03-01,34.2,Social Life
+2017-03-01,138,Food
+2017-03-01,10,Food
+2017-03-02,27,Social Life
+2017-03-02,100,Other
+2017-03-02,44,Transportation
+2017-03-03,24.2,Social Life
+2017-03-03,105,Food
+2017-03-03,120,Food
+2017-03-03,155,Food
+2017-03-04,19.9,Social Life
+2017-03-04,153,Transportation
+2017-03-04,200,Other
+2017-03-04,50,Transportation
+2017-03-05,19.7,Social Life
+2017-03-05,500,Other
+2017-03-05,120,Food
+2017-03-06,21.5,Social Life
+2017-03-06,150,Other
+2017-03-06,50,Food
+2017-03-07,30.6,Social Life
+2017-03-07,80,Food
+2017-03-07,1500,Other
+2017-03-07,5000,Other
+2017-03-07,1000,Transportation
+2017-03-07,150,Food
+2017-03-07,125,Food
+2017-03-07,80,Food
+2017-03-07,70,Household
+2017-03-07,491,Food
+2017-03-08,30,Social Life
+2017-03-08,214,Transportation
+2017-03-08,2099,Household
+2017-03-08,1000,Other
+2017-03-09,19,Social Life
+2017-03-09,641,Food
+2017-03-10,19.6,Social Life
+2017-03-10,373,Food
+2017-03-11,20.6,Social Life
+2017-03-11,10000,Other
+2017-03-12,23.6,Social Life
+2017-03-13,17.9,Social Life
+2017-03-13,165,Food
+2017-03-13,475,Food
+2017-03-14,17.3,Social Life
+2017-03-14,80,Food
+2017-03-15,21.4,Social Life
+2017-03-15,348,Food
+2017-03-16,24.1,Social Life
+2017-03-16,270,Transportation
+2017-03-16,50,Other
+2017-03-16,60,Transportation
+2017-03-16,200,Transportation
+2017-03-16,380,Food
+2017-03-16,1575,Transportation
+2017-03-16,250,Food
+2017-03-16,111,Food
+2017-03-17,20.9,Social Life
+2017-03-17,200,Food
+2017-03-18,30.1,Social Life
+2017-03-18,201.8,Transportation
+2017-03-18,336,Household
+2017-03-18,138,Transportation
+2017-03-18,1300,Transportation
+2017-03-19,32.6,Social Life
+2017-03-19,120,Transportation
+2017-03-20,21.3,Social Life
+2017-03-20,399,Apparel
+2017-03-20,83,Food
+2017-03-20,399,Apparel
+2017-03-21,19.5,Social Life
+2017-03-21,324.7,Food
+2017-03-21,289,Food
+2017-03-21,303,Household
+2017-03-22,19.9,Social Life
+2017-03-22,33,Food
+2017-03-23,21,Social Life
+2017-03-23,84,Food
+2017-03-23,40,Food
+2017-03-23,1500,Other
+2017-03-23,100,Other
+2017-03-23,25,Food
+2017-03-24,25.4,Social Life
+2017-03-24,243,Food
+2017-03-25,17.5,Social Life
+2017-03-25,200,Other
+2017-03-25,339.15,Food
+2017-03-26,20.4,Social Life
+2017-03-26,500,Other
+2017-03-26,67,Food
+2017-03-26,100,Other
+2017-03-26,30,Transportation
+2017-03-26,78,Food
+2017-03-27,26.8,Social Life
+2017-03-27,50,Food
+2017-03-28,25.8,Social Life
+2017-03-28,300,Other
+2017-03-29,20.9,Social Life
+2017-03-29,1071,Salary
+2017-03-30,19.4,Social Life
+2017-03-30,1558,Other
+2017-03-31,25.8,Social Life
+2017-03-31,6631,Beauty
+2017-04-01,26.3,Social Life
+2017-04-02,29.6,Social Life
+2017-04-02,8336,Beauty
+2017-04-03,30.3,Social Life
+2017-04-04,23.6,Social Life
+2017-04-04,6135,Transportation
+2017-04-05,28.4,Social Life
+2017-04-05,9538,Cash
+2017-04-06,20.7,Social Life
+2017-04-06,5966,Food
+2017-04-07,24.1,Social Life
+2017-04-07,7713,Transportation
+2017-04-08,27.3,Social Life
+2017-04-08,7484,Food
+2017-04-09,23.2,Social Life
+2017-04-09,796,Education
+2017-04-10,18.3,Social Life
+2017-04-10,7229,Transportation
+2017-04-11,24.6,Social Life
+2017-04-11,7032,Allowance
+2017-04-12,27.4,Social Life
+2017-04-12,4284,Food
+2017-04-13,20.4,Social Life
+2017-04-13,5751,Apparel
+2017-04-14,18.1,Social Life
+2017-04-15,25.2,Social Life
+2017-04-15,5893,Gift
+2017-04-16,19.8,Social Life
+2017-04-16,838,Cash
+2017-04-17,21,Social Life
+2017-04-17,7755,Beauty
+2017-04-18,23.7,Social Life
+2017-04-18,1247,Transportation
+2017-04-19,19.6,Social Life
+2017-04-19,366,Gift
+2017-04-20,18.1,Social Life
+2017-04-21,20.8,Social Life
+2017-04-21,8822,Salary
+2017-04-22,26,Social Life
+2017-04-22,8123,Salary
+2017-04-23,18.4,Social Life
+2017-04-23,2600,Salary
+2017-04-24,22,Social Life
+2017-04-24,3106,Household
+2017-04-25,14.4,Social Life
+2017-04-25,7369,Other
+2017-04-26,19.9,Social Life
+2017-04-26,5512,Salary
+2017-04-27,22.6,Social Life
+2017-04-27,1323,Cash
+2017-04-28,13.7,Social Life
+2017-04-28,4323,Allowance
+2017-04-29,15.9,Social Life
+2017-04-29,4880,Other
+2017-04-30,21.2,Social Life
+2017-04-30,1366,Allowance
+2017-05-01,23.7,Social Life
+2017-05-01,6209,Education
+2017-05-02,24,Social Life
+2017-05-02,9324,Apparel
+2017-05-03,17.2,Social Life
+2017-05-03,2517,Salary
+2017-05-04,23.2,Social Life
+2017-05-04,1901,Other
+2017-05-05,25.2,Social Life
+2017-05-05,5202,Salary
+2017-05-06,17.2,Social Life
+2017-05-06,9604,Transportation
+2017-05-07,16,Social Life
+2017-05-07,7206,Salary
+2017-05-08,15.6,Social Life
+2017-05-08,501,Education
+2017-05-09,13.4,Social Life
+2017-05-09,5388,Allowance
+2017-05-10,16,Social Life
+2017-05-10,3425,Salary
+2017-05-11,16.8,Social Life
+2017-05-11,9101,Other
+2017-05-12,14.6,Social Life
+2017-05-12,5394,Cash
+2017-05-13,19.4,Social Life
+2017-05-13,9430,Gift
+2017-05-14,21,Social Life
+2017-05-14,9853,Beauty
+2017-05-15,19.5,Social Life
+2017-05-15,3175,Cash
+2017-05-16,18.5,Social Life
+2017-05-16,6888,Allowance
+2017-05-17,13.3,Social Life
+2017-05-17,9986,Allowance
+2017-05-18,13.7,Social Life
+2017-05-18,6727,Education
+2017-05-19,14.3,Social Life
+2017-05-19,8765,Apparel
+2017-05-20,14.1,Social Life
+2017-05-20,9520,Education
+2017-05-21,11.4,Social Life
+2017-05-21,7002,Household
+2017-05-22,13.6,Social Life
+2017-05-22,9622,Transportation
+2017-05-23,16.6,Social Life
+2017-05-23,1135,Transportation
+2017-05-24,17.6,Social Life
+2017-05-25,14.6,Social Life
+2017-05-25,6869,Transportation
+2017-05-26,17.2,Social Life
+2017-05-26,6851,Household
+2017-05-27,14.4,Social Life
+2017-05-27,3854,Apparel
+2017-05-28,16.4,Social Life
+2017-05-28,2104,Cash
+2017-05-29,17.3,Social Life
+2017-05-29,1844,Apparel
+2017-05-30,17.6,Social Life
+2017-05-30,8813,Gift
+2017-05-31,17.2,Social Life
+2017-05-31,4354,Food
+2017-06-01,17.7,Social Life
+2017-06-01,7092,Allowance
+2017-06-02,14.2,Social Life
+2017-06-02,6614,Beauty
+2017-06-03,16.6,Social Life
+2017-06-03,7414,Cash
+2017-06-04,15.7,Social Life
+2017-06-04,4263,Beauty
+2017-06-05,13.7,Social Life
+2017-06-05,5440,Food
+2017-06-06,14.7,Social Life
+2017-06-06,2702,Other
+2017-06-07,13.1,Social Life
+2017-06-07,5079,Other
+2017-06-08,12.9,Social Life
+2017-06-08,912,Apparel
+2017-06-09,15.4,Social Life
+2017-06-09,7336,Transportation
+2017-06-10,11.9,Social Life
+2017-06-10,398,Transportation
+2017-06-11,15.2,Social Life
+2017-06-11,4478,Beauty
+2017-06-12,15.3,Social Life
+2017-06-12,185,Household
+2017-06-13,16.5,Social Life
+2017-06-13,139,Allowance
+2017-06-14,16.1,Social Life
+2017-06-14,5993,Food
+2017-06-15,11.7,Social Life
+2017-06-15,7234,Transportation
+2017-06-16,11.2,Social Life
+2017-06-16,480,Salary
+2017-06-17,11.5,Social Life
+2017-06-17,5077,Household
+2017-06-18,10.8,Social Life
+2017-06-18,3414,Allowance
+2017-06-19,16.1,Social Life
+2017-06-19,6640,Apparel
+2017-06-20,14.8,Social Life
+2017-06-20,7620,Transportation
+2017-06-21,13.6,Social Life
+2017-06-21,1292,Beauty
+2017-06-22,13.8,Social Life
+2017-06-22,3144,Beauty
+2017-06-23,9.7,Social Life
+2017-06-23,7157,Gift
+2017-06-24,10.7,Social Life
+2017-06-25,11,Social Life
+2017-06-25,5728,Transportation
+2017-06-26,15.3,Social Life
+2017-06-27,15.3,Social Life
+2017-06-27,7629,Apparel
+2017-06-28,17,Social Life
+2017-06-28,6172,Apparel
+2017-06-29,16,Social Life
+2017-06-29,2136,Gift
+2017-06-30,16.3,Social Life
+2017-07-01,15.7,Social Life
+2017-07-01,8628,Allowance
+2017-07-02,14.5,Social Life
+2017-07-03,10.8,Social Life
+2017-07-03,419,Apparel
+2017-07-04,10.5,Social Life
+2017-07-04,2743,Beauty
+2017-07-05,13.4,Social Life
+2017-07-05,2646,Beauty
+2017-07-06,12.2,Social Life
+2017-07-06,760,Other
+2017-07-07,13.2,Social Life
+2017-07-07,6719,Education
+2017-07-08,13,Social Life
+2017-07-08,6659,Cash
+2017-07-09,12.4,Social Life
+2017-07-09,6148,Other
+2017-07-10,13.1,Social Life
+2017-07-10,1956,Gift
+2017-07-11,9.8,Social Life
+2017-07-11,622,Food
+2017-07-12,10.5,Social Life
+2017-07-12,8782,Food
+2017-07-13,13.4,Social Life
+2017-07-13,9251,Other
+2017-07-14,11,Social Life
+2017-07-15,13.1,Social Life
+2017-07-15,8556,Education
+2017-07-16,15,Social Life
+2017-07-16,4627,Gift
+2017-07-17,16.7,Social Life
+2017-07-17,1288,Apparel
+2017-07-18,16.1,Social Life
+2017-07-18,9266,Salary
+2017-07-19,18.2,Social Life
+2017-07-19,1689,Household
+2017-07-20,15.7,Social Life
+2017-07-20,9821,Transportation
+2017-07-21,17.7,Social Life
+2017-07-21,2486,Education
+2017-07-22,15.9,Social Life
+2017-07-22,4087,Allowance
+2017-07-23,15.1,Social Life
+2017-07-23,6743,Beauty
+2017-07-24,15.2,Social Life
+2017-07-24,1541,Transportation
+2017-07-25,14.7,Social Life
+2017-07-25,3305,Allowance
+2017-07-26,13.3,Social Life
+2017-07-26,1748,Food
+2017-07-27,14.5,Social Life
+2017-07-27,9499,Transportation
+2017-07-28,11.1,Social Life
+2017-07-28,7720,Other
+2017-07-29,13.1,Social Life
+2017-07-29,8742,Apparel
+2017-07-30,13.7,Social Life
+2017-07-30,8913,Salary
+2017-07-31,14.6,Social Life
+2017-07-31,3703,Transportation
+2017-08-01,12.9,Social Life
+2017-08-01,2164,Beauty
+2017-08-02,12.8,Social Life
+2017-08-02,1472,Other
+2017-08-03,15.2,Social Life
+2017-08-03,6632,Food
+2017-08-04,14.5,Social Life
+2017-08-04,5545,Cash
+2017-08-05,17.2,Social Life
+2017-08-05,439,Cash
+2017-08-06,14.5,Social Life
+2017-08-06,6782,Education
+2017-08-07,14.4,Social Life
+2017-08-07,3593,Food
+2017-08-08,11,Social Life
+2017-08-08,2009,Salary
+2017-08-09,13.1,Social Life
+2017-08-10,13.6,Social Life
+2017-08-10,8976,Cash
+2017-08-11,14.6,Social Life
+2017-08-11,6546,Beauty
+2017-08-12,12.7,Social Life
+2017-08-12,4471,Transportation
+2017-08-13,13.6,Social Life
+2017-08-13,9262,Household
+2017-08-14,12.7,Social Life
+2017-08-14,3158,Beauty
+2017-08-15,15.5,Social Life
+2017-08-15,5155,Household
+2017-08-16,17.4,Social Life
+2017-08-16,1336,Food
+2017-08-17,15.2,Social Life
+2017-08-17,1464,Beauty
+2017-08-18,14.2,Social Life
+2017-08-18,7745,Gift
+2017-08-19,17.7,Social Life
+2017-08-19,8210,Cash
+2017-08-20,19.2,Social Life
+2017-08-20,1948,Education
+2017-08-21,12.5,Social Life
+2017-08-21,3580,Beauty
+2017-08-22,14.2,Social Life
+2017-08-22,3584,Food
+2017-08-23,15.3,Social Life
+2017-08-23,7412,Apparel
+2017-08-24,15.7,Social Life
+2017-08-24,6319,Gift
+2017-08-25,17,Social Life
+2017-08-25,1978,Cash
+2017-08-26,19,Social Life
+2017-08-26,6672,Salary
+2017-08-27,13.1,Social Life
+2017-08-27,2394,Cash
+2017-08-28,13.2,Social Life
+2017-08-28,55,Beauty
+2017-08-29,13.2,Social Life
+2017-08-29,2544,Gift
+2017-08-30,15.7,Social Life
+2017-08-30,7390,Salary
+2017-08-31,14.1,Social Life
+2017-08-31,1538,Salary
+2017-09-01,15.6,Social Life
+2017-09-01,8458,Education
+2017-09-02,15.5,Social Life
+2017-09-02,8773,Education
+2017-09-03,15.9,Social Life
+2017-09-03,8017,Other
+2017-09-04,15.1,Social Life
+2017-09-04,7766,Salary
+2017-09-05,16,Social Life
+2017-09-06,19.4,Social Life
+2017-09-07,21.5,Social Life
+2017-09-07,232,Transportation
+2017-09-08,23.7,Social Life
+2017-09-08,6426,Gift
+2017-09-09,18.7,Social Life
+2017-09-09,8721,Beauty
+2017-09-10,23.8,Social Life
+2017-09-10,8350,Education
+2017-09-11,18,Social Life
+2017-09-11,8572,Gift
+2017-09-12,16.2,Social Life
+2017-09-12,6113,Salary
+2017-09-13,18.5,Social Life
+2017-09-13,2325,Food
+2017-09-14,20.6,Social Life
+2017-09-14,8079,Food
+2017-09-15,18.3,Social Life
+2017-09-15,7633,Beauty
+2017-09-16,22.5,Social Life
+2017-09-16,9378,Other
+2017-09-17,26.9,Social Life
+2017-09-17,4794,Allowance
+2017-09-18,19.4,Social Life
+2017-09-19,15.9,Social Life
+2017-09-19,7660,Beauty
+2017-09-20,20.5,Social Life
+2017-09-20,5181,Allowance
+2017-09-21,21.2,Social Life
+2017-09-21,7693,Food
+2017-09-22,19.5,Social Life
+2017-09-23,14.7,Social Life
+2017-09-23,8031,Other
+2017-09-24,17.6,Social Life
+2017-09-24,7018,Transportation
+2017-09-25,15.8,Social Life
+2017-09-25,6836,Transportation
+2017-09-26,17.7,Social Life
+2017-09-26,3565,Cash
+2017-09-27,14.3,Social Life
+2017-09-27,4758,Food
+2017-09-28,16.8,Social Life
+2017-09-29,18.6,Social Life
+2017-09-30,21.9,Social Life
+2017-09-30,439,Education
+2017-10-01,21.4,Social Life
+2017-10-01,6950,Other
+2017-10-02,20.8,Social Life
+2017-10-02,6406,Cash
+2017-10-03,14,Social Life
+2017-10-03,2242,Salary
+2017-10-04,17,Social Life
+2017-10-04,7220,Food
+2017-10-05,23,Social Life
+2017-10-05,1578,Allowance
+2017-10-06,26.4,Social Life
+2017-10-06,1575,Cash
+2017-10-07,19.6,Social Life
+2017-10-07,5713,Transportation
+2017-10-08,22.7,Social Life
+2017-10-08,6499,Beauty
+2017-10-09,26.9,Social Life
+2017-10-09,3780,Food
+2017-10-10,14.7,Social Life
+2017-10-11,15.2,Social Life
+2017-10-11,208,Allowance
+2017-10-12,19.8,Social Life
+2017-10-12,161,Food
+2017-10-13,26.9,Social Life
+2017-10-13,5499,Other
+2017-10-14,20.2,Social Life
+2017-10-14,2804,Apparel
+2017-10-15,14.3,Social Life
+2017-10-16,14.8,Social Life
+2017-10-16,4524,Transportation
+2017-10-17,18.5,Social Life
+2017-10-17,2413,Education
+2017-10-18,21.7,Social Life
+2017-10-18,4955,Gift
+2017-10-19,21.4,Social Life
+2017-10-19,6086,Salary
+2017-10-20,21.8,Social Life
+2017-10-20,1093,Beauty
+2017-10-21,18.2,Social Life
+2017-10-21,8600,Gift
+2017-10-22,15.8,Social Life
+2017-10-22,9004,Allowance
+2017-10-23,15.3,Social Life
+2017-10-23,1644,Gift
+2017-10-24,18.5,Social Life
+2017-10-24,3838,Food
+2017-10-25,19.2,Social Life
+2017-10-25,6311,Household
+2017-10-26,28.5,Social Life
+2017-10-26,1852,Cash
+2017-10-27,32.2,Social Life
+2017-10-27,8179,Transportation
+2017-10-28,21.8,Social Life
+2017-10-28,3610,Gift
+2017-10-29,22.1,Social Life
+2017-10-29,2146,Cash
+2017-10-30,20.7,Social Life
+2017-10-30,4650,Gift
+2017-10-31,17,Social Life
+2017-10-31,1583,Education
+2017-11-01,24.7,Social Life
+2017-11-01,3756,Cash
+2017-11-02,26.2,Social Life
+2017-11-02,7346,Household
+2017-11-03,29,Social Life
+2017-11-03,6639,Gift
+2017-11-04,21.6,Social Life
+2017-11-04,6403,Other
+2017-11-05,17.1,Social Life
+2017-11-05,193,Other
+2017-11-06,16.9,Social Life
+2017-11-06,5410,Apparel
+2017-11-07,19.1,Social Life
+2017-11-07,9182,Transportation
+2017-11-08,24.7,Social Life
+2017-11-08,2187,Allowance
+2017-11-09,25.4,Social Life
+2017-11-09,1436,Apparel
+2017-11-10,19.8,Social Life
+2017-11-10,5983,Other
+2017-11-11,18.2,Social Life
+2017-11-11,5226,Allowance
+2017-11-12,16.3,Social Life
+2017-11-12,8044,Education
+2017-11-13,17,Social Life
+2017-11-13,5357,Transportation
+2017-11-14,17.7,Social Life
+2017-11-14,6296,Beauty
+2017-11-15,15.5,Social Life
+2017-11-15,4127,Allowance
+2017-11-16,14.7,Social Life
+2017-11-16,9034,Cash
+2017-11-17,15.8,Social Life
+2017-11-17,7917,Gift
+2017-11-18,19.9,Social Life
+2017-11-18,8345,Household
+2017-11-19,20.4,Social Life
+2017-11-19,7016,Education
+2017-11-20,23.3,Social Life
+2017-11-20,4475,Household
+2017-11-21,20.2,Social Life
+2017-11-21,9073,Transportation
+2017-11-22,28.8,Social Life
+2017-11-22,9669,Transportation
+2017-11-23,31.2,Social Life
+2017-11-24,17.4,Social Life
+2017-11-24,7066,Other
+2017-11-25,18.5,Social Life
+2017-11-26,26.8,Social Life
+2017-11-26,6377,Apparel
+2017-11-27,34.3,Social Life
+2017-11-27,1053,Food
+2017-11-28,30.1,Social Life
+2017-11-28,6502,Apparel
+2017-11-29,20.5,Social Life
+2017-11-29,2978,Education
+2017-11-30,20.5,Social Life
+2017-11-30,3431,Allowance
+2017-12-01,19.8,Social Life
+2017-12-01,7940,Food
+2017-12-02,27,Social Life
+2017-12-02,5033,Beauty
+2017-12-03,21,Social Life
+2017-12-03,2342,Other
+2017-12-04,33,Social Life
+2017-12-05,22.6,Social Life
+2017-12-05,1849,Food
+2017-12-06,28.3,Social Life
+2017-12-06,8868,Gift
+2017-12-07,21.1,Social Life
+2017-12-07,5990,Apparel
+2017-12-08,19,Social Life
+2017-12-08,5272,Transportation
+2017-12-09,17.3,Social Life
+2017-12-09,5898,Household
+2017-12-10,27,Social Life
+2017-12-10,256,Apparel
+2017-12-11,30.2,Social Life
+2017-12-11,4651,Allowance
+2017-12-12,24.8,Social Life
+2017-12-12,3444,Beauty
+2017-12-13,17.9,Social Life
+2017-12-13,1294,Transportation
+2017-12-14,17.9,Social Life
+2017-12-14,4589,Transportation
+2017-12-15,20.7,Social Life
+2017-12-15,7670,Salary
+2017-12-16,30.9,Social Life
+2017-12-16,9912,Apparel
+2017-12-17,36.2,Social Life
+2017-12-17,3196,Allowance
+2017-12-18,21,Social Life
+2017-12-18,9589,Household
+2017-12-19,20.2,Social Life
+2017-12-19,9768,Other
+2017-12-20,21.3,Social Life
+2017-12-20,6628,Household
+2017-12-21,24.2,Social Life
+2017-12-21,7005,Other
+2017-12-22,21,Social Life
+2017-12-22,96,Apparel
+2017-12-23,20.7,Social Life
+2017-12-24,17.8,Social Life
+2017-12-24,9043,Education
+2017-12-25,19.6,Social Life
+2017-12-26,22.6,Social Life
+2017-12-26,632,Food
+2017-12-27,20.5,Social Life
+2017-12-27,1364,Transportation
+2017-12-28,24.1,Social Life
+2017-12-28,4307,Gift
+2017-12-29,22.2,Social Life
+2017-12-29,3942,Allowance
+2017-12-30,27,Social Life
+2017-12-30,5664,Education
+2017-12-31,33.6,Social Life
+2017-12-31,8494,Beauty
+2018-01-01,26.6,Social Life
+2018-01-01,9997,Food
+2018-01-02,20.6,Social Life
+2018-01-02,8658,Other
+2018-01-03,24.5,Social Life
+2018-01-03,3592,Transportation
+2018-01-04,19.8,Social Life
+2018-01-04,7261,Gift
+2018-01-05,22.6,Social Life
+2018-01-05,5245,Apparel
+2018-01-06,29.2,Social Life
+2018-01-06,6830,Transportation
+2018-01-07,20.3,Social Life
+2018-01-08,23,Social Life
+2018-01-08,6379,Allowance
+2018-01-09,24.4,Social Life
+2018-01-09,8670,Allowance
+2018-01-10,38,Social Life
+2018-01-10,6293,Household
+2018-01-11,40.5,Social Life
+2018-01-11,7124,Beauty
+2018-01-12,24.2,Social Life
+2018-01-12,2820,Food
+2018-01-13,20.2,Social Life
+2018-01-14,21.8,Social Life
+2018-01-14,9513,Salary
+2018-01-15,27,Social Life
+2018-01-15,1784,Cash
+2018-01-16,35.2,Social Life
+2018-01-16,837,Beauty
+2018-01-17,25.2,Social Life
+2018-01-17,9632,Apparel
+2018-01-18,32.7,Social Life
+2018-01-18,1819,Beauty
+2018-01-19,35.9,Social Life
+2018-01-20,38.9,Social Life
+2018-01-20,4826,Allowance
+2018-01-21,26.5,Social Life
+2018-01-21,1386,Household
+2018-01-22,21.8,Social Life
+2018-01-22,8697,Cash
+2018-01-23,37.9,Social Life
+2018-01-23,9081,Allowance
+2018-01-24,43.3,Social Life
+2018-01-24,7793,Cash
+2018-01-25,19,Social Life
+2018-01-25,2622,Gift
+2018-01-26,19.7,Social Life
+2018-01-26,7372,Household
+2018-01-27,21.4,Social Life
+2018-01-27,3324,Other
+2018-01-28,32,Social Life
+2018-01-29,33.3,Social Life
+2018-01-29,8702,Cash
+2018-01-30,22.2,Social Life
+2018-01-30,7433,Beauty
+2018-01-31,21.3,Social Life
+2018-01-31,7623,Apparel
+2018-02-01,20.8,Social Life
+2018-02-01,2364,Transportation
+2018-02-02,22.3,Social Life
+2018-02-02,7551,Education
+2018-02-03,22.5,Social Life
+2018-02-03,9432,Salary
+2018-02-04,21.4,Social Life
+2018-02-04,3190,Salary
+2018-02-05,23,Social Life
+2018-02-05,1061,Cash
+2018-02-06,35.1,Social Life
+2018-02-07,40.3,Social Life
+2018-02-07,7866,Allowance
+2018-02-08,39,Social Life
+2018-02-08,7915,Salary
+2018-02-09,21.1,Social Life
+2018-02-09,7217,Education
+2018-02-10,25.4,Social Life
+2018-02-10,7408,Food
+2018-02-11,23.6,Social Life
+2018-02-11,514,Allowance
+2018-02-12,28.1,Social Life
+2018-02-12,6738,Salary
+2018-02-13,37,Social Life
+2018-02-13,4254,Cash
+2018-02-14,39.3,Social Life
+2018-02-14,2790,Allowance
+2018-02-15,39.4,Social Life
+2018-02-15,735,Education
+2018-02-16,25.8,Social Life
+2018-02-16,2387,Apparel
+2018-02-17,27.7,Social Life
+2018-02-17,8802,Gift
+2018-02-18,23,Social Life
+2018-02-18,8600,Beauty
+2018-02-19,24,Social Life
+2018-02-19,5946,Gift
+2018-02-20,26.1,Social Life
+2018-02-20,4294,Other
+2018-02-21,21.8,Social Life
+2018-02-21,5702,Gift
+2018-02-22,24.2,Social Life
+2018-02-22,8579,Other
+2018-02-23,22.3,Social Life
+2018-02-23,9078,Salary
+2018-02-24,19.7,Social Life
+2018-02-24,9082,Salary
+2018-02-25,20.8,Social Life
+2018-02-25,7195,Beauty
+2018-02-26,17.9,Social Life
+2018-02-26,4197,Allowance
+2018-02-27,20.1,Social Life
+2018-02-27,9214,Transportation
+2018-02-28,20.9,Social Life
+2018-02-28,5260,Beauty
+2018-03-01,21.2,Social Life
+2018-03-01,3838,Education
+2018-03-02,20.4,Social Life
+2018-03-02,146,Gift
+2018-03-03,29,Social Life
+2018-03-03,8741,Apparel
+2018-03-04,34.7,Social Life
+2018-03-04,3746,Beauty
+2018-03-05,34,Social Life
+2018-03-05,8421,Allowance
+2018-03-06,30.9,Social Life
+2018-03-06,3428,Apparel
+2018-03-07,29.6,Social Life
+2018-03-07,740,Cash
+2018-03-08,26.1,Social Life
+2018-03-08,5610,Salary
+2018-03-09,18.5,Social Life
+2018-03-09,7331,Gift
+2018-03-10,21.2,Social Life
+2018-03-10,4175,Other
+2018-03-11,22.4,Social Life
+2018-03-11,8107,Cash
+2018-03-12,21.4,Social Life
+2018-03-12,7858,Other
+2018-03-13,30.5,Social Life
+2018-03-13,79,Gift
+2018-03-14,32,Social Life
+2018-03-14,6998,Food
+2018-03-15,32.7,Social Life
+2018-03-15,2763,Gift
+2018-03-16,27.4,Social Life
+2018-03-17,18.9,Social Life
+2018-03-17,1958,Gift
+2018-03-18,19.4,Social Life
+2018-03-18,2675,Transportation
+2018-03-19,22.2,Social Life
+2018-03-19,2662,Other
+2018-03-20,30.2,Social Life
+2018-03-20,7786,Beauty
+2018-03-21,31.8,Social Life
+2018-03-21,4991,Other
+2018-03-22,31.4,Social Life
+2018-03-22,9947,Transportation
+2018-03-23,18.5,Social Life
+2018-03-23,1407,Cash
+2018-03-24,22.2,Social Life
+2018-03-25,27.5,Social Life
+2018-03-25,4687,Gift
+2018-03-26,25.8,Social Life
+2018-03-26,5496,Gift
+2018-03-27,25.2,Social Life
+2018-03-27,111,Salary
+2018-03-28,19.1,Social Life
+2018-03-28,9881,Other
+2018-03-29,19.6,Social Life
+2018-03-29,1803,Salary
+2018-03-30,21.4,Social Life
+2018-03-30,9629,Education
+2018-03-31,20.7,Social Life
+2018-03-31,7111,Education
+2018-04-01,28.3,Social Life
+2018-04-01,9944,Education
+2018-04-02,23,Social Life
+2018-04-02,4113,Gift
+2018-04-03,16.5,Social Life
+2018-04-03,172,Gift
+2018-04-04,18.8,Social Life
+2018-04-04,9363,Salary
+2018-04-05,20,Social Life
+2018-04-05,4157,Cash
+2018-04-06,20.6,Social Life
+2018-04-06,4672,Apparel
+2018-04-07,19.8,Social Life
+2018-04-07,4183,Apparel
+2018-04-08,20.3,Social Life
+2018-04-08,6036,Cash
+2018-04-09,26.6,Social Life
+2018-04-09,1898,Food
+2018-04-10,21.5,Social Life
+2018-04-11,22.3,Social Life
+2018-04-11,402,Food
+2018-04-12,26.5,Social Life
+2018-04-12,9959,Gift
+2018-04-13,27.1,Social Life
+2018-04-13,6458,Education
+2018-04-14,30,Social Life
+2018-04-14,1622,Other
+2018-04-15,28.2,Social Life
+2018-04-15,5201,Apparel
+2018-04-16,17.3,Social Life
+2018-04-16,5381,Cash
+2018-04-17,16.8,Social Life
+2018-04-17,5096,Household
+2018-04-18,17.5,Social Life
+2018-04-18,3924,Cash
+2018-04-19,19.2,Social Life
+2018-04-19,5215,Cash
+2018-04-20,20.3,Social Life
+2018-04-20,9972,Household
+2018-04-21,20.6,Social Life
+2018-04-21,7790,Food
+2018-04-22,23.7,Social Life
+2018-04-22,7883,Beauty
+2018-04-23,24.3,Social Life
+2018-04-23,5343,Transportation
+2018-04-24,26.4,Social Life
+2018-04-24,1139,Food
+2018-04-25,16,Social Life
+2018-04-25,6856,Beauty
+2018-04-26,14.5,Social Life
+2018-04-26,1183,Household
+2018-04-27,14.2,Social Life
+2018-04-27,2891,Allowance
+2018-04-28,16.5,Social Life
+2018-04-28,9617,Food
+2018-04-29,15.7,Social Life
+2018-04-29,3343,Salary
+2018-04-30,16,Social Life
+2018-04-30,938,Food
+2018-05-01,16.7,Social Life
+2018-05-01,281,Household
+2018-05-02,19.8,Social Life
+2018-05-02,7634,Transportation
+2018-05-03,22.5,Social Life
+2018-05-03,7176,Food
+2018-05-04,22.9,Social Life
+2018-05-04,9980,Education
+2018-05-05,18.8,Social Life
+2018-05-05,2098,Allowance
+2018-05-06,15.7,Social Life
+2018-05-06,2555,Apparel
+2018-05-07,14.7,Social Life
+2018-05-07,6527,Household
+2018-05-08,15.3,Social Life
+2018-05-08,2496,Other
+2018-05-09,15.3,Social Life
+2018-05-10,18,Social Life
+2018-05-10,525,Cash
+2018-05-11,15.1,Social Life
+2018-05-11,3725,Allowance
+2018-05-12,15.1,Social Life
+2018-05-12,660,Food
+2018-05-13,13.6,Social Life
+2018-05-13,3137,Gift
+2018-05-14,15.3,Social Life
+2018-05-14,309,Other
+2018-05-15,18,Social Life
+2018-05-15,8362,Cash
+2018-05-16,18.6,Social Life
+2018-05-16,7647,Education
+2018-05-17,22,Social Life
+2018-05-17,6009,Food
+2018-05-18,22.1,Social Life
+2018-05-18,6347,Food
+2018-05-19,17.8,Social Life
+2018-05-19,7158,Education
+2018-05-20,15.2,Social Life
+2018-05-20,8041,Other
+2018-05-21,11.3,Social Life
+2018-05-21,7149,Allowance
+2018-05-22,13.5,Social Life
+2018-05-22,7456,Allowance
+2018-05-23,16.1,Social Life
+2018-05-23,7115,Education
+2018-05-24,16,Social Life
+2018-05-24,6449,Household
+2018-05-25,16.5,Social Life
+2018-05-26,16.7,Social Life
+2018-05-26,2901,Beauty
+2018-05-27,19.6,Social Life
+2018-05-28,19.5,Social Life
+2018-05-28,9535,Other
+2018-05-29,18,Social Life
+2018-05-29,1569,Education
+2018-05-30,18.4,Social Life
+2018-05-30,7529,Beauty
+2018-05-31,12.9,Social Life
+2018-05-31,5909,Food
+2018-06-01,14.9,Social Life
+2018-06-01,1003,Other
+2018-06-02,12.4,Social Life
+2018-06-02,6520,Cash
+2018-06-03,11.9,Social Life
+2018-06-03,1437,Beauty
+2018-06-04,11.7,Social Life
+2018-06-04,3932,Gift
+2018-06-05,12.9,Social Life
+2018-06-05,325,Gift
+2018-06-06,12.9,Social Life
+2018-06-06,5295,Salary
+2018-06-07,12.4,Social Life
+2018-06-07,1368,Cash
+2018-06-08,12.5,Social Life
+2018-06-08,3745,Salary
+2018-06-09,15.7,Social Life
+2018-06-09,5962,Gift
+2018-06-10,15.9,Social Life
+2018-06-10,4058,Transportation
+2018-06-11,14.3,Social Life
+2018-06-11,9930,Education
+2018-06-12,16.9,Social Life
+2018-06-12,6388,Other
+2018-06-13,14,Social Life
+2018-06-13,9219,Gift
+2018-06-14,13.6,Social Life
+2018-06-14,3705,Education
+2018-06-15,13.7,Social Life
+2018-06-15,9543,Transportation
+2018-06-16,16,Social Life
+2018-06-16,3291,Other
+2018-06-17,13.1,Social Life
+2018-06-17,5224,Education
+2018-06-18,13.8,Social Life
+2018-06-18,5339,Allowance
+2018-06-19,13.4,Social Life
+2018-06-19,355,Food
+2018-06-20,11.3,Social Life
+2018-06-20,5885,Gift
+2018-06-21,10.6,Social Life
+2018-06-21,2618,Apparel
+2018-06-22,13.9,Social Life
+2018-06-22,569,Food
+2018-06-23,12.7,Social Life
+2018-06-23,3125,Cash
+2018-06-24,12.5,Social Life
+2018-06-25,11.3,Social Life
+2018-06-25,404,Cash
+2018-06-26,11.6,Social Life
+2018-06-26,1627,Education
+2018-06-27,14,Social Life
+2018-06-27,9411,Beauty
+2018-06-28,13.7,Social Life
+2018-06-28,9814,Salary
+2018-06-29,15.2,Social Life
+2018-06-29,731,Apparel
+2018-06-30,14,Social Life
+2018-06-30,699,Cash
+2018-07-01,11.4,Social Life
+2018-07-01,9578,Transportation
+2018-07-02,14.2,Social Life
+2018-07-02,4210,Gift
+2018-07-03,15.2,Social Life
+2018-07-03,7488,Household
+2018-07-04,12.6,Social Life
+2018-07-04,8900,Other
+2018-07-05,10.2,Social Life
+2018-07-05,6879,Transportation
+2018-07-06,13.9,Social Life
+2018-07-06,3326,Apparel
+2018-07-07,13.7,Social Life
+2018-07-07,8937,Education
+2018-07-08,13.6,Social Life
+2018-07-08,570,Food
+2018-07-09,13.2,Social Life
+2018-07-09,4391,Transportation
+2018-07-10,15.4,Social Life
+2018-07-10,3498,Other
+2018-07-11,12.9,Social Life
+2018-07-11,2935,Gift
+2018-07-12,11.9,Social Life
+2018-07-12,4174,Beauty
+2018-07-13,13.3,Social Life
+2018-07-13,8035,Gift
+2018-07-14,13.3,Social Life
+2018-07-14,8187,Beauty
+2018-07-15,10.5,Social Life
+2018-07-15,1199,Household
+2018-07-16,10,Social Life
+2018-07-16,7616,Other
+2018-07-17,11,Social Life
+2018-07-17,1518,Household
+2018-07-18,8.3,Social Life
+2018-07-18,4566,Household
+2018-07-19,10.7,Social Life
+2018-07-19,3102,Salary
+2018-07-20,11.2,Social Life
+2018-07-20,9459,Education
+2018-07-21,11.7,Social Life
+2018-07-21,981,Apparel
+2018-07-22,14.2,Social Life
+2018-07-22,6037,Salary
+2018-07-23,14.5,Social Life
+2018-07-23,8224,Apparel
+2018-07-24,16,Social Life
+2018-07-24,633,Apparel
+2018-07-25,16.7,Social Life
+2018-07-25,3683,Education
+2018-07-26,14.4,Social Life
+2018-07-26,1221,Gift
+2018-07-27,17,Social Life
+2018-07-27,9420,Food
+2018-07-28,14.6,Social Life
+2018-07-28,9757,Gift
+2018-07-29,11.6,Social Life
+2018-07-29,9032,Transportation
+2018-07-30,12.8,Social Life
+2018-07-30,248,Education
+2018-07-31,14,Social Life
+2018-08-01,17.1,Social Life
+2018-08-01,896,Gift
+2018-08-02,15.4,Social Life
+2018-08-02,7076,Gift
+2018-08-03,15.5,Social Life
+2018-08-03,6438,Allowance
+2018-08-04,15.1,Social Life
+2018-08-04,1598,Household
+2018-08-05,16.9,Social Life
+2018-08-05,3715,Allowance
+2018-08-06,14.2,Social Life
+2018-08-06,2263,Other
+2018-08-07,15.9,Social Life
+2018-08-07,696,Cash
+2018-08-08,18.2,Social Life
+2018-08-08,6254,Food
+2018-08-09,19.5,Social Life
+2018-08-09,9770,Food
+2018-08-10,19.5,Social Life
+2018-08-10,4235,Apparel
+2018-08-11,19.8,Social Life
+2018-08-12,15.6,Social Life
+2018-08-12,7208,Cash
+2018-08-13,14.1,Social Life
+2018-08-13,4065,Household
+2018-08-14,17,Social Life
+2018-08-14,7611,Gift
+2018-08-15,14.3,Social Life
+2018-08-15,3014,Cash
+2018-08-16,13.1,Social Life
+2018-08-16,3466,Transportation
+2018-08-17,13.7,Social Life
+2018-08-17,3442,Salary
+2018-08-18,18.2,Social Life
+2018-08-18,2961,Transportation
+2018-08-19,19.8,Social Life
+2018-08-19,7427,Other
+2018-08-20,22.3,Social Life
+2018-08-20,1070,Household
+2018-08-21,17.8,Social Life
+2018-08-21,2865,Allowance
+2018-08-22,15,Social Life
+2018-08-22,2259,Beauty
+2018-08-23,22.6,Social Life
+2018-08-23,8872,Education
+2018-08-24,23.7,Social Life
+2018-08-25,15.8,Social Life
+2018-08-25,1069,Household
+2018-08-26,15,Social Life
+2018-08-26,1555,Beauty
+2018-08-27,23.5,Social Life
+2018-08-27,5915,Gift
+2018-08-28,25.7,Social Life
+2018-08-28,8259,Other
+2018-08-29,26.5,Social Life
+2018-08-29,3348,Salary
+2018-08-30,15.1,Social Life
+2018-08-30,9376,Beauty
+2018-08-31,13.9,Social Life
+2018-08-31,6743,Salary
+2018-09-01,20.5,Social Life
+2018-09-01,2485,Cash
+2018-09-02,21.4,Social Life
+2018-09-02,265,Beauty
+2018-09-03,14.9,Social Life
+2018-09-03,6347,Household
+2018-09-04,15,Social Life
+2018-09-04,5483,Food
+2018-09-05,18.9,Social Life
+2018-09-05,3430,Other
+2018-09-06,11.7,Social Life
+2018-09-06,3658,Apparel
+2018-09-07,15.5,Social Life
+2018-09-08,17.7,Social Life
+2018-09-08,5058,Household
+2018-09-09,11,Social Life
+2018-09-09,9694,Food
+2018-09-10,14.9,Social Life
+2018-09-10,4687,Beauty
+2018-09-11,13.1,Social Life
+2018-09-11,5235,Other
+2018-09-12,13.7,Social Life
+2018-09-12,4610,Household
+2018-09-13,15.4,Social Life
+2018-09-13,4689,Food
+2018-09-14,15.6,Social Life
+2018-09-14,9334,Beauty
+2018-09-15,23.9,Social Life
+2018-09-16,23.7,Social Life
+2018-09-17,24.3,Social Life
+2018-09-17,8115,Gift
+2018-09-18,15.9,Social Life
+2018-09-18,6299,Other
+2018-09-19,13.5,Social Life
+2018-09-19,6872,Gift
+2018-09-20,15.3,Social Life
+2018-09-20,3317,Gift
+2018-09-21,19.3,Social Life
+2018-09-21,1501,Apparel
+2018-09-22,20.5,Social Life
+2018-09-22,8057,Education
+2018-09-23,22.5,Social Life
+2018-09-23,1679,Beauty
+2018-09-24,23.2,Social Life
+2018-09-24,8962,Allowance
+2018-09-25,16.3,Social Life
+2018-09-25,1342,Salary
+2018-09-26,14.8,Social Life
+2018-09-26,2949,Cash
+2018-09-27,13.7,Social Life
+2018-09-27,6621,Household
+2018-09-28,18.4,Social Life
+2018-09-29,12.3,Social Life
+2018-09-29,4873,Food
+2018-09-30,13.3,Social Life
+2018-10-01,16.2,Social Life
+2018-10-01,9773,Beauty
+2018-10-02,25.6,Social Life
+2018-10-02,3442,Other
+2018-10-03,24.1,Social Life
+2018-10-03,3186,Food
+2018-10-04,13.8,Social Life
+2018-10-04,623,Beauty
+2018-10-05,15.9,Social Life
+2018-10-05,7142,Salary
+2018-10-06,21.2,Social Life
+2018-10-06,8718,Allowance
+2018-10-07,21.7,Social Life
+2018-10-07,3660,Food
+2018-10-08,15.6,Social Life
+2018-10-08,9427,Apparel
+2018-10-09,13.5,Social Life
+2018-10-09,943,Beauty
+2018-10-10,15,Social Life
+2018-10-10,2102,Household
+2018-10-11,21.2,Social Life
+2018-10-11,9173,Food
+2018-10-12,25.4,Social Life
+2018-10-12,8717,Other
+2018-10-13,19,Social Life
+2018-10-13,1539,Transportation
+2018-10-14,15,Social Life
+2018-10-15,16.4,Social Life
+2018-10-15,5297,Apparel
+2018-10-16,15.6,Social Life
+2018-10-16,1197,Food
+2018-10-17,13.7,Social Life
+2018-10-17,6173,Transportation
+2018-10-18,22,Social Life
+2018-10-18,215,Education
+2018-10-19,17.4,Social Life
+2018-10-19,3946,Salary
+2018-10-20,15.1,Social Life
+2018-10-20,5578,Gift
+2018-10-21,14.6,Social Life
+2018-10-21,930,Transportation
+2018-10-22,16.9,Social Life
+2018-10-22,7262,Transportation
+2018-10-23,15.9,Social Life
+2018-10-23,6892,Beauty
+2018-10-24,21.3,Social Life
+2018-10-24,93,Household
+2018-10-25,29.7,Social Life
+2018-10-25,8756,Gift
+2018-10-26,33,Social Life
+2018-10-26,4012,Gift
+2018-10-27,22.7,Social Life
+2018-10-27,9569,Cash
+2018-10-28,21.6,Social Life
+2018-10-28,5970,Cash
+2018-10-29,30.3,Social Life
+2018-10-29,8422,Apparel
+2018-10-30,19,Social Life
+2018-10-30,4739,Salary
+2018-10-31,14.6,Social Life
+2018-10-31,7462,Salary
+2018-11-01,15.9,Social Life
+2018-11-01,9444,Allowance
+2018-11-02,20.4,Social Life
+2018-11-02,3561,Beauty
+2018-11-03,29.3,Social Life
+2018-11-04,33.7,Social Life
+2018-11-04,5634,Food
+2018-11-05,35.2,Social Life
+2018-11-05,1513,Salary
+2018-11-06,38.1,Social Life
+2018-11-06,9464,Apparel
+2018-11-07,24.5,Social Life
+2018-11-07,6593,Household
+2018-11-08,26.3,Social Life
+2018-11-08,9824,Education
+2018-11-09,25,Social Life
+2018-11-09,9503,Other
+2018-11-10,17.9,Social Life
+2018-11-10,3902,Apparel
+2018-11-11,18.1,Social Life
+2018-11-11,4483,Food
+2018-11-12,23.3,Social Life
+2018-11-12,3973,Salary
+2018-11-13,31.2,Social Life
+2018-11-13,1166,Transportation
+2018-11-14,32.8,Social Life
+2018-11-14,1192,Beauty
+2018-11-15,28,Social Life
+2018-11-15,1072,Other
+2018-11-16,19.7,Social Life
+2018-11-17,22.1,Social Life
+2018-11-17,761,Cash
+2018-11-18,16.3,Social Life
+2018-11-18,1191,Salary
+2018-11-19,20.1,Social Life
+2018-11-19,9642,Food
+2018-11-20,21.7,Social Life
+2018-11-21,19.6,Social Life
+2018-11-21,9361,Other
+2018-11-22,30.8,Social Life
+2018-11-23,36.8,Social Life
+2018-11-23,8300,Cash
+2018-11-24,38.1,Social Life
+2018-11-24,5060,Salary
+2018-11-25,17.6,Social Life
+2018-11-26,21.2,Social Life
+2018-11-26,2486,Allowance
+2018-11-27,17.2,Social Life
+2018-11-27,8771,Salary
+2018-11-28,20.7,Social Life
+2018-11-28,2176,Allowance
+2018-11-29,26.1,Social Life
+2018-11-29,5500,Apparel
+2018-11-30,34.5,Social Life
+2018-11-30,5871,Salary
+2018-12-01,18.6,Social Life
+2018-12-01,8605,Education
+2018-12-02,20.1,Social Life
+2018-12-02,8547,Gift
+2018-12-03,22.4,Social Life
+2018-12-03,9432,Salary
+2018-12-04,19.1,Social Life
+2018-12-04,7158,Cash
+2018-12-05,19.2,Social Life
+2018-12-05,9847,Salary
+2018-12-06,28,Social Life
+2018-12-06,5594,Gift
+2018-12-07,17.9,Social Life
+2018-12-07,4141,Apparel
+2018-12-08,18.1,Social Life
+2018-12-08,4505,Apparel
+2018-12-09,16,Social Life
+2018-12-09,6084,Transportation
+2018-12-10,18.5,Social Life
+2018-12-10,7777,Household
+2018-12-11,20.6,Social Life
+2018-12-11,8127,Education
+2018-12-12,33,Social Life
+2018-12-12,9287,Salary
+2018-12-13,35.2,Social Life
+2018-12-13,2487,Household
+2018-12-14,24,Social Life
+2018-12-14,4776,Gift
+2018-12-15,26,Social Life
+2018-12-15,4306,Household
+2018-12-16,28,Social Life
+2018-12-16,7402,Allowance
+2018-12-17,23,Social Life
+2018-12-17,2577,Beauty
+2018-12-18,19,Social Life
+2018-12-18,6443,Cash
+2018-12-19,19.1,Social Life
+2018-12-19,6457,Allowance
+2018-12-20,18,Social Life
+2018-12-20,7129,Gift
+2018-12-21,19.4,Social Life
+2018-12-21,7827,Allowance
+2018-12-22,32.5,Social Life
+2018-12-22,8521,Household
+2018-12-23,32.6,Social Life
+2018-12-23,7794,Salary
+2018-12-24,18.1,Social Life
+2018-12-24,3354,Gift
+2018-12-25,19.7,Social Life
+2018-12-25,442,Beauty
+2018-12-26,28,Social Life
+2018-12-26,3526,Beauty
+2018-12-27,28,Social Life
+2018-12-27,8726,Food
+2018-12-28,23.8,Social Life
+2018-12-28,5674,Beauty
+2018-12-29,31.4,Social Life
+2018-12-29,5998,Apparel
+2018-12-30,22,Social Life
+2018-12-30,3279,Gift
+2018-12-31,35.8,Social Life
+2019-01-01,23,Social Life
+2019-01-01,4757,Gift
+2019-01-02,18.9,Social Life
+2019-01-02,3244,Education
+2019-01-03,25.4,Social Life
+2019-01-03,1114,Beauty
+2019-01-04,28,Social Life
+2019-01-04,4716,Gift
+2019-01-05,19.2,Social Life
+2019-01-05,4495,Household
+2019-01-06,21.5,Social Life
+2019-01-06,3545,Apparel
+2019-01-07,28.8,Social Life
+2019-01-07,4087,Beauty
+2019-01-08,37.3,Social Life
+2019-01-08,1393,Cash
+2019-01-09,24.6,Social Life
+2019-01-09,4825,Allowance
+2019-01-10,21.3,Social Life
+2019-01-10,6534,Apparel
+2019-01-11,17.9,Social Life
+2019-01-11,1516,Salary
+2019-01-12,17.5,Social Life
+2019-01-12,4041,Household
+2019-01-13,18.7,Social Life
+2019-01-13,2861,Education
+2019-01-14,18.1,Social Life
+2019-01-14,9657,Apparel
+2019-01-15,19.7,Social Life
+2019-01-15,1426,Education
+2019-01-16,22.1,Social Life
+2019-01-16,4756,Cash
+2019-01-17,19.6,Social Life
+2019-01-17,6410,Food
+2019-01-18,18,Social Life
+2019-01-18,6174,Other
+2019-01-19,19.9,Social Life
+2019-01-19,2828,Apparel
+2019-01-20,28.5,Social Life
+2019-01-20,9762,Household
+2019-01-21,23,Social Life
+2019-01-21,7156,Allowance
+2019-01-22,37,Social Life
+2019-01-22,7935,Cash
+2019-01-23,19,Social Life
+2019-01-23,1735,Salary
+2019-01-24,19.4,Social Life
+2019-01-25,35,Social Life
+2019-01-25,8794,Apparel
+2019-01-26,27.7,Social Life
+2019-01-26,6956,Household
+2019-01-27,23.9,Social Life
+2019-01-27,2544,Gift
+2019-01-28,25.6,Social Life
+2019-01-28,9487,Gift
+2019-01-29,27.7,Social Life
+2019-01-29,1213,Beauty
+2019-01-30,24.3,Social Life
+2019-01-30,2221,Other
+2019-01-31,38.6,Social Life
+2019-01-31,2842,Allowance
+2019-02-01,41.2,Social Life
+2019-02-01,2565,Beauty
+2019-02-02,22,Social Life
+2019-02-02,7209,Education
+2019-02-03,22.5,Social Life
+2019-02-03,429,Allowance
+2019-02-04,22.3,Social Life
+2019-02-04,8032,Other
+2019-02-05,25.5,Social Life
+2019-02-05,8156,Other
+2019-02-06,36.6,Social Life
+2019-02-06,8816,Apparel
+2019-02-07,35.7,Social Life
+2019-02-08,43.2,Social Life
+2019-02-08,6620,Beauty
+2019-02-09,28,Social Life
+2019-02-09,9234,Education
+2019-02-10,25.5,Social Life
+2019-02-11,21.6,Social Life
+2019-02-11,4540,Cash
+2019-02-12,21.8,Social Life
+2019-02-12,3745,Apparel
+2019-02-13,23.3,Social Life
+2019-02-13,7944,Beauty
+2019-02-14,34.3,Social Life
+2019-02-14,8100,Household
+2019-02-15,31.2,Social Life
+2019-02-15,7758,Household
+2019-02-16,43,Social Life
+2019-02-16,8670,Apparel
+2019-02-17,20.2,Social Life
+2019-02-17,1710,Transportation
+2019-02-18,20.3,Social Life
+2019-02-19,22.2,Social Life
+2019-02-20,24,Social Life
+2019-02-20,4017,Allowance
+2019-02-21,34.4,Social Life
+2019-02-21,4168,Beauty
+2019-02-22,32.9,Social Life
+2019-02-22,8175,Salary
+2019-02-23,21.6,Social Life
+2019-02-23,4277,Other
+2019-02-24,26.5,Social Life
+2019-02-24,6155,Apparel
+2019-02-25,33.2,Social Life
+2019-02-25,8898,Transportation
+2019-02-26,38.6,Social Life
+2019-02-26,1411,Household
+2019-02-27,24.4,Social Life
+2019-02-27,2312,Education
+2019-02-28,28.3,Social Life
+2019-02-28,6613,Transportation
+2019-03-01,35.2,Social Life
+2019-03-01,7134,Apparel
+2019-03-02,28.7,Social Life
+2019-03-02,7852,Education
+2019-03-03,35.6,Social Life
+2019-03-03,7618,Transportation
+2019-03-04,37.2,Social Life
+2019-03-04,1306,Household
+2019-03-05,25.5,Social Life
+2019-03-05,6585,Allowance
+2019-03-06,31.5,Social Life
+2019-03-06,2389,Apparel
+2019-03-07,30.2,Social Life
+2019-03-07,4686,Other
+2019-03-08,29,Social Life
+2019-03-08,8119,Cash
+2019-03-09,21.4,Social Life
+2019-03-09,5754,Apparel
+2019-03-10,28.5,Social Life
+2019-03-10,8387,Gift
+2019-03-11,32.1,Social Life
+2019-03-12,23.5,Social Life
+2019-03-12,7194,Apparel
+2019-03-13,20,Social Life
+2019-03-14,21,Social Life
+2019-03-14,220,Salary
+2019-03-15,20,Social Life
+2019-03-15,5058,Apparel
+2019-03-16,21.8,Social Life
+2019-03-16,7564,Transportation
+2019-03-17,24.3,Social Life
+2019-03-17,1240,Gift
+2019-03-18,30.9,Social Life
+2019-03-19,21.6,Social Life
+2019-03-19,5140,Allowance
+2019-03-20,22.2,Social Life
+2019-03-20,9036,Food
+2019-03-21,20.2,Social Life
+2019-03-21,5701,Beauty
+2019-03-22,20.5,Social Life
+2019-03-22,8515,Apparel
+2019-03-23,17.6,Social Life
+2019-03-23,3624,Apparel
+2019-03-24,18.6,Social Life
+2019-03-24,4984,Transportation
+2019-03-25,17.7,Social Life
+2019-03-25,1034,Allowance
+2019-03-26,18,Social Life
+2019-03-26,8330,Other
+2019-03-27,18.6,Social Life
+2019-03-28,18.6,Social Life
+2019-03-28,6155,Salary
+2019-03-29,25.9,Social Life
+2019-03-30,19.8,Social Life
+2019-03-30,1274,Household
+2019-03-31,18.7,Social Life
+2019-03-31,7352,Salary
+2019-04-01,17.9,Social Life
+2019-04-01,2388,Salary
+2019-04-02,17.3,Social Life
+2019-04-02,1349,Allowance
+2019-04-03,18.1,Social Life
+2019-04-03,5262,Household
+2019-04-04,14.6,Social Life
+2019-04-04,6824,Allowance
+2019-04-05,14.1,Social Life
+2019-04-05,8748,Food
+2019-04-06,15.7,Social Life
+2019-04-06,938,Apparel
+2019-04-07,16,Social Life
+2019-04-08,21.6,Social Life
+2019-04-08,1181,Beauty
+2019-04-09,21.4,Social Life
+2019-04-10,23.8,Social Life
+2019-04-10,8691,Food
+2019-04-11,21.7,Social Life
+2019-04-11,8129,Beauty
+2019-04-12,16.6,Social Life
+2019-04-12,2151,Cash
+2019-04-13,16.7,Social Life
+2019-04-13,3299,Apparel
+2019-04-14,18.1,Social Life
+2019-04-14,9057,Allowance
+2019-04-15,14.5,Social Life
+2019-04-15,6752,Allowance
+2019-04-16,14.7,Social Life
+2019-04-16,2695,Gift
+2019-04-17,16.4,Social Life
+2019-04-17,7367,Transportation
+2019-04-18,16.5,Social Life
+2019-04-18,7391,Beauty
+2019-04-19,22.7,Social Life
+2019-04-19,5535,Beauty
+2019-04-20,23.8,Social Life
+2019-04-20,4144,Apparel
+2019-04-21,24.6,Social Life
+2019-04-21,5613,Transportation
+2019-04-22,23.6,Social Life
+2019-04-22,4379,Apparel
+2019-04-23,19.8,Social Life
+2019-04-23,6516,Food
+2019-04-24,19.8,Social Life
+2019-04-25,18,Social Life
+2019-04-26,17.6,Social Life
+2019-04-26,9965,Other
+2019-04-27,19,Social Life
+2019-04-27,9341,Allowance
+2019-04-28,17.5,Social Life
+2019-04-28,5084,Food
+2019-04-29,17,Social Life
+2019-04-29,5358,Household
+2019-04-30,19.9,Social Life
+2019-04-30,1579,Cash
+2019-05-01,18.5,Social Life
+2019-05-01,7751,Apparel
+2019-05-02,18.7,Social Life
+2019-05-02,468,Gift
+2019-05-03,17.8,Social Life
+2019-05-04,17,Social Life
+2019-05-04,7060,Household
+2019-05-05,17.6,Social Life
+2019-05-05,4402,Food
+2019-05-06,18.7,Social Life
+2019-05-06,2489,Salary
+2019-05-07,17,Social Life
+2019-05-07,1166,Beauty
+2019-05-08,18.8,Social Life
+2019-05-08,5834,Food
+2019-05-09,17.5,Social Life
+2019-05-09,7390,Salary
+2019-05-10,19.5,Social Life
+2019-05-10,288,Apparel
+2019-05-11,16.6,Social Life
+2019-05-11,5474,Allowance
+2019-05-12,19.1,Social Life
+2019-05-12,3041,Household
+2019-05-13,21.2,Social Life
+2019-05-13,2304,Cash
+2019-05-14,20.2,Social Life
+2019-05-14,6207,Household
+2019-05-15,17.9,Social Life
+2019-05-15,3313,Household
+2019-05-16,14.3,Social Life
+2019-05-17,16,Social Life
+2019-05-17,4010,Education
+2019-05-18,17.7,Social Life
+2019-05-18,818,Household
+2019-05-19,18.6,Social Life
+2019-05-19,8029,Apparel
+2019-05-20,19.1,Social Life
+2019-05-20,6836,Beauty
+2019-05-21,13.7,Social Life
+2019-05-21,8357,Apparel
+2019-05-22,17.5,Social Life
+2019-05-22,5787,Salary
+2019-05-23,16.1,Social Life
+2019-05-23,8874,Household
+2019-05-24,15.2,Social Life
+2019-05-24,3954,Other
+2019-05-25,17.3,Social Life
+2019-05-25,579,Household
+2019-05-26,14.9,Social Life
+2019-05-26,4226,Food
+2019-05-27,18.4,Social Life
+2019-05-27,3436,Gift
+2019-05-28,17.2,Social Life
+2019-05-28,7861,Other
+2019-05-29,12.2,Social Life
+2019-05-29,5029,Education
+2019-05-30,13.9,Social Life
+2019-05-30,9902,Education
+2019-05-31,14,Social Life
+2019-05-31,2537,Gift
+2019-06-01,15.3,Social Life
+2019-06-01,7479,Gift
+2019-06-02,15,Social Life
+2019-06-02,2256,Transportation
+2019-06-03,15.1,Social Life
+2019-06-03,1919,Cash
+2019-06-04,16.6,Social Life
+2019-06-04,7785,Gift
+2019-06-05,16.5,Social Life
+2019-06-06,16.1,Social Life
+2019-06-06,8188,Education
+2019-06-07,13.5,Social Life
+2019-06-07,7749,Beauty
+2019-06-08,13,Social Life
+2019-06-09,13.6,Social Life
+2019-06-09,6317,Food
+2019-06-10,11.8,Social Life
+2019-06-10,6288,Household
+2019-06-11,14.5,Social Life
+2019-06-12,14,Social Life
+2019-06-12,273,Cash
+2019-06-13,14.1,Social Life
+2019-06-13,532,Transportation
+2019-06-14,13.5,Social Life
+2019-06-14,1080,Household
+2019-06-15,12.1,Social Life
+2019-06-15,6981,Cash
+2019-06-16,11.9,Social Life
+2019-06-17,11.9,Social Life
+2019-06-17,2277,Household
+2019-06-18,14.2,Social Life
+2019-06-18,2637,Transportation
+2019-06-19,14,Social Life
+2019-06-19,4713,Food
+2019-06-20,17.9,Social Life
+2019-06-20,3967,Allowance
+2019-06-21,19.1,Social Life
+2019-06-21,3790,Allowance
+2019-06-22,15.1,Social Life
+2019-06-22,7249,Other
+2019-06-23,13.8,Social Life
+2019-06-23,8721,Allowance
+2019-06-24,13.7,Social Life
+2019-06-24,1369,Gift
+2019-06-25,10,Social Life
+2019-06-25,1870,Education
+2019-06-26,10.3,Social Life
+2019-06-26,1154,Apparel
+2019-06-27,10.4,Social Life
+2019-06-28,12,Social Life
+2019-06-28,4323,Apparel
+2019-06-29,8.5,Social Life
+2019-06-29,9860,Other
+2019-06-30,14.4,Social Life
+2019-07-01,13.1,Social Life
+2019-07-01,9315,Food
+2019-07-02,14,Social Life
+2019-07-02,5876,Transportation
+2019-07-03,11.8,Social Life
+2019-07-03,4117,Food
+2019-07-04,13.9,Social Life
+2019-07-04,1123,Beauty
+2019-07-05,12.9,Social Life
+2019-07-05,9501,Transportation
+2019-07-06,11,Social Life
+2019-07-06,6538,Apparel
+2019-07-07,11.8,Social Life
+2019-07-07,1774,Cash
+2019-07-08,10.7,Social Life
+2019-07-09,11.2,Social Life
+2019-07-09,3438,Food
+2019-07-10,10.3,Social Life
+2019-07-10,8246,Beauty
+2019-07-11,12.2,Social Life
+2019-07-11,9676,Gift
+2019-07-12,12.4,Social Life
+2019-07-12,7730,Gift
+2019-07-13,14.7,Social Life
+2019-07-13,8852,Household
+2019-07-14,15.1,Social Life
+2019-07-14,9939,Allowance
+2019-07-15,15,Social Life
+2019-07-15,1875,Transportation
+2019-07-16,14,Social Life
+2019-07-16,1611,Household
+2019-07-17,15.2,Social Life
+2019-07-17,8543,Salary
+2019-07-18,14.2,Social Life
+2019-07-18,3581,Education
+2019-07-19,8.7,Social Life
+2019-07-19,7871,Household
+2019-07-20,11,Social Life
+2019-07-20,4765,Other
+2019-07-21,14.2,Social Life
+2019-07-21,8659,Gift
+2019-07-22,15.2,Social Life
+2019-07-22,265,Apparel
+2019-07-23,12.2,Social Life
+2019-07-23,4491,Allowance
+2019-07-24,13,Social Life
+2019-07-24,2671,Beauty
+2019-07-25,14.7,Social Life
+2019-07-25,7968,Food
+2019-07-26,17.2,Social Life
+2019-07-26,9734,Transportation
+2019-07-27,13.7,Social Life
+2019-07-27,1736,Cash
+2019-07-28,14.8,Social Life
+2019-07-28,3327,Food
+2019-07-29,13.8,Social Life
+2019-07-29,1745,Allowance
+2019-07-30,13.7,Social Life
+2019-07-30,7950,Cash
+2019-07-31,13.1,Social Life
+2019-07-31,3886,Apparel
+2019-08-01,12.7,Social Life
+2019-08-02,12.3,Social Life
+2019-08-02,5114,Salary
+2019-08-03,12.4,Social Life
+2019-08-03,623,Other
+2019-08-04,13,Social Life
+2019-08-04,8573,Education
+2019-08-05,13.5,Social Life
+2019-08-05,3104,Apparel
+2019-08-06,13.5,Social Life
+2019-08-06,8623,Household
+2019-08-07,14.7,Social Life
+2019-08-07,95,Household
+2019-08-08,13.4,Social Life
+2019-08-09,15.9,Social Life
+2019-08-09,333,Education
+2019-08-10,16,Social Life
+2019-08-10,4263,Gift
+2019-08-11,15.3,Social Life
+2019-08-11,5931,Gift
+2019-08-12,15.5,Social Life
+2019-08-12,8771,Transportation
+2019-08-13,18.2,Social Life
+2019-08-13,2268,Other
+2019-08-14,18.6,Social Life
+2019-08-14,9657,Gift
+2019-08-15,18.5,Social Life
+2019-08-15,3804,Other
+2019-08-16,19.2,Social Life
+2019-08-16,3931,Education
+2019-08-17,14.2,Social Life
+2019-08-17,6428,Beauty
+2019-08-18,12.8,Social Life
+2019-08-18,1544,Cash
+2019-08-19,13.1,Social Life
+2019-08-19,9181,Allowance
+2019-08-20,15.4,Social Life
+2019-08-20,4276,Cash
+2019-08-21,17.3,Social Life
+2019-08-21,3361,Household
+2019-08-22,14.5,Social Life
+2019-08-22,2749,Apparel
+2019-08-23,19.5,Social Life
+2019-08-24,20.2,Social Life
+2019-08-24,6270,Beauty
+2019-08-25,16.3,Social Life
+2019-08-25,2257,Other
+2019-08-26,13,Social Life
+2019-08-26,7643,Other
+2019-08-27,13.3,Social Life
+2019-08-27,9933,Gift
+2019-08-28,13.3,Social Life
+2019-08-28,1212,Beauty
+2019-08-29,19,Social Life
+2019-08-30,16.8,Social Life
+2019-08-30,2538,Cash
+2019-08-31,19.2,Social Life
+2019-08-31,8593,Allowance
+2019-09-01,18.5,Social Life
+2019-09-01,7785,Food
+2019-09-02,19,Social Life
+2019-09-02,306,Salary
+2019-09-03,17.4,Social Life
+2019-09-03,9710,Gift
+2019-09-04,15.3,Social Life
+2019-09-04,9503,Education
+2019-09-05,15.8,Social Life
+2019-09-05,6165,Education
+2019-09-06,18.7,Social Life
+2019-09-06,6038,Apparel
+2019-09-07,17.8,Social Life
+2019-09-07,7309,Household
+2019-09-08,16.5,Social Life
+2019-09-08,7597,Other
+2019-09-09,15.3,Social Life
+2019-09-09,5438,Transportation
+2019-09-10,13.2,Social Life
+2019-09-10,7463,Cash
+2019-09-11,12,Social Life
+2019-09-11,2331,Beauty
+2019-09-12,14,Social Life
+2019-09-12,4010,Salary
+2019-09-13,9.5,Social Life
+2019-09-14,13,Social Life
+2019-09-14,9211,Household
+2019-09-15,17.6,Social Life
+2019-09-15,8048,Gift
+2019-09-16,19.6,Social Life
+2019-09-16,265,Beauty
+2019-09-17,17.2,Social Life
+2019-09-17,8619,Gift
+2019-09-18,17.3,Social Life
+2019-09-18,4440,Transportation
+2019-09-19,17,Social Life
+2019-09-19,7026,Transportation
+2019-09-20,16.3,Social Life
+2019-09-20,1635,Gift
+2019-09-21,17.3,Social Life
+2019-09-21,6506,Food
+2019-09-22,20.3,Social Life
+2019-09-22,2696,Allowance
+2019-09-23,16.9,Social Life
+2019-09-23,335,Gift
+2019-09-24,13.5,Social Life
+2019-09-25,13.3,Social Life
+2019-09-25,6523,Beauty
+2019-09-26,20.7,Social Life
+2019-09-26,2579,Household
+2019-09-27,19.8,Social Life
+2019-09-27,6197,Household
+2019-09-28,20.8,Social Life
+2019-09-28,855,Allowance
+2019-09-29,19.8,Social Life
+2019-09-29,5699,Apparel
+2019-09-30,19.5,Social Life
+2019-09-30,6968,Gift
+2019-10-01,23.4,Social Life
+2019-10-01,6270,Salary
+2019-10-02,14.2,Social Life
+2019-10-02,4063,Salary
+2019-10-03,14.2,Social Life
+2019-10-04,16.6,Social Life
+2019-10-04,5342,Transportation
+2019-10-05,17,Social Life
+2019-10-05,210,Other
+2019-10-06,15.6,Social Life
+2019-10-06,7047,Gift
+2019-10-07,14.8,Social Life
+2019-10-07,6842,Other
+2019-10-08,17.2,Social Life
+2019-10-08,9896,Education
+2019-10-09,20.2,Social Life
+2019-10-09,7457,Food
+2019-10-10,16.7,Social Life
+2019-10-10,273,Education
+2019-10-11,18.2,Social Life
+2019-10-11,1441,Food
+2019-10-12,18.1,Social Life
+2019-10-12,5308,Salary
+2019-10-13,22.5,Social Life
+2019-10-13,7884,Food
+2019-10-14,23.4,Social Life
+2019-10-14,8541,Salary
+2019-10-15,15.3,Social Life
+2019-10-15,3113,Allowance
+2019-10-16,13.7,Social Life
+2019-10-16,1468,Apparel
+2019-10-17,15.6,Social Life
+2019-10-17,9594,Education
+2019-10-18,18.9,Social Life
+2019-10-18,8718,Beauty
+2019-10-19,15.1,Social Life
+2019-10-19,1402,Food
+2019-10-20,16.6,Social Life
+2019-10-20,9364,Gift
+2019-10-21,17.7,Social Life
+2019-10-21,2034,Salary
+2019-10-22,23,Social Life
+2019-10-22,2197,Apparel
+2019-10-23,16.8,Social Life
+2019-10-23,5504,Salary
+2019-10-24,21.3,Social Life
+2019-10-24,3059,Education
+2019-10-25,17.9,Social Life
+2019-10-25,437,Gift
+2019-10-26,23.6,Social Life
+2019-10-26,8876,Food
+2019-10-27,25.3,Social Life
+2019-10-27,8155,Education
+2019-10-28,14.5,Social Life
+2019-10-28,3928,Salary
+2019-10-29,16.9,Social Life
+2019-10-29,1172,Household
+2019-10-30,16.3,Social Life
+2019-10-30,7151,Education
+2019-10-31,17.7,Social Life
+2019-10-31,7119,Household
+2019-11-01,18,Social Life
+2019-11-01,4527,Allowance
+2019-11-02,21.7,Social Life
+2019-11-02,9611,Allowance
+2019-11-03,22.3,Social Life
+2019-11-03,6307,Salary
+2019-11-04,15.5,Social Life
+2019-11-04,4769,Beauty
+2019-11-05,16.7,Social Life
+2019-11-05,4326,Education
+2019-11-06,24.3,Social Life
+2019-11-06,1271,Education
+2019-11-07,23.5,Social Life
+2019-11-07,1955,Beauty
+2019-11-08,27.7,Social Life
+2019-11-08,6624,Allowance
+2019-11-09,18,Social Life
+2019-11-09,6639,Salary
+2019-11-10,15.6,Social Life
+2019-11-10,4976,Cash
+2019-11-11,19,Social Life
+2019-11-11,3122,Household
+2019-11-12,19.5,Social Life
+2019-11-12,8434,Allowance
+2019-11-13,20.1,Social Life
+2019-11-13,6460,Gift
+2019-11-14,31.3,Social Life
+2019-11-14,2326,Apparel
+2019-11-15,15.6,Social Life
+2019-11-15,4172,Transportation
+2019-11-16,12.8,Social Life
+2019-11-16,1600,Cash
+2019-11-17,13.8,Social Life
+2019-11-18,15.8,Social Life
+2019-11-18,5387,Salary
+2019-11-19,16.4,Social Life
+2019-11-19,4593,Other
+2019-11-20,17.6,Social Life
+2019-11-21,28.2,Social Life
+2019-11-22,25.5,Social Life
+2019-11-22,6701,Cash
+2019-11-23,22.7,Social Life
+2019-11-23,2392,Cash
+2019-11-24,28,Social Life
+2019-11-24,5691,Food
+2019-11-25,17,Social Life
+2019-11-26,22.6,Social Life
+2019-11-26,7202,Beauty
+2019-11-27,24.5,Social Life
+2019-11-27,9996,Allowance
+2019-11-28,25.6,Social Life
+2019-11-28,4492,Allowance
+2019-11-29,27.5,Social Life
+2019-11-29,8487,Gift
+2019-11-30,18.5,Social Life
+2019-11-30,9499,Cash
+2019-12-01,18.2,Social Life
+2019-12-01,6297,Household
+2019-12-02,18.8,Social Life
+2019-12-02,6020,Gift
+2019-12-03,17.8,Social Life
+2019-12-04,18.9,Social Life
+2019-12-04,2696,Cash
+2019-12-05,24,Social Life
+2019-12-05,5297,Education
+2019-12-06,20.9,Social Life
+2019-12-06,3362,Salary
+2019-12-07,16.8,Social Life
+2019-12-07,6019,Apparel
+2019-12-08,18.5,Social Life
+2019-12-08,523,Cash
+2019-12-09,20.6,Social Life
+2019-12-09,5734,Other
+2019-12-10,24.9,Social Life
+2019-12-10,4059,Apparel
+2019-12-11,28.1,Social Life
+2019-12-11,7477,Beauty
+2019-12-12,25.7,Social Life
+2019-12-13,19.2,Social Life
+2019-12-13,1869,Salary
+2019-12-14,32.7,Social Life
+2019-12-14,983,Beauty
+2019-12-15,21.3,Social Life
+2019-12-15,1292,Allowance
+2019-12-16,20.4,Social Life
+2019-12-16,156,Education
+2019-12-17,20.5,Social Life
+2019-12-17,4200,Transportation
+2019-12-18,22.8,Social Life
+2019-12-18,7647,Education
+2019-12-19,35.3,Social Life
+2019-12-19,2601,Other
+2019-12-20,38.7,Social Life
+2019-12-21,21.4,Social Life
+2019-12-21,2938,Cash
+2019-12-22,23.3,Social Life
+2019-12-22,55,Apparel
+2019-12-23,22,Social Life
+2019-12-23,3104,Household
+2019-12-24,31.7,Social Life
+2019-12-24,1177,Other
+2019-12-25,23.4,Social Life
+2019-12-25,8307,Cash
+2019-12-26,19.1,Social Life
+2019-12-26,1923,Beauty
+2019-12-27,19.5,Social Life
+2019-12-27,4623,Cash
+2019-12-28,30,Social Life
+2019-12-28,3507,Beauty
+2019-12-29,32.4,Social Life
+2019-12-29,6231,Beauty
+2019-12-30,33.6,Social Life
+2019-12-30,7417,Allowance
+2019-12-31,30,Social Life
+2019-12-31,5402,Beauty
+2020-01-01,27.7,Social Life
+2020-01-01,7304,Transportation
+2020-01-02,28.1,Social Life
+2020-01-02,6661,Transportation
+2020-01-03,23.7,Social Life
+2020-01-03,4294,Allowance
+2020-01-04,20.6,Social Life
+2020-01-04,6925,Beauty
+2020-01-05,32.3,Social Life
+2020-01-05,492,Beauty
+2020-01-06,31.2,Social Life
+2020-01-06,7095,Beauty
+2020-01-07,21.5,Social Life
+2020-01-08,23,Social Life
+2020-01-08,4997,Allowance
+2020-01-09,21.9,Social Life
+2020-01-09,8114,Other
+2020-01-10,23,Social Life
+2020-01-10,7785,Gift
+2020-01-11,21.6,Social Life
+2020-01-11,8756,Household
+2020-01-12,27.2,Social Life
+2020-01-12,2856,Cash
+2020-01-13,29.2,Social Life
+2020-01-13,163,Allowance
+2020-01-14,32,Social Life
+2020-01-14,7936,Beauty
+2020-01-15,22.5,Social Life
+2020-01-15,9641,Salary
+2020-01-16,23.9,Social Life
+2020-01-16,4044,Transportation
+2020-01-17,19.7,Social Life
+2020-01-17,890,Allowance
+2020-01-18,19.5,Social Life
+2020-01-18,2102,Salary
+2020-01-19,22,Social Life
+2020-01-19,1858,Apparel
+2020-01-20,22.1,Social Life
+2020-01-20,6158,Salary
+2020-01-21,19.7,Social Life
+2020-01-21,5039,Household
+2020-01-22,19.4,Social Life
+2020-01-22,9428,Other
+2020-01-23,30.5,Social Life
+2020-01-23,3937,Gift
+2020-01-24,28.5,Social Life
+2020-01-24,7678,Apparel
+2020-01-25,20.2,Social Life
+2020-01-25,4132,Beauty
+2020-01-26,19,Social Life
+2020-01-26,4041,Salary
+2020-01-27,20.2,Social Life
+2020-01-27,7927,Food
+2020-01-28,22.6,Social Life
+2020-01-28,9018,Allowance
+2020-01-29,28.4,Social Life
+2020-01-29,3204,Salary
+2020-01-30,18.6,Social Life
+2020-01-30,1969,Education
+2020-01-31,20.3,Social Life
+2020-02-01,19,Social Life
+2020-02-01,5879,Transportation
+2020-02-02,26.2,Social Life
+2020-02-02,3285,Education
+2020-02-03,30,Social Life
+2020-02-03,5410,Food
+2020-02-04,24.2,Social Life
+2020-02-04,7725,Food
+2020-02-05,23.4,Social Life
+2020-02-05,5421,Transportation
+2020-02-06,34.7,Social Life
+2020-02-06,6255,Other
+2020-02-07,20.4,Social Life
+2020-02-07,8171,Food
+2020-02-08,20.7,Social Life
+2020-02-08,1754,Apparel
+2020-02-09,20,Social Life
+2020-02-09,3558,Gift
+2020-02-10,19.5,Social Life
+2020-02-10,8036,Education
+2020-02-11,31.6,Social Life
+2020-02-11,688,Allowance
+2020-02-12,33.7,Social Life
+2020-02-12,4901,Transportation
+2020-02-13,23.5,Social Life
+2020-02-14,24.6,Social Life
+2020-02-14,8952,Other
+2020-02-15,33.9,Social Life
+2020-02-15,473,Beauty
+2020-02-16,22.4,Social Life
+2020-02-16,8512,Household
+2020-02-17,24.3,Social Life
+2020-02-17,7977,Household
+2020-02-18,29.5,Social Life
+2020-02-18,6548,Apparel
+2020-02-19,31.7,Social Life
+2020-02-19,2898,Food
+2020-02-20,32.9,Social Life
+2020-02-20,7952,Allowance
+2020-02-21,20.5,Social Life
+2020-02-22,28.5,Social Life
+2020-02-22,3945,Education
+2020-02-23,27.3,Social Life
+2020-02-23,8097,Apparel
+2020-02-24,19.5,Social Life
+2020-02-24,5464,Education
+2020-02-25,21.4,Social Life
+2020-02-25,1891,Transportation
+2020-02-26,33.2,Social Life
+2020-02-26,7160,Gift
+2020-02-27,35,Social Life
+2020-02-27,9699,Other
+2020-02-28,18.1,Social Life
+2020-02-28,5166,Beauty
+2020-02-29,17.2,Social Life
+2020-02-29,8271,Food
+2020-03-01,18.1,Social Life
+2020-03-01,6948,Transportation
+2020-03-02,19.5,Social Life
+2020-03-02,1439,Apparel
+2020-03-03,21.5,Social Life
+2020-03-03,5305,Other
+2020-03-04,29.2,Social Life
+2020-03-04,7253,Food
+2020-03-05,33.8,Social Life
+2020-03-05,3860,Cash
+2020-03-06,20.8,Social Life
+2020-03-06,1088,Allowance
+2020-03-07,17.5,Social Life
+2020-03-07,5677,Allowance
+2020-03-08,21,Social Life
+2020-03-08,547,Food
+2020-03-09,27.4,Social Life
+2020-03-09,9465,Gift
+2020-03-10,21.2,Social Life
+2020-03-10,6441,Beauty
+2020-03-11,27.1,Social Life
+2020-03-11,6170,Household
+2020-03-12,22.8,Social Life
+2020-03-12,4632,Salary
+2020-03-13,18.7,Social Life
+2020-03-13,3275,Allowance
+2020-03-14,19,Social Life
+2020-03-15,19.7,Social Life
+2020-03-15,7841,Household
+2020-03-16,28.7,Social Life
+2020-03-16,5970,Cash
+2020-03-17,25.5,Social Life
+2020-03-17,4281,Salary
+2020-03-18,18.4,Social Life
+2020-03-18,7438,Allowance
+2020-03-19,18.5,Social Life
+2020-03-19,867,Apparel
+2020-03-20,23.6,Social Life
+2020-03-20,8362,Transportation
+2020-03-21,26.9,Social Life
+2020-03-21,1883,Beauty
+2020-03-22,28,Social Life
+2020-03-22,8590,Beauty
+2020-03-23,24.7,Social Life
+2020-03-23,7985,Education
+2020-03-24,21.5,Social Life
+2020-03-24,2504,Household
+2020-03-25,17.5,Social Life
+2020-03-25,140,Apparel
+2020-03-26,16.1,Social Life
+2020-03-26,5448,Household
+2020-03-27,18.7,Social Life
+2020-03-27,2675,Gift
+2020-03-28,24.5,Social Life
+2020-03-28,5408,Food
+2020-03-29,27.6,Social Life
+2020-03-29,5824,Beauty
+2020-03-30,17.4,Social Life
+2020-03-30,915,Transportation
+2020-03-31,18.2,Social Life
+2020-03-31,4268,Household
+2020-04-01,19.7,Social Life
+2020-04-01,5409,Salary
+2020-04-02,18.5,Social Life
+2020-04-02,5412,Allowance
+2020-04-03,17.7,Social Life
+2020-04-03,2162,Beauty
+2020-04-04,20.7,Social Life
+2020-04-05,21.2,Social Life
+2020-04-05,9489,Education
+2020-04-06,17.2,Social Life
+2020-04-06,1406,Allowance
+2020-04-07,21.5,Social Life
+2020-04-07,2301,Other
+2020-04-08,22,Social Life
+2020-04-08,3767,Other
+2020-04-09,23.2,Social Life
+2020-04-09,8713,Beauty
+2020-04-10,25.4,Social Life
+2020-04-10,1011,Education
+2020-04-11,24.6,Social Life
+2020-04-11,5436,Cash
+2020-04-12,24.8,Social Life
+2020-04-12,4259,Food
+2020-04-13,25,Social Life
+2020-04-13,4194,Apparel
+2020-04-14,25,Social Life
+2020-04-15,18.2,Social Life
+2020-04-16,21.5,Social Life
+2020-04-16,8013,Cash
+2020-04-17,16.2,Social Life
+2020-04-17,7728,Allowance
+2020-04-18,17.3,Social Life
+2020-04-18,651,Apparel
+2020-04-19,15.5,Social Life
+2020-04-19,742,Other
+2020-04-20,16.4,Social Life
+2020-04-20,2257,Other
+2020-04-21,19.6,Social Life
+2020-04-21,6136,Household
+2020-04-22,18.5,Social Life
+2020-04-22,2017,Transportation
+2020-04-23,16.5,Social Life
+2020-04-23,8238,Allowance
+2020-04-24,16,Social Life
+2020-04-24,725,Transportation
+2020-04-25,17.7,Social Life
+2020-04-25,2599,Allowance
+2020-04-26,19.2,Social Life
+2020-04-26,4005,Transportation
+2020-04-27,16.8,Social Life
+2020-04-27,150,Apparel
+2020-04-28,16.5,Social Life
+2020-04-28,1540,Transportation
+2020-04-29,22.5,Social Life
+2020-04-29,3993,Household
+2020-04-30,22.7,Social Life
+2020-04-30,1293,Gift
+2020-05-01,23.5,Social Life
+2020-05-01,9558,Cash
+2020-05-02,19,Social Life
+2020-05-03,15.5,Social Life
+2020-05-03,9443,Gift
+2020-05-04,13.5,Social Life
+2020-05-04,8067,Apparel
+2020-05-05,14,Social Life
+2020-05-05,7384,Education
+2020-05-06,14.7,Social Life
+2020-05-06,3137,Salary
+2020-05-07,15.6,Social Life
+2020-05-07,691,Education
+2020-05-08,17,Social Life
+2020-05-08,4324,Gift
+2020-05-09,18,Social Life
+2020-05-09,7130,Education
+2020-05-10,19.6,Social Life
+2020-05-10,6626,Allowance
+2020-05-11,17.1,Social Life
+2020-05-11,1318,Salary
+2020-05-12,16.7,Social Life
+2020-05-12,4657,Cash
+2020-05-13,16.9,Social Life
+2020-05-13,9343,Food
+2020-05-14,18.2,Social Life
+2020-05-14,3493,Food
+2020-05-15,19.4,Social Life
+2020-05-15,3625,Apparel
+2020-05-16,22,Social Life
+2020-05-16,7427,Gift
+2020-05-17,21.7,Social Life
+2020-05-17,6500,Salary
+2020-05-18,22,Social Life
+2020-05-18,9349,Household
+2020-05-19,22.2,Social Life
+2020-05-19,3725,Beauty
+2020-05-20,20,Social Life
+2020-05-20,680,Household
+2020-05-21,16.5,Social Life
+2020-05-21,420,Salary
+2020-05-22,15.6,Social Life
+2020-05-22,6668,Food
+2020-05-23,15,Social Life
+2020-05-23,7274,Apparel
+2020-05-24,16.6,Social Life
+2020-05-24,9550,Beauty
+2020-05-25,18.7,Social Life
+2020-05-25,659,Household
+2020-05-26,18.7,Social Life
+2020-05-26,8495,Salary
+2020-05-27,18.1,Social Life
+2020-05-27,7737,Beauty
+2020-05-28,15.6,Social Life
+2020-05-28,2814,Household
+2020-05-29,20.1,Social Life
+2020-05-29,8390,Allowance
+2020-05-30,20.3,Social Life
+2020-05-30,3287,Allowance
+2020-05-31,15.2,Social Life
+2020-05-31,3926,Other
+2020-06-01,17.1,Social Life
+2020-06-01,288,Gift
+2020-06-02,16.3,Social Life
+2020-06-02,4692,Salary
+2020-06-03,18.3,Social Life
+2020-06-03,8683,Household
+2020-06-04,18.3,Social Life
+2020-06-04,7373,Household
+2020-06-05,19,Social Life
+2020-06-05,6716,Education
+2020-06-06,20,Social Life
+2020-06-06,4520,Household
+2020-06-07,15.7,Social Life
+2020-06-07,8792,Apparel
+2020-06-08,14.9,Social Life
+2020-06-08,6146,Cash
+2020-06-09,13.1,Social Life
+2020-06-09,9132,Food
+2020-06-10,13.6,Social Life
+2020-06-10,7004,Apparel
+2020-06-11,13.8,Social Life
+2020-06-12,15,Social Life
+2020-06-12,6147,Food
+2020-06-13,16.9,Social Life
+2020-06-13,3022,Food
+2020-06-14,18.3,Social Life
+2020-06-14,1749,Apparel
+2020-06-15,16.4,Social Life
+2020-06-15,8156,Transportation
+2020-06-16,14,Social Life
+2020-06-16,3673,Allowance
+2020-06-17,12.5,Social Life
+2020-06-17,6093,Household
+2020-06-18,12.8,Social Life
+2020-06-18,7179,Allowance
+2020-06-19,12.2,Social Life
+2020-06-19,6178,Food
+2020-06-20,14.2,Social Life
+2020-06-20,9511,Household
+2020-06-21,14.2,Social Life
+2020-06-21,2763,Apparel
+2020-06-22,15.5,Social Life
+2020-06-22,374,Apparel
+2020-06-23,15.1,Social Life
+2020-06-23,5890,Cash
+2020-06-24,14.4,Social Life
+2020-06-24,9431,Education
+2020-06-25,12.9,Social Life
+2020-06-25,5285,Transportation
+2020-06-26,10.8,Social Life
+2020-06-26,5997,Beauty
+2020-06-27,11.7,Social Life
+2020-06-27,4620,Salary
+2020-06-28,13.3,Social Life
+2020-06-28,6897,Education
+2020-06-29,12.4,Social Life
+2020-06-29,1498,Food
+2020-06-30,13.4,Social Life
+2020-06-30,7412,Gift
+2020-07-01,10.6,Social Life
+2020-07-01,7178,Salary
+2020-07-02,7,Social Life
+2020-07-02,1618,Beauty
+2020-07-03,12.6,Social Life
+2020-07-03,963,Gift
+2020-07-04,13.2,Social Life
+2020-07-05,12.1,Social Life
+2020-07-05,6431,Cash
+2020-07-06,10.3,Social Life
+2020-07-06,5931,Education
+2020-07-07,15.7,Social Life
+2020-07-07,9762,Salary
+2020-07-08,11.7,Social Life
+2020-07-08,4276,Household
+2020-07-09,15.1,Social Life
+2020-07-10,15.8,Social Life
+2020-07-10,7332,Other
+2020-07-11,15,Social Life
+2020-07-11,2013,Other
+2020-07-12,11.6,Social Life
+2020-07-12,4524,Gift
+2020-07-13,11.4,Social Life
+2020-07-13,8205,Beauty
+2020-07-14,10,Social Life
+2020-07-14,266,Allowance
+2020-07-15,14.7,Social Life
+2020-07-15,5296,Other
+2020-07-16,13.6,Social Life
+2020-07-16,3577,Beauty
+2020-07-17,13.2,Social Life
+2020-07-17,9321,Education
+2020-07-18,11,Social Life
+2020-07-18,6011,Transportation
+2020-07-19,13,Social Life
+2020-07-19,7983,Other
+2020-07-20,12,Social Life
+2020-07-20,5926,Allowance
+2020-07-21,10.6,Social Life
+2020-07-22,13.3,Social Life
+2020-07-22,5977,Cash
+2020-07-23,14.5,Social Life
+2020-07-23,4669,Gift
+2020-07-24,13.5,Social Life
+2020-07-24,5314,Education
+2020-07-25,15.9,Social Life
+2020-07-25,4345,Other
+2020-07-26,12.8,Social Life
+2020-07-26,8793,Allowance
+2020-07-27,11.7,Social Life
+2020-07-27,5049,Apparel
+2020-07-28,13,Social Life
+2020-07-28,9317,Gift
+2020-07-29,14,Social Life
+2020-07-29,4130,Household
+2020-07-30,16,Social Life
+2020-07-30,9518,Transportation
+2020-07-31,17,Social Life
+2020-07-31,2520,Transportation
+2020-08-01,16.3,Social Life
+2020-08-01,5653,Allowance
+2020-08-02,17.6,Social Life
+2020-08-02,8046,Allowance
+2020-08-03,19.5,Social Life
+2020-08-03,6106,Allowance
+2020-08-04,14,Social Life
+2020-08-04,9603,Beauty
+2020-08-05,17.5,Social Life
+2020-08-05,396,Food
+2020-08-06,19.2,Social Life
+2020-08-06,657,Food
+2020-08-07,18.5,Social Life
+2020-08-07,9850,Salary
+2020-08-08,15.1,Social Life
+2020-08-08,3159,Food
+2020-08-09,15.4,Social Life
+2020-08-09,2230,Gift
+2020-08-10,13.3,Social Life
+2020-08-10,6098,Allowance
+2020-08-11,13.1,Social Life
+2020-08-11,6965,Cash
+2020-08-12,12.8,Social Life
+2020-08-12,7631,Apparel
+2020-08-13,12,Social Life
+2020-08-13,5391,Transportation
+2020-08-14,13.3,Social Life
+2020-08-14,6000,Household
+2020-08-15,12.9,Social Life
+2020-08-16,15.4,Social Life
+2020-08-16,8448,Beauty
+2020-08-17,13.4,Social Life
+2020-08-17,6189,Beauty
+2020-08-18,15.1,Social Life
+2020-08-18,866,Other
+2020-08-19,14.7,Social Life
+2020-08-19,82,Cash
+2020-08-20,14.9,Social Life
+2020-08-20,4300,Household
+2020-08-21,16.8,Social Life
+2020-08-22,15.8,Social Life
+2020-08-22,5826,Beauty
+2020-08-23,17,Social Life
+2020-08-23,7298,Salary
+2020-08-24,14.1,Social Life
+2020-08-25,16.5,Social Life
+2020-08-25,8749,Beauty
+2020-08-26,12.4,Social Life
+2020-08-26,1230,Beauty
+2020-08-27,12.7,Social Life
+2020-08-27,3199,Transportation
+2020-08-28,14.6,Social Life
+2020-08-28,7105,Beauty
+2020-08-29,17.6,Social Life
+2020-08-29,9615,Other
+2020-08-30,19.6,Social Life
+2020-08-30,3885,Gift
+2020-08-31,17.3,Social Life
+2020-08-31,6284,Other
+2020-09-01,17.9,Social Life
+2020-09-01,9551,Apparel
+2020-09-02,17.8,Social Life
+2020-09-02,3751,Household
+2020-09-03,13,Social Life
+2020-09-03,2746,Salary
+2020-09-04,13.2,Social Life
+2020-09-04,922,Apparel
+2020-09-05,17.1,Social Life
+2020-09-05,6405,Education
+2020-09-06,19.6,Social Life
+2020-09-06,4801,Other
+2020-09-07,16.3,Social Life
+2020-09-07,7158,Apparel
+2020-09-08,16.9,Social Life
+2020-09-08,7360,Allowance
+2020-09-09,22.2,Social Life
+2020-09-09,2661,Allowance
+2020-09-10,12,Social Life
+2020-09-11,14.2,Social Life
+2020-09-11,7828,Salary
+2020-09-12,16.8,Social Life
+2020-09-12,330,Education
+2020-09-13,16.9,Social Life
+2020-09-13,434,Allowance
+2020-09-14,22,Social Life
+2020-09-14,6006,Allowance
+2020-09-15,16.4,Social Life
+2020-09-15,5700,Cash
+2020-09-16,14.2,Social Life
+2020-09-16,3155,Household
+2020-09-17,11.8,Social Life
+2020-09-17,8666,Allowance
+2020-09-18,15.2,Social Life
+2020-09-18,3778,Education
+2020-09-19,12.6,Social Life
+2020-09-19,4489,Other
+2020-09-20,13.2,Social Life
+2020-09-20,2412,Household
+2020-09-21,14.4,Social Life
+2020-09-21,2402,Household
+2020-09-22,15,Social Life
+2020-09-22,1296,Cash
+2020-09-23,16.5,Social Life
+2020-09-23,8409,Transportation
+2020-09-24,13.3,Social Life
+2020-09-24,7073,Allowance
+2020-09-25,14.5,Social Life
+2020-09-25,8223,Cash
+2020-09-26,16.7,Social Life
+2020-09-26,176,Apparel
+2020-09-27,13.8,Social Life
+2020-09-27,3021,Other
+2020-09-28,12.4,Social Life
+2020-09-28,7130,Cash
+2020-09-29,13.7,Social Life
+2020-09-30,19.9,Social Life
+2020-09-30,1850,Apparel
+2020-10-01,24,Social Life
+2020-10-01,4791,Food
+2020-10-02,18.7,Social Life
+2020-10-02,5595,Food
+2020-10-03,18.9,Social Life
+2020-10-03,1632,Food
+2020-10-04,20.2,Social Life
+2020-10-04,1040,Salary
+2020-10-05,19.9,Social Life
+2020-10-05,1002,Allowance
+2020-10-06,24,Social Life
+2020-10-06,4216,Apparel
+2020-10-07,27.3,Social Life
+2020-10-07,9136,Education
+2020-10-08,24.2,Social Life
+2020-10-08,6348,Education
+2020-10-09,18,Social Life
+2020-10-09,7765,Other
+2020-10-10,21.3,Social Life
+2020-10-11,26.6,Social Life
+2020-10-11,6235,Apparel
+2020-10-12,18.5,Social Life
+2020-10-12,8053,Food
+2020-10-13,18.2,Social Life
+2020-10-13,8783,Allowance
+2020-10-14,21,Social Life
+2020-10-14,8409,Salary
+2020-10-15,12,Social Life
+2020-10-15,2949,Gift
+2020-10-16,12.2,Social Life
+2020-10-16,7732,Education
+2020-10-17,14.1,Social Life
+2020-10-18,16.5,Social Life
+2020-10-18,3021,Allowance
+2020-10-19,15.5,Social Life
+2020-10-19,5441,Transportation
+2020-10-20,15,Social Life
+2020-10-20,3968,Salary
+2020-10-21,20.8,Social Life
+2020-10-21,5194,Other
+2020-10-22,27.3,Social Life
+2020-10-22,8807,Beauty
+2020-10-23,28.4,Social Life
+2020-10-23,560,Household
+2020-10-24,18.9,Social Life
+2020-10-24,247,Allowance
+2020-10-25,18.2,Social Life
+2020-10-25,2356,Transportation
+2020-10-26,25.5,Social Life
+2020-10-26,5468,Food
+2020-10-27,15.9,Social Life
+2020-10-27,4561,Cash
+2020-10-28,15.5,Social Life
+2020-10-29,21.4,Social Life
+2020-10-29,427,Allowance
+2020-10-30,23.2,Social Life
+2020-10-30,9096,Gift
+2020-10-31,26.8,Social Life
+2020-10-31,6949,Salary
+2020-11-01,23.9,Social Life
+2020-11-01,5836,Education
+2020-11-02,19.1,Social Life
+2020-11-02,1595,Salary
+2020-11-03,15.2,Social Life
+2020-11-03,9968,Transportation
+2020-11-04,14.9,Social Life
+2020-11-04,4545,Allowance
+2020-11-05,21.3,Social Life
+2020-11-05,4839,Education
+2020-11-06,25.4,Social Life
+2020-11-06,9560,Food
+2020-11-07,28.7,Social Life
+2020-11-07,1412,Allowance
+2020-11-08,32.3,Social Life
+2020-11-08,3287,Transportation
+2020-11-09,25.7,Social Life
+2020-11-09,8199,Other
+2020-11-10,19,Social Life
+2020-11-10,5772,Salary
+2020-11-11,19.4,Social Life
+2020-11-11,9253,Beauty
+2020-11-12,15,Social Life
+2020-11-12,9331,Apparel
+2020-11-13,16.5,Social Life
+2020-11-13,5088,Cash
+2020-11-14,16.3,Social Life
+2020-11-14,7268,Food
+2020-11-15,28.9,Social Life
+2020-11-15,2018,Allowance
+2020-11-16,27.4,Social Life
+2020-11-16,1473,Other
+2020-11-17,32.9,Social Life
+2020-11-17,6332,Gift
+2020-11-18,27,Social Life
+2020-11-18,8186,Cash
+2020-11-19,23.7,Social Life
+2020-11-19,9612,Food
+2020-11-20,22.8,Social Life
+2020-11-20,4553,Education
+2020-11-21,16.5,Social Life
+2020-11-21,8622,Education
+2020-11-22,14,Social Life
+2020-11-22,7365,Household
+2020-11-23,18,Social Life
+2020-11-23,3125,Food
+2020-11-24,28.2,Social Life
+2020-11-24,1617,Cash
+2020-11-25,32.8,Social Life
+2020-11-25,2583,Gift
+2020-11-26,28,Social Life
+2020-11-26,6272,Beauty
+2020-11-27,22.2,Social Life
+2020-11-28,21.8,Social Life
+2020-11-28,2401,Education
+2020-11-29,18.7,Social Life
+2020-11-29,511,Salary
+2020-11-30,25.5,Social Life
+2020-11-30,9740,Apparel
+2020-12-01,27.6,Social Life
+2020-12-01,500,Beauty
+2020-12-02,16.5,Social Life
+2020-12-02,2008,Other
+2020-12-03,15.9,Social Life
+2020-12-03,4979,Household
+2020-12-04,16.8,Social Life
+2020-12-04,4480,Food
+2020-12-05,17.9,Social Life
+2020-12-05,5509,Gift
+2020-12-06,23.1,Social Life
+2020-12-06,8026,Salary
+2020-12-07,22.8,Social Life
+2020-12-07,8784,Household
+2020-12-08,24.2,Social Life
+2020-12-08,785,Allowance
+2020-12-09,27.7,Social Life
+2020-12-09,9741,Salary
+2020-12-10,21.3,Social Life
+2020-12-10,7218,Salary
+2020-12-11,23.5,Social Life
+2020-12-11,1268,Other
+2020-12-12,17.9,Social Life
+2020-12-12,5778,Cash
+2020-12-13,24.2,Social Life
+2020-12-13,4668,Salary
+2020-12-14,20,Social Life
+2020-12-14,8823,Cash
+2020-12-15,23.7,Social Life
+2020-12-15,5095,Salary
+2020-12-16,27,Social Life
+2020-12-16,1071,Gift
+2020-12-17,24.6,Social Life
+2020-12-17,9628,Household
+2020-12-18,25,Social Life
+2020-12-18,3912,Salary
+2020-12-19,20,Social Life
+2020-12-19,5673,Transportation
+2020-12-20,22.7,Social Life
+2020-12-20,9995,Allowance
+2020-12-21,22.6,Social Life
+2020-12-21,4439,Cash
+2020-12-22,29.2,Social Life
+2020-12-22,3363,Apparel
+2020-12-23,27.8,Social Life
+2020-12-23,942,Allowance
+2020-12-24,26.5,Social Life
+2020-12-24,1861,Household
+2020-12-25,18.9,Social Life
+2020-12-25,4826,Household
+2020-12-26,23.2,Social Life
+2020-12-26,597,Food
+2020-12-27,24.2,Social Life
+2020-12-27,1772,Food
+2020-12-28,28.1,Social Life
+2020-12-29,30.3,Social Life
+2020-12-29,988,Beauty
+2020-12-30,25.6,Social Life
+2020-12-30,3197,Other
+2020-12-31,7811,Allowance
+2021-01-01,20.7,Social Life
+2021-01-01,557,Allowance
+2021-01-02,19.6,Social Life
+2021-01-02,3964,Other
+2021-01-03,21.7,Social Life
+2021-01-03,9147,Cash
+2021-01-04,28,Social Life
+2021-01-04,7121,Cash
+2021-01-05,21.3,Social Life
+2021-01-06,21.4,Social Life
+2021-01-06,8285,Salary
+2021-01-07,21.4,Social Life
+2021-01-07,4874,Education
+2021-01-08,22.6,Social Life
+2021-01-08,2854,Cash
+2021-01-09,21.7,Social Life
+2021-01-09,7282,Cash
+2021-01-10,21.8,Social Life
+2021-01-11,19.8,Social Life
+2021-01-11,2121,Apparel
+2021-01-12,30.4,Social Life
+2021-01-12,2861,Apparel
+2021-01-13,36,Social Life
+2021-01-13,3784,Allowance
+2021-01-14,42.2,Social Life
+2021-01-14,1685,Beauty
+2021-01-15,21.1,Social Life
+2021-01-15,4188,Other
+2021-01-16,20,Social Life
+2021-01-16,2839,Allowance
+2021-01-17,18.4,Social Life
+2021-01-17,4468,Other
+2021-01-18,19.1,Social Life
+2021-01-18,4168,Allowance
+2021-01-19,19.3,Social Life
+2021-01-19,663,Beauty
+2021-01-20,18.8,Social Life
+2021-01-20,4328,Beauty
+2021-01-21,22.8,Social Life
+2021-01-22,20,Social Life
+2021-01-22,7642,Household
+2021-01-23,21.9,Social Life
+2021-01-23,8140,Apparel
+2021-01-24,20.1,Social Life
+2021-01-24,5823,Gift
+2021-01-25,23.2,Social Life
+2021-01-25,1869,Salary
+2021-01-26,34.5,Social Life
+2021-01-26,8431,Household
+2021-01-27,22.1,Social Life
+2021-01-27,4607,Household
+2021-01-28,21.6,Social Life
+2021-01-28,8379,Transportation
+2021-01-29,30,Social Life
+2021-01-30,34,Social Life
+2021-01-30,7184,Education
+2021-01-31,22.2,Social Life
+2021-01-31,3562,Food
+2021-02-01,19.6,Social Life
+2021-02-01,6006,Allowance
+2021-02-02,25.4,Social Life
+2021-02-03,37.1,Social Life
+2021-02-03,4899,Food
+2021-02-04,30.2,Social Life
+2021-02-04,3327,Salary
+2021-02-05,29.1,Social Life
+2021-02-05,6276,Gift
+2021-02-06,21.1,Social Life
+2021-02-07,19.1,Social Life
+2021-02-07,6321,Salary
+2021-02-08,22.2,Social Life
+2021-02-08,6626,Gift
+2021-02-09,24.4,Social Life
+2021-02-09,9904,Gift
+2021-02-10,20.3,Social Life
+2021-02-11,28,Social Life
+2021-02-11,667,Food
+2021-02-12,32.2,Social Life
+2021-02-12,4249,Apparel
+2021-02-13,23.4,Social Life
+2021-02-13,5031,Transportation
+2021-02-14,21.4,Social Life
+2021-02-14,4990,Food
+2021-02-15,33.5,Social Life
+2021-02-16,18.6,Social Life
+2021-02-16,8393,Apparel
+2021-02-17,19.2,Social Life
+2021-02-17,1854,Salary
+2021-02-18,21.1,Social Life
+2021-02-18,8004,Cash
+2021-02-19,29.5,Social Life
+2021-02-20,25.7,Social Life
+2021-02-20,4400,Apparel
+2021-02-21,32.4,Social Life
+2021-02-21,2831,Apparel
+2021-02-22,28.5,Social Life
+2021-02-22,2458,Education
+2021-02-23,20.6,Social Life
+2021-02-23,7876,Transportation
+2021-02-24,25.2,Social Life
+2021-02-24,3917,Beauty
+2021-02-25,20.8,Social Life
+2021-02-25,4132,Salary
+2021-02-26,17.5,Social Life
+2021-02-26,4339,Beauty
+2021-02-27,20.1,Social Life
+2021-02-27,7291,Household
+2021-02-28,22.4,Social Life
+2021-02-28,2351,Beauty
+2021-03-01,24,Social Life
+2021-03-01,1147,Gift
+2021-03-02,21,Social Life
+2021-03-02,8159,Food
+2021-03-03,26.8,Social Life
+2021-03-03,3747,Salary
+2021-03-04,17.7,Social Life
+2021-03-04,5308,Salary
+2021-03-05,19.2,Social Life
+2021-03-05,971,Apparel
+2021-03-06,19.1,Social Life
+2021-03-06,4012,Beauty
+2021-03-07,26.4,Social Life
+2021-03-08,29.7,Social Life
+2021-03-08,8615,Food
+2021-03-09,30.2,Social Life
+2021-03-09,1735,Other
+2021-03-10,33,Social Life
+2021-03-10,6854,Allowance
+2021-03-11,33.3,Social Life
+2021-03-11,9678,Apparel
+2021-03-12,33,Social Life
+2021-03-12,3334,Education
+2021-03-13,36.1,Social Life
+2021-03-13,3906,Other
+2021-03-14,34,Social Life
+2021-03-14,1786,Beauty
+2021-03-15,34.7,Social Life
+2021-03-16,20.4,Social Life
+2021-03-16,5345,Apparel
+2021-03-17,19.4,Social Life
+2021-03-17,4004,Gift
+2021-03-18,21.3,Social Life
+2021-03-18,7631,Apparel
+2021-03-19,26.8,Social Life
+2021-03-19,9601,Allowance
+2021-03-20,28.5,Social Life
+2021-03-20,3191,Other
+2021-03-21,25.6,Social Life
+2021-03-21,6944,Salary
+2021-03-22,28.6,Social Life
+2021-03-22,7660,Cash
+2021-03-23,32.5,Social Life
+2021-03-23,2089,Other
+2021-03-24,18.7,Social Life
+2021-03-24,8095,Other
+2021-03-25,23.2,Social Life
+2021-03-25,6861,Salary
+2021-03-26,23.7,Social Life
+2021-03-26,6529,Gift
+2021-03-27,27.2,Social Life
+2021-03-27,644,Beauty
+2021-03-28,23.5,Social Life
+2021-03-28,4552,Transportation
+2021-03-29,19,Social Life
+2021-03-29,9923,Allowance
+2021-03-30,22.6,Social Life
+2021-03-30,1870,Cash
+2021-03-31,30.1,Social Life
+2021-03-31,5816,Food
+2021-04-01,23.3,Social Life
+2021-04-01,8143,Other
+2021-04-02,19.7,Social Life
+2021-04-02,6547,Transportation
+2021-04-03,22.3,Social Life
+2021-04-03,9727,Gift
+2021-04-04,21.6,Social Life
+2021-04-05,23.5,Social Life
+2021-04-05,8800,Apparel
+2021-04-06,22.6,Social Life
+2021-04-06,4094,Beauty
+2021-04-07,24,Social Life
+2021-04-07,1786,Other
+2021-04-08,22.9,Social Life
+2021-04-08,1381,Gift
+2021-04-09,22.4,Social Life
+2021-04-09,66,Apparel
+2021-04-10,28.8,Social Life
+2021-04-10,580,Beauty
+2021-04-11,30,Social Life
+2021-04-11,7623,Education
+2021-04-12,32.4,Social Life
+2021-04-12,3494,Beauty
+2021-04-13,33.8,Social Life
+2021-04-13,937,Transportation
+2021-04-14,26.8,Social Life
+2021-04-14,7855,Household
+2021-04-15,18.6,Social Life
+2021-04-15,3808,Beauty
+2021-04-16,17,Social Life
+2021-04-16,773,Transportation
+2021-04-17,15.3,Social Life
+2021-04-17,3873,Salary
+2021-04-18,15.3,Social Life
+2021-04-18,3029,Beauty
+2021-04-19,16.8,Social Life
+2021-04-20,16,Social Life
+2021-04-21,16.6,Social Life
+2021-04-21,7348,Beauty
+2021-04-22,17.2,Social Life
+2021-04-22,2255,Other
+2021-04-23,21.5,Social Life
+2021-04-23,2383,Education
+2021-04-24,19.7,Social Life
+2021-04-24,7264,Cash
+2021-04-25,19.8,Social Life
+2021-04-26,21.2,Social Life
+2021-04-26,4617,Allowance
+2021-04-27,23.7,Social Life
+2021-04-27,2513,Allowance
+2021-04-28,23.9,Social Life
+2021-04-28,8026,Other
+2021-04-29,25.6,Social Life
+2021-04-29,2214,Transportation
+2021-04-30,24.7,Social Life
+2021-04-30,3043,Apparel
+2021-05-01,20.2,Social Life
+2021-05-01,1992,Cash
+2021-05-02,23.5,Social Life
+2021-05-03,22.2,Social Life
+2021-05-03,1951,Allowance
+2021-05-04,24.5,Social Life
+2021-05-04,5765,Salary
+2021-05-05,25.5,Social Life
+2021-05-05,89,Household
+2021-05-06,18.8,Social Life
+2021-05-06,3066,Education
+2021-05-07,18,Social Life
+2021-05-07,6381,Transportation
+2021-05-08,14.9,Social Life
+2021-05-08,167,Other
+2021-05-09,18.3,Social Life
+2021-05-09,711,Transportation
+2021-05-10,19.2,Social Life
+2021-05-10,6862,Salary
+2021-05-11,18.9,Social Life
+2021-05-11,2926,Other
+2021-05-12,19.2,Social Life
+2021-05-12,9987,Other
+2021-05-13,21.5,Social Life
+2021-05-13,5112,Education
+2021-05-14,18,Social Life
+2021-05-14,3517,Education
+2021-05-15,13.1,Social Life
+2021-05-15,8186,Food
+2021-05-16,14.9,Social Life
+2021-05-16,9524,Education
+2021-05-17,15.2,Social Life
+2021-05-17,4141,Apparel
+2021-05-18,13.5,Social Life
+2021-05-18,5619,Household
+2021-05-19,15.2,Social Life
+2021-05-19,7189,Apparel
+2021-05-20,14.2,Social Life
+2021-05-20,9089,Allowance
+2021-05-21,14.6,Social Life
+2021-05-21,2497,Allowance
+2021-05-22,16,Social Life
+2021-05-22,4679,Education
+2021-05-23,15.1,Social Life
+2021-05-23,8398,Gift
+2021-05-24,15.6,Social Life
+2021-05-24,1612,Gift
+2021-05-25,17.5,Social Life
+2021-05-25,5259,Salary
+2021-05-26,18.8,Social Life
+2021-05-26,4233,Apparel
+2021-05-27,20.4,Social Life
+2021-05-27,2166,Apparel
+2021-05-28,20.3,Social Life
+2021-05-29,19.1,Social Life
+2021-05-29,6470,Beauty
+2021-05-30,14.9,Social Life
+2021-05-30,1570,Gift
+2021-05-31,14.6,Social Life
+2021-05-31,2763,Cash
+2021-06-01,13.7,Social Life
+2021-06-01,3689,Cash
+2021-06-02,13,Social Life
+2021-06-02,9191,Salary
+2021-06-03,13.4,Social Life
+2021-06-03,3292,Food
+2021-06-04,12.7,Social Life
+2021-06-04,8592,Household
+2021-06-05,14.2,Social Life
+2021-06-05,3203,Education
+2021-06-06,13.7,Social Life
+2021-06-06,1239,Other
+2021-06-07,12.7,Social Life
+2021-06-07,7880,Education
+2021-06-08,14.1,Social Life
+2021-06-08,1534,Food
+2021-06-09,12.8,Social Life
+2021-06-09,7577,Cash
+2021-06-10,17.1,Social Life
+2021-06-10,3250,Apparel
+2021-06-11,14,Social Life
+2021-06-11,7670,Household
+2021-06-12,14.5,Social Life
+2021-06-12,8590,Transportation
+2021-06-13,15.7,Social Life
+2021-06-13,3694,Food
+2021-06-14,14.1,Social Life
+2021-06-14,3094,Gift
+2021-06-15,13.7,Social Life
+2021-06-15,4323,Beauty
+2021-06-16,13.3,Social Life
+2021-06-16,5870,Beauty
+2021-06-17,13.4,Social Life
+2021-06-17,8925,Salary
+2021-06-18,11.9,Social Life
+2021-06-18,6681,Allowance
+2021-06-19,13.6,Social Life
+2021-06-19,7098,Household
+2021-06-20,13.3,Social Life
+2021-06-20,8658,Apparel
+2021-06-21,12.2,Social Life
+2021-06-21,2898,Household
+2021-06-22,10.8,Social Life
+2021-06-23,13,Social Life
+2021-06-23,7748,Household
+2021-06-24,14.1,Social Life
+2021-06-24,4799,Salary
+2021-06-25,14.4,Social Life
+2021-06-25,5546,Food
+2021-06-26,13.3,Social Life
+2021-06-26,253,Other
+2021-06-27,15.7,Social Life
+2021-06-27,1037,Other
+2021-06-28,15.6,Social Life
+2021-06-28,4924,Beauty
+2021-06-29,19.3,Social Life
+2021-06-29,7171,Cash
+2021-06-30,16.3,Social Life
+2021-06-30,4295,Food
+2021-07-01,19.4,Social Life
+2021-07-01,9228,Apparel
+2021-07-02,17.7,Social Life
+2021-07-02,1711,Salary
+2021-07-03,16.9,Social Life
+2021-07-03,8743,Transportation
+2021-07-04,14.4,Social Life
+2021-07-04,7868,Education
+2021-07-05,14.3,Social Life
+2021-07-05,927,Household
+2021-07-06,13,Social Life
+2021-07-06,8809,Other
+2021-07-07,12.3,Social Life
+2021-07-07,3553,Education
+2021-07-08,12.8,Social Life
+2021-07-08,1966,Apparel
+2021-07-09,12.7,Social Life
+2021-07-09,579,Gift
+2021-07-10,10.8,Social Life
+2021-07-10,1902,Education
+2021-07-11,14.6,Social Life
+2021-07-11,9542,Cash
+2021-07-12,13.3,Social Life
+2021-07-12,1960,Salary
+2021-07-13,12.7,Social Life
+2021-07-13,9432,Cash
+2021-07-14,12.9,Social Life
+2021-07-14,5511,Apparel
+2021-07-15,15.7,Social Life
+2021-07-15,4894,Cash
+2021-07-16,11.4,Social Life
+2021-07-16,3638,Household
+2021-07-17,12,Social Life
+2021-07-18,12.2,Social Life
+2021-07-18,4200,Allowance
+2021-07-19,11.8,Social Life
+2021-07-19,5163,Other
+2021-07-20,13.1,Social Life
+2021-07-20,7673,Household
+2021-07-21,15.5,Social Life
+2021-07-21,3461,Cash
+2021-07-22,11.3,Social Life
+2021-07-22,9436,Apparel
+2021-07-23,12,Social Life
+2021-07-23,8039,Other
+2021-07-24,12.8,Social Life
+2021-07-24,3591,Beauty
+2021-07-25,11.6,Social Life
+2021-07-25,525,Other
+2021-07-26,12.4,Social Life
+2021-07-26,1569,Food
+2021-07-27,12.6,Social Life
+2021-07-27,8671,Beauty
+2021-07-28,17.4,Social Life
+2021-07-28,4046,Transportation
+2021-07-29,13.4,Social Life
+2021-07-29,2820,Apparel
+2021-07-30,11.3,Social Life
+2021-07-30,6294,Apparel
+2021-07-31,12.1,Social Life
+2021-07-31,1683,Allowance
+2021-08-01,12.7,Social Life
+2021-08-01,353,Other
+2021-08-02,12.5,Social Life
+2021-08-02,8688,Salary
+2021-08-03,13.2,Social Life
+2021-08-04,17.1,Social Life
+2021-08-04,3710,Food
+2021-08-05,15.9,Social Life
+2021-08-05,6332,Allowance
+2021-08-06,15,Social Life
+2021-08-07,13.2,Social Life
+2021-08-07,6853,Beauty
+2021-08-08,12.6,Social Life
+2021-08-08,503,Apparel
+2021-08-09,11.8,Social Life
+2021-08-09,4975,Beauty
+2021-08-10,12,Social Life
+2021-08-10,417,Transportation
+2021-08-11,14,Social Life
+2021-08-12,13.7,Social Life
+2021-08-12,9321,Transportation
+2021-08-13,16.1,Social Life
+2021-08-13,1909,Transportation
+2021-08-14,19.8,Social Life
+2021-08-14,7659,Other
+2021-08-15,15.7,Social Life
+2021-08-15,5401,Apparel
+2021-08-16,13.2,Social Life
+2021-08-16,7996,Cash
+2021-08-17,13.6,Social Life
+2021-08-17,2083,Food
+2021-08-18,13.5,Social Life
+2021-08-18,1312,Other
+2021-08-19,11.7,Social Life
+2021-08-19,3846,Gift
+2021-08-20,11.4,Social Life
+2021-08-21,15.4,Social Life
+2021-08-21,7783,Household
+2021-08-22,17.4,Social Life
+2021-08-22,8287,Cash
+2021-08-23,15.3,Social Life
+2021-08-23,7116,Education
+2021-08-24,16.7,Social Life
+2021-08-24,8063,Beauty
+2021-08-25,16.5,Social Life
+2021-08-25,676,Apparel
+2021-08-26,15.3,Social Life
+2021-08-27,18.8,Social Life
+2021-08-27,569,Allowance
+2021-08-28,15.3,Social Life
+2021-08-28,9274,Gift
+2021-08-29,15.6,Social Life
+2021-08-29,3606,Allowance
+2021-08-30,18.7,Social Life
+2021-08-30,770,Transportation
+2021-08-31,17.4,Social Life
+2021-08-31,8476,Household
+2021-09-01,12.6,Social Life
+2021-09-01,1799,Gift
+2021-09-02,12.9,Social Life
+2021-09-02,3009,Household
+2021-09-03,13.5,Social Life
+2021-09-03,9526,Education
+2021-09-04,13.6,Social Life
+2021-09-04,2446,Beauty
+2021-09-05,13.7,Social Life
+2021-09-05,5158,Transportation
+2021-09-06,15.1,Social Life
+2021-09-06,2739,Food
+2021-09-07,14.3,Social Life
+2021-09-07,8059,Food
+2021-09-08,21.3,Social Life
+2021-09-08,8573,Allowance
+2021-09-09,21.5,Social Life
+2021-09-09,541,Beauty
+2021-09-10,23.2,Social Life
+2021-09-10,9295,Apparel
+2021-09-11,15.3,Social Life
+2021-09-11,8558,Household
+2021-09-12,19.1,Social Life
+2021-09-12,2422,Apparel
+2021-09-13,15.3,Social Life
+2021-09-13,7255,Transportation
+2021-09-14,14.8,Social Life
+2021-09-14,2169,Apparel
+2021-09-15,15.6,Social Life
+2021-09-15,8627,Other
+2021-09-16,14.6,Social Life
+2021-09-16,1416,Allowance
+2021-09-17,14.7,Social Life
+2021-09-18,13.7,Social Life
+2021-09-18,8772,Food
+2021-09-19,13.6,Social Life
+2021-09-19,9679,Food
+2021-09-20,13.5,Social Life
+2021-09-20,1211,Other
+2021-09-21,14.6,Social Life
+2021-09-21,477,Cash
+2021-09-22,15.6,Social Life
+2021-09-22,599,Beauty
+2021-09-23,20.7,Social Life
+2021-09-23,605,Apparel
+2021-09-24,25.1,Social Life
+2021-09-24,6400,Transportation
+2021-09-25,19.7,Social Life
+2021-09-25,9036,Gift
+2021-09-26,12.5,Social Life
+2021-09-26,3812,Education
+2021-09-27,14.1,Social Life
+2021-09-27,6825,Household
+2021-09-28,13.3,Social Life
+2021-09-28,8941,Other
+2021-09-29,14.7,Social Life
+2021-09-29,5872,Household
+2021-09-30,20.5,Social Life
+2021-09-30,8070,Beauty
+2021-10-01,21.8,Social Life
+2021-10-01,6769,Education
+2021-10-02,16.2,Social Life
+2021-10-03,25.8,Social Life
+2021-10-03,1647,Gift
+2021-10-04,26.6,Social Life
+2021-10-04,4007,Household
+2021-10-05,19.4,Social Life
+2021-10-05,3345,Beauty
+2021-10-06,21.1,Social Life
+2021-10-06,1584,Education
+2021-10-07,20.2,Social Life
+2021-10-07,7235,Household
+2021-10-08,20.9,Social Life
+2021-10-08,4995,Beauty
+2021-10-09,18.1,Social Life
+2021-10-09,300,Salary
+2021-10-10,26.3,Social Life
+2021-10-10,6703,Household
+2021-10-11,19.2,Social Life
+2021-10-11,608,Salary
+2021-10-12,16.1,Social Life
+2021-10-12,4411,Food
+2021-10-13,17.9,Social Life
+2021-10-14,21.1,Social Life
+2021-10-14,4772,Household
+2021-10-15,25.7,Social Life
+2021-10-15,2641,Salary
+2021-10-16,23.7,Social Life
+2021-10-16,522,Allowance
+2021-10-17,19.7,Social Life
+2021-10-17,4992,Household
+2021-10-18,16.8,Social Life
+2021-10-18,6413,Salary
+2021-10-19,14.3,Social Life
+2021-10-20,14.2,Social Life
+2021-10-20,5424,Apparel
+2021-10-21,20.5,Social Life
+2021-10-21,7952,Apparel
+2021-10-22,22.2,Social Life
+2021-10-22,2228,Other
+2021-10-23,15.4,Social Life
+2021-10-23,8938,Cash
+2021-10-24,17.2,Social Life
+2021-10-25,18,Social Life
+2021-10-25,4886,Other
+2021-10-26,20.5,Social Life
+2021-10-26,7639,Other
+2021-10-27,23.8,Social Life
+2021-10-27,498,Other
+2021-10-28,24.1,Social Life
+2021-10-28,5705,Transportation
+2021-10-29,25.8,Social Life
+2021-10-29,2833,Household
+2021-10-30,19.4,Social Life
+2021-10-30,4278,Household
+2021-10-31,18.3,Social Life
+2021-10-31,2119,Apparel
+2021-11-01,22.3,Social Life
+2021-11-02,17.4,Social Life
+2021-11-02,9090,Salary
+2021-11-03,20.2,Social Life
+2021-11-03,3639,Other
+2021-11-04,27.5,Social Life
+2021-11-04,1897,Education
+2021-11-05,23.9,Social Life
+2021-11-05,8098,Gift
+2021-11-06,22.8,Social Life
+2021-11-06,4070,Cash
+2021-11-07,22.7,Social Life
+2021-11-07,7408,Beauty
+2021-11-08,21.5,Social Life
+2021-11-08,5165,Beauty
+2021-11-09,21.9,Social Life
+2021-11-09,3832,Cash
+2021-11-10,30.3,Social Life
+2021-11-10,4958,Gift
+2021-11-11,17.7,Social Life
+2021-11-11,8530,Beauty
+2021-11-12,26.8,Social Life
+2021-11-12,3323,Cash
+2021-11-13,28.3,Social Life
+2021-11-14,24.2,Social Life
+2021-11-15,18.2,Social Life
+2021-11-15,7868,Transportation
+2021-11-16,21.8,Social Life
+2021-11-16,5071,Cash
+2021-11-17,17.8,Social Life
+2021-11-17,5505,Education
+2021-11-18,16.1,Social Life
+2021-11-18,1114,Apparel
+2021-11-19,18.7,Social Life
+2021-11-19,5230,Cash
+2021-11-20,17.1,Social Life
+2021-11-20,9642,Transportation
+2021-11-21,15.7,Social Life
+2021-11-21,3748,Food
+2021-11-22,20.8,Social Life
+2021-11-22,9609,Food
+2021-11-23,26.2,Social Life
+2021-11-23,7294,Other
+2021-11-24,26.2,Social Life
+2021-11-24,3565,Household
+2021-11-25,21.3,Social Life
+2021-11-25,110,Allowance
+2021-11-26,20.5,Social Life
+2021-11-27,20.7,Social Life
+2021-11-27,5990,Beauty
+2021-11-28,19.9,Social Life
+2021-11-28,3344,Other
+2021-11-29,19.1,Social Life
+2021-11-30,21.7,Social Life
+2021-11-30,8491,Gift
+2021-12-01,25.6,Social Life
+2021-12-01,6304,Transportation
+2021-12-02,23.4,Social Life
+2021-12-02,4250,Salary
+2021-12-03,26.6,Social Life
+2021-12-03,3052,Cash
+2021-12-04,23.5,Social Life
+2021-12-05,25,Social Life
+2021-12-05,9904,Other
+2021-12-06,25.8,Social Life
+2021-12-06,8078,Salary
+2021-12-07,28.1,Social Life
+2021-12-07,8905,Allowance
+2021-12-08,27.8,Social Life
+2021-12-08,1481,Education
+2021-12-09,23.2,Social Life
+2021-12-09,4142,Salary
+2021-12-10,21,Social Life
+2021-12-10,9894,Beauty
+2021-12-11,21.1,Social Life
+2021-12-11,4651,Gift
+2021-12-12,18.3,Social Life
+2021-12-12,8506,Food
+2021-12-13,19.6,Social Life
+2021-12-13,6128,Salary
+2021-12-14,22.2,Social Life
+2021-12-14,9764,Salary
+2021-12-15,30.6,Social Life
+2021-12-15,9270,Household
+2021-12-16,23.1,Social Life
+2021-12-16,1942,Beauty
+2021-12-17,18.4,Social Life
+2021-12-17,8910,Cash
+2021-12-18,22.4,Social Life
+2021-12-18,2046,Other
+2021-12-19,30.9,Social Life
+2021-12-19,1056,Salary
+2021-12-20,25.2,Social Life
+2021-12-20,6706,Apparel
+2021-12-21,21.4,Social Life
+2021-12-21,9729,Transportation
+2021-12-22,20.4,Social Life
+2021-12-22,3519,Household
+2021-12-23,18.7,Social Life
+2021-12-23,400,Allowance
+2021-12-24,22,Social Life
+2021-12-25,26.6,Social Life
+2021-12-26,20.4,Social Life
+2021-12-26,8343,Transportation
+2021-12-27,18.5,Social Life
+2021-12-27,6706,Household
+2021-12-28,22.5,Social Life
+2021-12-28,775,Food
+2021-12-29,32.7,Social Life
+2021-12-29,1891,Apparel
+2021-12-30,27.8,Social Life
+2021-12-30,2477,Salary
+2021-12-31,19,Social Life
+2022-01-01,21,Social Life
+2022-01-01,4868,Education
+2022-01-02,18.5,Social Life
+2022-01-02,2170,Transportation
+2022-01-03,22.2,Social Life
+2022-01-04,23.3,Social Life
+2022-01-04,4440,Transportation
+2022-01-05,19.8,Social Life
+2022-01-05,3442,Beauty
+2022-01-06,24.7,Social Life
+2022-01-06,5596,Transportation
+2022-01-07,32.4,Social Life
+2022-01-07,6019,Food
+2022-01-08,20,Social Life
+2022-01-08,9281,Salary
+2022-01-09,18.2,Social Life
+2022-01-09,6387,Other
+2022-01-10,20.4,Social Life
+2022-01-10,6495,Beauty
+2022-01-11,25.5,Social Life
+2022-01-12,24.4,Social Life
+2022-01-12,6564,Other
+2022-01-13,21.5,Social Life
+2022-01-13,7472,Household
+2022-01-14,32.4,Social Life
+2022-01-14,7374,Allowance
+2022-01-15,27.2,Social Life
+2022-01-15,613,Beauty
+2022-01-16,19.1,Social Life
+2022-01-16,7709,Beauty
+2022-01-17,19.7,Social Life
+2022-01-17,4343,Cash
+2022-01-18,21.3,Social Life
+2022-01-18,7359,Other
+2022-01-19,20.3,Social Life
+2022-01-19,9431,Household
+2022-01-20,21,Social Life
+2022-01-20,4718,Other
+2022-01-21,22.6,Social Life
+2022-01-22,21.5,Social Life
+2022-01-22,9954,Education
+2022-01-23,24.2,Social Life
+2022-01-23,8364,Household
+2022-01-24,25,Social Life
+2022-01-24,1941,Apparel
+2022-01-25,20.6,Social Life
+2022-01-25,2472,Apparel
+2022-01-26,19.6,Social Life
+2022-01-26,4885,Salary
+2022-01-27,20,Social Life
+2022-01-27,210,Household
+2022-01-28,29.5,Social Life
+2022-01-28,8453,Gift
+2022-01-29,35.5,Social Life
+2022-01-29,8373,Transportation
+2022-01-30,21.1,Social Life
+2022-01-30,8422,Apparel
+2022-01-31,23.7,Social Life
+2022-01-31,8243,Education
+2022-02-01,33.7,Social Life
+2022-02-01,4858,Gift
+2022-02-02,21.8,Social Life
+2022-02-02,3886,Salary
+2022-02-03,21.2,Social Life
+2022-02-03,1107,Beauty
+2022-02-04,23.7,Social Life
+2022-02-04,1458,Transportation
+2022-02-05,26.4,Social Life
+2022-02-05,9023,Transportation
+2022-02-06,21.8,Social Life
+2022-02-06,713,Beauty
+2022-02-07,31.1,Social Life
+2022-02-07,2422,Apparel
+2022-02-08,38.3,Social Life
+2022-02-08,1982,Household
+2022-02-09,22.7,Social Life
+2022-02-09,2398,Cash
+2022-02-10,21.5,Social Life
+2022-02-10,1102,Food
+2022-02-11,20.8,Social Life
+2022-02-11,9489,Salary
+2022-02-12,30,Social Life
+2022-02-12,4087,Cash
+2022-02-13,34.5,Social Life
+2022-02-13,7374,Cash
+2022-02-14,36.5,Social Life
+2022-02-14,9564,Education
+2022-02-15,28.9,Social Life
+2022-02-15,8562,Other
+2022-02-16,27.2,Social Life
+2022-02-16,8005,Gift
+2022-02-17,25.5,Social Life
+2022-02-17,5641,Food
+2022-02-18,22.3,Social Life
+2022-02-18,9991,Cash
+2022-02-19,21.8,Social Life
+2022-02-19,7731,Transportation
+2022-02-20,22.4,Social Life
+2022-02-20,5076,Transportation
+2022-02-21,19.7,Social Life
+2022-02-21,517,Food
+2022-02-22,19.4,Social Life
+2022-02-22,7177,Allowance
+2022-02-23,18.5,Social Life
+2022-02-23,6533,Other
+2022-02-24,24,Social Life
+2022-02-24,2159,Household
+2022-02-25,25.8,Social Life
+2022-02-25,1099,Food
+2022-02-26,25.5,Social Life
+2022-02-26,8399,Cash
+2022-02-27,26.6,Social Life
+2022-02-27,6644,Apparel
+2022-02-28,34.5,Social Life
+2022-03-01,21.1,Social Life
+2022-03-01,1454,Beauty
+2022-03-02,20.4,Social Life
+2022-03-02,5488,Transportation
+2022-03-03,24.9,Social Life
+2022-03-03,1788,Beauty
+2022-03-04,21.9,Social Life
+2022-03-04,6462,Household
+2022-03-05,25.5,Social Life
+2022-03-05,5362,Gift
+2022-03-06,38,Social Life
+2022-03-06,8989,Allowance
+2022-03-07,36.4,Social Life
+2022-03-07,9594,Salary
+2022-03-08,19,Social Life
+2022-03-08,9173,Household
+2022-03-09,18.4,Social Life
+2022-03-09,2572,Transportation
+2022-03-10,17.7,Social Life
+2022-03-11,21.3,Social Life
+2022-03-11,4895,Education
+2022-03-12,25.7,Social Life
+2022-03-12,9750,Apparel
+2022-03-13,30.5,Social Life
+2022-03-13,2593,Gift
+2022-03-14,32.6,Social Life
+2022-03-14,9731,Household
+2022-03-15,23,Social Life
+2022-03-15,4883,Household
+2022-03-16,20.5,Social Life
+2022-03-16,9373,Gift
+2022-03-17,21.8,Social Life
+2022-03-17,2756,Cash
+2022-03-18,26.4,Social Life
+2022-03-18,9112,Cash
+2022-03-19,25.8,Social Life
+2022-03-19,5508,Allowance
+2022-03-20,36.7,Social Life
+2022-03-20,1638,Other
+2022-03-21,27.2,Social Life
+2022-03-21,200,Household
+2022-03-22,27.7,Social Life
+2022-03-22,7446,Cash
+2022-03-23,20.4,Social Life
+2022-03-23,9721,Education
+2022-03-24,18.8,Social Life
+2022-03-24,5269,Allowance
+2022-03-25,22.6,Social Life
+2022-03-25,3732,Apparel
+2022-03-26,32.7,Social Life
+2022-03-26,7243,Education
+2022-03-27,22.8,Social Life
+2022-03-27,951,Food
+2022-03-28,24.4,Social Life
+2022-03-28,7625,Education
+2022-03-29,32.6,Social Life
+2022-03-30,29.1,Social Life
+2022-03-30,4524,Other
+2022-03-31,18.3,Social Life
+2022-03-31,5374,Cash
+2022-04-01,19.6,Social Life
+2022-04-01,1743,Beauty
+2022-04-02,28.6,Social Life
+2022-04-02,7435,Allowance
+2022-04-03,26.8,Social Life
+2022-04-03,720,Beauty
+2022-04-04,30.7,Social Life
+2022-04-04,8727,Apparel
+2022-04-05,16.8,Social Life
+2022-04-06,16.1,Social Life
+2022-04-06,2142,Education
+2022-04-07,18.2,Social Life
+2022-04-07,6849,Salary
+2022-04-08,19.3,Social Life
+2022-04-08,7699,Household
+2022-04-09,19.8,Social Life
+2022-04-09,9834,Gift
+2022-04-10,26.8,Social Life
+2022-04-10,5761,Education
+2022-04-11,17.5,Social Life
+2022-04-11,312,Household
+2022-04-12,18.2,Social Life
+2022-04-12,4368,Allowance
+2022-04-13,24.9,Social Life
+2022-04-13,279,Beauty
+2022-04-14,27.3,Social Life
+2022-04-14,386,Food
+2022-04-15,24.8,Social Life
+2022-04-15,107,Education
+2022-04-16,18,Social Life
+2022-04-17,16.8,Social Life
+2022-04-17,8496,Household
+2022-04-18,14.6,Social Life
+2022-04-18,9332,Salary
+2022-04-19,18.7,Social Life
+2022-04-19,4469,Salary
+2022-04-20,18.8,Social Life
+2022-04-20,1672,Transportation
+2022-04-21,19.5,Social Life
+2022-04-21,3888,Salary
+2022-04-22,21.1,Social Life
+2022-04-22,846,Transportation
+2022-04-23,20,Social Life
+2022-04-23,291,Food
+2022-04-24,18.5,Social Life
+2022-04-24,4759,Transportation
+2022-04-25,17,Social Life
+2022-04-25,1326,Transportation
+2022-04-26,16.2,Social Life
+2022-04-26,4600,Education
+2022-04-27,16.7,Social Life
+2022-04-27,6582,Salary
+2022-04-28,14.9,Social Life
+2022-04-28,5892,Salary
+2022-04-29,15.5,Social Life
+2022-04-29,3250,Apparel
+2022-04-30,15.3,Social Life
+2022-04-30,7034,Cash
+2022-05-01,15.7,Social Life
+2022-05-01,2716,Apparel
+2022-05-02,17.3,Social Life
+2022-05-02,1394,Allowance
+2022-05-03,17.1,Social Life
+2022-05-03,3121,Transportation
+2022-05-04,16.2,Social Life
+2022-05-04,8141,Beauty
+2022-05-05,15.4,Social Life
+2022-05-05,4625,Education
+2022-05-06,15,Social Life
+2022-05-07,19,Social Life
+2022-05-07,4261,Salary
+2022-05-08,19.7,Social Life
+2022-05-08,8111,Apparel
+2022-05-09,19.7,Social Life
+2022-05-09,3570,Beauty
+2022-05-10,15.1,Social Life
+2022-05-10,3261,Cash
+2022-05-11,16.4,Social Life
+2022-05-11,3069,Apparel
+2022-05-12,21.7,Social Life
+2022-05-12,3363,Other
+2022-05-13,19.5,Social Life
+2022-05-13,9637,Apparel
+2022-05-14,17.2,Social Life
+2022-05-15,16.4,Social Life
+2022-05-15,2659,Allowance
+2022-05-16,18,Social Life
+2022-05-16,3960,Transportation
+2022-05-17,19.5,Social Life
+2022-05-18,16.2,Social Life
+2022-05-18,3335,Transportation
+2022-05-19,16,Social Life
+2022-05-19,8458,Household
+2022-05-20,14.4,Social Life
+2022-05-20,8195,Apparel
+2022-05-21,15.4,Social Life
+2022-05-21,1776,Education
+2022-05-22,18.2,Social Life
+2022-05-22,8113,Other
+2022-05-23,13.8,Social Life
+2022-05-23,6162,Education
+2022-05-24,16.1,Social Life
+2022-05-24,502,Other
+2022-05-25,13.7,Social Life
+2022-05-25,6427,Cash
+2022-05-26,16.8,Social Life
+2022-05-26,478,Allowance
+2022-05-27,15.9,Social Life
+2022-05-27,7200,Salary
+2022-05-28,16.7,Social Life
+2022-05-28,6531,Household
+2022-05-29,14.6,Social Life
+2022-05-29,1273,Household
+2022-05-30,15.2,Social Life
+2022-05-30,8923,Apparel
+2022-05-31,14,Social Life
+2022-05-31,9884,Gift
+2022-06-01,14.1,Social Life
+2022-06-01,7167,Apparel
+2022-06-02,16,Social Life
+2022-06-02,6222,Food
+2022-06-03,16.7,Social Life
+2022-06-03,3750,Household
+2022-06-04,15.2,Social Life
+2022-06-04,3167,Apparel
+2022-06-05,13.3,Social Life
+2022-06-05,9843,Cash
+2022-06-06,14,Social Life
+2022-06-07,15.9,Social Life
+2022-06-07,5263,Cash
+2022-06-08,14.5,Social Life
+2022-06-08,7316,Beauty
+2022-06-09,14.2,Social Life
+2022-06-09,249,Cash
+2022-06-10,13,Social Life
+2022-06-10,4585,Education
+2022-06-11,13.7,Social Life
+2022-06-11,4762,Salary
+2022-06-12,14.7,Social Life
+2022-06-12,9314,Salary
+2022-06-13,14.6,Social Life
+2022-06-13,1813,Cash
+2022-06-14,13.9,Social Life
+2022-06-14,486,Education
+2022-06-15,14.2,Social Life
+2022-06-15,1193,Cash
+2022-06-16,16.8,Social Life
+2022-06-16,1545,Cash
+2022-06-17,14.7,Social Life
+2022-06-17,8905,Allowance
+2022-06-18,12.1,Social Life
+2022-06-18,2684,Allowance
+2022-06-19,10.2,Social Life
+2022-06-19,9784,Salary
+2022-06-20,10.8,Social Life
+2022-06-20,3487,Allowance
+2022-06-21,11.9,Social Life
+2022-06-21,6314,Cash
+2022-06-22,11.8,Social Life
+2022-06-22,5329,Beauty
+2022-06-23,12,Social Life
+2022-06-23,9628,Gift
+2022-06-24,12.7,Social Life
+2022-06-24,1284,Salary
+2022-06-25,13.6,Social Life
+2022-06-25,817,Gift
+2022-06-26,13,Social Life
+2022-06-26,2293,Household
+2022-06-27,13.1,Social Life
+2022-06-27,7617,Transportation
+2022-06-28,11.1,Social Life
+2022-06-28,307,Cash
+2022-06-29,12.8,Social Life
+2022-06-29,1477,Salary
+2022-06-30,13.3,Social Life
+2022-06-30,1129,Salary
+2022-07-01,11.7,Social Life
+2022-07-01,4737,Food
+2022-07-02,14.3,Social Life
+2022-07-02,3588,Transportation
+2022-07-03,15.4,Social Life
+2022-07-03,6045,Beauty
+2022-07-04,14.2,Social Life
+2022-07-04,3462,Transportation
+2022-07-05,13,Social Life
+2022-07-05,2894,Cash
+2022-07-06,13.1,Social Life
+2022-07-07,12.4,Social Life
+2022-07-07,2436,Education
+2022-07-08,11.2,Social Life
+2022-07-08,6176,Cash
+2022-07-09,9.2,Social Life
+2022-07-09,6218,Education
+2022-07-10,12.4,Social Life
+2022-07-10,9076,Food
+2022-07-11,12.7,Social Life
+2022-07-11,8552,Food
+2022-07-12,13.7,Social Life
+2022-07-13,12.7,Social Life
+2022-07-13,5008,Transportation
+2022-07-14,15,Social Life
+2022-07-14,5262,Other
+2022-07-15,16.4,Social Life
+2022-07-15,8930,Education
+2022-07-16,14,Social Life
+2022-07-16,8625,Other
+2022-07-17,13.2,Social Life
+2022-07-17,2567,Education
+2022-07-18,13.6,Social Life
+2022-07-18,4968,Salary
+2022-07-19,15.4,Social Life
+2022-07-19,3161,Education
+2022-07-20,13.8,Social Life
+2022-07-20,1823,Education
+2022-07-21,15,Social Life
+2022-07-21,6466,Cash
+2022-07-22,14.5,Social Life
+2022-07-22,3001,Transportation
+2022-07-23,14.8,Social Life
+2022-07-23,7319,Allowance
+2022-07-24,14,Social Life
+2022-07-24,4122,Transportation
+2022-07-25,8.2,Social Life
+2022-07-25,343,Salary
+2022-07-26,10,Social Life
+2022-07-26,5985,Transportation
+2022-07-27,11.2,Social Life
+2022-07-27,90,Salary
+2022-07-28,13.3,Social Life
+2022-07-28,2145,Beauty
+2022-07-29,13.7,Social Life
+2022-07-29,1705,Other
+2022-07-30,15,Social Life
+2022-07-30,2781,Beauty
+2022-07-31,12.5,Social Life
+2022-07-31,3052,Salary
+2022-08-01,15.3,Social Life
+2022-08-01,5789,Transportation
+2022-08-02,16.4,Social Life
+2022-08-02,7290,Cash
+2022-08-03,17.6,Social Life
+2022-08-03,9758,Beauty
+2022-08-04,15,Social Life
+2022-08-04,9540,Household
+2022-08-05,14.8,Social Life
+2022-08-05,8448,Transportation
+2022-08-06,13.8,Social Life
+2022-08-06,3297,Transportation
+2022-08-07,14.8,Social Life
+2022-08-07,7610,Household
+2022-08-08,16.6,Social Life
+2022-08-08,9960,Apparel
+2022-08-09,17.3,Social Life
+2022-08-09,3337,Household
+2022-08-10,12.2,Social Life
+2022-08-10,8921,Apparel
+2022-08-11,12.1,Social Life
+2022-08-11,2356,Apparel
+2022-08-12,13.9,Social Life
+2022-08-12,2161,Allowance
+2022-08-13,16.8,Social Life
+2022-08-13,9164,Other
+2022-08-14,16.8,Social Life
+2022-08-14,2204,Apparel
+2022-08-15,14.5,Social Life
+2022-08-15,1631,Food
+2022-08-16,15.1,Social Life
+2022-08-16,8158,Beauty
+2022-08-17,13.8,Social Life
+2022-08-17,4570,Allowance
+2022-08-18,13,Social Life
+2022-08-18,4028,Cash
+2022-08-19,14.5,Social Life
+2022-08-19,8588,Allowance
+2022-08-20,18,Social Life
+2022-08-20,8981,Salary
+2022-08-21,20.2,Social Life
+2022-08-21,744,Allowance
+2022-08-22,21,Social Life
+2022-08-23,16.5,Social Life
+2022-08-23,3636,Salary
+2022-08-24,12.2,Social Life
+2022-08-24,2045,Transportation
+2022-08-25,15,Social Life
+2022-08-25,7731,Beauty
+2022-08-26,15.7,Social Life
+2022-08-26,5756,Cash
+2022-08-27,17.7,Social Life
+2022-08-27,4563,Allowance
+2022-08-28,18.9,Social Life
+2022-08-28,1576,Household
+2022-08-29,14.9,Social Life
+2022-08-29,7511,Education
+2022-08-30,11.4,Social Life
+2022-08-30,1525,Beauty
+2022-08-31,15.4,Social Life
+2022-08-31,294,Other
+2022-09-01,15.2,Social Life
+2022-09-01,288,Apparel
+2022-09-02,17.6,Social Life
+2022-09-02,9491,Household
+2022-09-03,17.2,Social Life
+2022-09-03,5606,Allowance
+2022-09-04,21.6,Social Life
+2022-09-04,4017,Allowance
+2022-09-05,18.7,Social Life
+2022-09-06,13.9,Social Life
+2022-09-06,9565,Allowance
+2022-09-07,13.3,Social Life
+2022-09-07,4374,Food
+2022-09-08,14.6,Social Life
+2022-09-08,6566,Gift
+2022-09-09,16.5,Social Life
+2022-09-10,17.7,Social Life
+2022-09-10,185,Allowance
+2022-09-11,13.6,Social Life
+2022-09-11,5796,Allowance
+2022-09-12,15.2,Social Life
+2022-09-12,3477,Salary
+2022-09-13,15.5,Social Life
+2022-09-13,7366,Transportation
+2022-09-14,16.5,Social Life
+2022-09-14,8363,Education
+2022-09-15,18.8,Social Life
+2022-09-15,6372,Food
+2022-09-16,13.6,Social Life
+2022-09-16,5568,Food
+2022-09-17,14,Social Life
+2022-09-17,2770,Other
+2022-09-18,13.8,Social Life
+2022-09-18,6834,Household
+2022-09-19,16,Social Life
+2022-09-20,19.3,Social Life
+2022-09-21,16.9,Social Life
+2022-09-22,14.3,Social Life
+2022-09-23,16.7,Social Life
+2022-09-24,21.3,Social Life
+2022-09-25,19.4,Social Life
+2022-09-26,18.7,Social Life
+2022-09-27,14.7,Social Life
+2022-09-28,16.2,Social Life
+2022-09-29,15.5,Social Life
+2022-09-30,23.4,Social Life
+2022-10-01,22,Social Life
+2022-10-02,16.7,Social Life
+2022-10-03,14.4,Social Life
+2022-10-04,16.4,Social Life
+2022-10-05,19.6,Social Life
+2022-10-06,18.3,Social Life
+2022-10-07,14.4,Social Life
+2022-10-08,14.8,Social Life
+2022-10-09,17.1,Social Life
+2022-10-10,15.2,Social Life
+2022-10-11,19.5,Social Life
+2022-10-12,21.1,Social Life
+2022-10-13,21.7,Social Life
+2022-10-14,14.6,Social Life
+2022-10-15,18.2,Social Life
+2022-10-16,17.8,Social Life
+2022-10-17,23.5,Social Life
+2022-10-18,20.8,Social Life
+2022-10-19,15.7,Social Life
+2022-10-20,16.1,Social Life
+2022-10-21,21,Social Life
+2022-10-22,15,Social Life
+2022-10-23,16,Social Life
+2022-10-24,16,Social Life
+2022-10-25,14.8,Social Life
+2022-10-26,14.6,Social Life
+2022-10-27,16.1,Social Life
+2022-10-28,21.6,Social Life
+2022-10-29,23.8,Social Life
+2022-10-30,27,Social Life
+2022-10-31,20.7,Social Life
+2022-11-01,19.7,Social Life
+2022-11-02,20,Social Life
+2022-11-03,28.8,Social Life
+2022-11-04,30,Social Life
+2022-11-05,33.1,Social Life
+2022-11-06,18.9,Social Life
+2022-11-07,16.3,Social Life
+2022-11-08,19,Social Life
+2022-11-09,18.3,Social Life
+2022-11-10,21.2,Social Life
+2022-11-11,16.5,Social Life
+2022-11-12,16.7,Social Life
+2022-11-13,19.5,Social Life
+2022-11-14,29.1,Social Life
+2022-11-15,19.7,Social Life
+2022-11-16,22.6,Social Life
+2022-11-17,20.7,Social Life
+2022-11-18,14,Social Life
+2022-11-19,15.5,Social Life
+2022-11-20,14.8,Social Life
+2022-11-21,19.2,Social Life
+2022-11-22,27.4,Social Life
+2022-11-23,18.5,Social Life
+2022-11-24,18.5,Social Life
+2022-11-25,31.5,Social Life
+2022-11-26,16.7,Social Life
+2022-11-27,15.7,Social Life
+2022-11-28,16.7,Social Life
+2022-11-29,22,Social Life
+2022-11-30,25.7,Social Life
+2022-12-01,29.2,Social Life
+2022-12-02,27.7,Social Life
+2022-12-03,29.4,Social Life
+2022-12-04,19.9,Social Life
+2022-12-05,27.8,Social Life
+2022-12-06,31.2,Social Life
+2022-12-07,22.8,Social Life
+2022-12-08,17.6,Social Life
+2022-12-09,19.4,Social Life
+2022-12-10,27.5,Social Life
+2022-12-11,18.4,Social Life
+2022-12-12,17.3,Social Life
+2022-12-13,17.5,Social Life
+2022-12-14,17.3,Social Life
+2022-12-15,21.9,Social Life
+2022-12-16,21.1,Social Life
+2022-12-17,17.9,Social Life
+2022-12-18,19.6,Social Life
+2022-12-19,23.6,Social Life
+2022-12-20,18.2,Social Life
+2022-12-21,20,Social Life
+2022-12-22,17.5,Social Life
+2022-12-23,18.9,Social Life
+2022-12-24,18.7,Social Life
+2022-12-25,28.9,Social Life
+2022-12-26,21.6,Social Life
+2022-12-27,20.7,Social Life
+2022-12-28,21.8,Social Life
+2022-12-29,21.9,Social Life
+2022-12-30,35,Social Life
+2022-12-31,26,Social Life
+2023-01-01,20,Social Life
+2023-01-02,33.6,Social Life
+2023-01-03,20.1,Social Life
+2023-01-04,23.5,Social Life
+2023-01-05,23.6,Social Life
+2023-01-06,24.5,Social Life
+2023-01-07,27,Social Life
+2023-01-08,17,Social Life
+2023-01-09,18.9,Social Life
+2023-01-10,21.8,Social Life
+2023-01-11,27.5,Social Life
+2023-01-12,22.8,Social Life
+2023-01-13,26.5,Social Life
+2023-01-14,22.7,Social Life
+2023-01-15,22.5,Social Life
+2023-01-16,37.8,Social Life
+2023-01-17,22,Social Life
+2023-01-18,27.6,Social Life
+2023-01-19,21.2,Social Life
+2023-01-20,22.6,Social Life
+2023-01-21,18.7,Social Life
+2023-01-22,17.5,Social Life
+2023-01-23,17.7,Social Life
+2023-01-24,30.3,Social Life
+2023-01-25,25.6,Social Life
+2023-01-26,32.7,Social Life
+2023-01-27,22.9,Social Life
+2023-01-28,21,Social Life
+2023-01-29,22.5,Social Life
+2023-01-30,25.7,Social Life
+2023-01-31,37.8,Social Life
+2023-02-01,21.3,Social Life
+2023-02-02,38.7,Social Life
+2023-02-03,21.5,Social Life
+2023-02-04,18.8,Social Life
+2023-02-05,21.7,Social Life
+2023-02-06,30.6,Social Life
+2023-02-07,40,Social Life
+2023-02-08,20.8,Social Life
+2023-02-09,23.7,Social Life
+2023-02-10,22,Social Life
+2023-02-11,20.5,Social Life
+2023-02-12,23.3,Social Life
+2023-02-13,34.2,Social Life
+2023-02-14,36.7,Social Life
+2023-02-15,21.3,Social Life
+2023-02-16,28.7,Social Life
+2023-02-17,27.6,Social Life
+2023-02-18,28.8,Social Life
+2023-02-19,37,Social Life
+2023-02-20,21.7,Social Life
+2023-02-21,22.7,Social Life
+2023-02-22,18.5,Social Life
+2023-02-23,25.4,Social Life
+2023-02-24,28.7,Social Life
+2023-02-25,18.4,Social Life
+2023-02-26,24.3,Social Life
+2023-02-27,33,Social Life
+2023-02-28,16.5,Social Life
+2023-03-01,18,Social Life
+2023-03-02,22.1,Social Life
+2023-03-03,24.3,Social Life
+2023-03-04,24.7,Social Life
+2023-03-05,30.1,Social Life
+2023-03-06,22.7,Social Life
+2023-03-07,22.9,Social Life
+2023-03-08,16.4,Social Life
+2023-03-09,16.2,Social Life
+2023-03-10,19,Social Life
+2023-03-11,27,Social Life
+2023-03-12,21.7,Social Life
+2023-03-13,16.7,Social Life
+2023-03-14,17.7,Social Life
+2023-03-15,21.6,Social Life
+2023-03-16,33.8,Social Life
+2023-03-17,31.8,Social Life
+2023-03-18,32,Social Life
+2023-03-19,17.6,Social Life
+2023-03-20,20.2,Social Life
+2023-03-21,17.3,Social Life
+2023-03-22,17,Social Life
+2023-03-23,15.6,Social Life
+2023-03-24,17.1,Social Life
+2023-03-25,21.9,Social Life
+2023-03-26,20.1,Social Life
+2023-03-27,29.7,Social Life
+2023-03-28,20.7,Social Life
+2023-03-29,16.5,Social Life
+2023-03-30,15.8,Social Life
+2023-03-31,17.4,Social Life
+2023-04-01,19.4,Social Life
+2023-04-02,21.1,Social Life
+2023-04-03,19.9,Social Life
+2023-04-04,28.6,Social Life
+2023-04-05,29.7,Social Life
+2023-04-06,29.7,Social Life
+2023-04-07,19.9,Social Life
+2023-04-08,17.4,Social Life
+2023-04-09,18.6,Social Life
+2023-04-10,23,Social Life
+2023-04-11,25.1,Social Life
+2023-04-12,26.6,Social Life
+2023-04-13,19,Social Life
+2023-04-14,21.2,Social Life
+2023-04-15,16.5,Social Life
+2023-04-16,17.5,Social Life
+2023-04-17,18.2,Social Life
+2023-04-18,24,Social Life
+2023-04-19,22.8,Social Life
+2023-04-20,15.1,Social Life
+2023-04-21,16.1,Social Life
+2023-04-22,15.8,Social Life
+2023-04-23,17,Social Life
+2023-04-24,19.7,Social Life
+2023-04-25,24.9,Social Life
+2023-04-26,26.9,Social Life
+2023-04-27,27.9,Social Life
+2023-04-28,18.5,Social Life
+2023-04-29,17,Social Life
+2023-04-30,16.4,Social Life
+2023-05-01,20.8,Social Life
+2023-05-02,16.7,Social Life
+2023-05-03,15.8,Social Life
+2023-05-04,18.5,Social Life
+2023-05-05,16.5,Social Life
+2023-05-06,16.6,Social Life
+2023-05-07,17.4,Social Life
+2023-05-08,21.7,Social Life
+2023-05-09,22.7,Social Life
+2023-05-10,23.3,Social Life
+2023-05-11,22.5,Social Life
+2023-05-12,21.9,Social Life
+2023-05-13,17.9,Social Life
+2023-05-14,20.1,Social Life
+2023-05-15,16,Social Life
+2023-05-16,16.6,Social Life
+2023-05-17,15.6,Social Life
+2023-05-18,15.2,Social Life
+2023-05-19,14.3,Social Life
+2023-05-20,15,Social Life
+2023-05-21,14.5,Social Life
+2023-05-22,16.9,Social Life
+2023-05-23,18.3,Social Life
+2023-05-24,18,Social Life
+2023-05-25,13.5,Social Life
+2023-05-26,13.7,Social Life
+2023-05-27,10.9,Social Life
+2023-05-28,13.6,Social Life
+2023-05-29,15.2,Social Life
+2023-05-30,14.1,Social Life
+2023-05-31,13.2,Social Life
+2023-06-01,13.8,Social Life
+2023-06-02,14.6,Social Life
+2023-06-03,16.2,Social Life
+2023-06-04,14.5,Social Life
+2023-06-05,14.3,Social Life
+2023-06-06,15.6,Social Life
+2023-06-07,15.9,Social Life
+2023-06-08,19.3,Social Life
+2023-06-09,16,Social Life
+2023-06-10,20.3,Social Life
+2023-06-11,15.8,Social Life
+2023-06-12,16.2,Social Life
+2023-06-13,12.8,Social Life
+2023-06-14,15,Social Life
+2023-06-15,13.4,Social Life
+2023-06-16,13.2,Social Life
+2023-06-17,13.8,Social Life
+2023-06-18,15.7,Social Life
+2023-06-19,16.2,Social Life
+2023-06-20,14.9,Social Life
+2023-06-21,18.3,Social Life
+2023-06-22,15.3,Social Life
+2023-06-23,15.2,Social Life
+2023-06-24,14.2,Social Life
+2023-06-25,12,Social Life
+2023-06-26,13.7,Social Life
+2023-06-27,13.8,Social Life
+2023-06-28,12.3,Social Life
+2023-06-29,12.8,Social Life
+2023-06-30,13.1,Social Life
+2023-07-01,14.5,Social Life
+2023-07-02,14,Social Life
+2023-07-03,13.3,Social Life
+2023-07-04,15.7,Social Life
+2023-07-05,16,Social Life
+2023-07-06,16.2,Social Life
+2023-07-07,18,Social Life
+2023-07-08,16.3,Social Life
+2023-07-09,15.8,Social Life
+2023-07-10,13.3,Social Life
+2023-07-11,13.7,Social Life
+2023-07-12,11.5,Social Life
+2023-07-13,13.7,Social Life
+2023-07-14,12.3,Social Life
+2023-07-15,12.6,Social Life
+2023-07-16,12.7,Social Life
+2023-07-17,14.8,Social Life
+2023-07-18,14.9,Social Life
+2023-07-19,12,Social Life
+2023-07-20,12.8,Social Life
+2023-07-21,12.4,Social Life
+2023-07-22,13,Social Life
+2023-07-23,13.1,Social Life
+2023-07-24,12.9,Social Life
+2023-07-25,13.8,Social Life
+2023-07-26,15.2,Social Life
+2023-07-27,13.1,Social Life
+2023-07-28,11.1,Social Life
+2023-07-29,10.8,Social Life
+2023-07-30,13.1,Social Life
+2023-07-31,15,Social Life
+2023-08-01,15.7,Social Life
+2023-08-02,16.4,Social Life
+2023-08-03,14.1,Social Life
+2023-08-04,15.5,Social Life
+2023-08-05,14.8,Social Life
+2023-08-06,13.9,Social Life
+2023-08-07,15.4,Social Life
+2023-08-08,14.8,Social Life
+2023-08-09,10.9,Social Life
+2023-08-10,12.9,Social Life
+2023-08-11,12.8,Social Life
+2023-08-12,18.6,Social Life
+2023-08-13,14.6,Social Life
+2023-08-14,18,Social Life
+2023-08-15,18.5,Social Life
+2023-08-16,11.8,Social Life
+2023-08-17,13.3,Social Life
+2023-08-18,14.5,Social Life
+2023-08-19,14,Social Life
+2023-08-20,13.3,Social Life
+2023-08-21,15,Social Life
+2023-08-22,18.4,Social Life
+2023-08-23,13.6,Social Life
+2023-08-24,15.3,Social Life
+2023-08-25,16.1,Social Life
+2023-08-26,19,Social Life
+2023-08-27,15.5,Social Life
+2023-08-28,16.2,Social Life
+2023-08-29,14.9,Social Life
+2023-08-30,17.9,Social Life
+2023-08-31,10.1,Social Life
+2023-09-01,12.1,Social Life
+2023-09-02,13.1,Social Life
+2023-09-03,12.9,Social Life
+2023-09-04,15.4,Social Life
+2023-09-05,15.6,Social Life
+2023-09-06,14,Social Life
+2023-09-07,14.2,Social Life
+2023-09-08,17.4,Social Life
+2023-09-09,14,Social Life
+2023-09-10,13.6,Social Life
+2023-09-11,15.7,Social Life
+2023-09-12,14,Social Life
+2023-09-13,15,Social Life
+2023-09-14,16.4,Social Life
+2023-09-15,15.1,Social Life
+2023-09-16,17.1,Social Life
+2023-09-17,18.9,Social Life
+2023-09-18,23.8,Social Life
+2023-09-19,25.9,Social Life
+2023-09-20,15,Social Life
+2023-09-21,17,Social Life
+2023-09-22,19,Social Life
+2023-09-23,26.5,Social Life
+2023-09-24,26.9,Social Life
+2023-09-25,23.7,Social Life
+2023-09-26,30.7,Social Life
+2023-09-27,29.6,Social Life
+2023-09-28,25.9,Social Life
+2023-09-29,20.2,Social Life
+2023-09-30,14.8,Social Life
+2023-10-01,13.9,Social Life
+2023-10-02,15.7,Social Life
+2023-10-03,22.8,Social Life
+2023-10-04,18.7,Social Life
+2023-10-05,17,Social Life
+2023-10-06,19,Social Life
+2023-10-07,14.1,Social Life
+2023-10-08,17.6,Social Life
+2023-10-09,19,Social Life
+2023-10-10,15.8,Social Life
+2023-10-11,12.9,Social Life
+2023-10-12,14.5,Social Life
+2023-10-13,15.9,Social Life
+2023-10-14,21.9,Social Life
+2023-10-15,24.1,Social Life
+2023-10-16,19.4,Social Life
+2023-10-17,15.4,Social Life
+2023-10-18,17.6,Social Life
+2023-10-19,20.5,Social Life
+2023-10-20,19.4,Social Life
+2023-10-21,18,Social Life
+2023-10-22,16.8,Social Life
+2023-10-23,15.8,Social Life
+2023-10-24,16,Social Life
+2023-10-25,22.1,Social Life
+2023-10-26,26.8,Social Life
+2023-10-27,26.3,Social Life
+2023-10-28,17.5,Social Life
+2023-10-29,19,Social Life
+2023-10-30,30.3,Social Life
+2023-10-31,32.7,Social Life
+2023-11-01,35,Social Life
+2023-11-02,36.1,Social Life
+2023-11-03,18.1,Social Life
+2023-11-04,18.1,Social Life
+2023-11-05,16.8,Social Life
+2023-11-06,18.6,Social Life
+2023-11-07,20.5,Social Life
+2023-11-08,27.8,Social Life
+2023-11-09,18.8,Social Life
+2023-11-10,16.8,Social Life
+2023-11-11,17.2,Social Life
+2023-11-12,19.6,Social Life
+2023-11-13,18.8,Social Life
+2023-11-14,18.5,Social Life
+2023-11-15,19.8,Social Life
+2023-11-16,30.5,Social Life
+2023-11-17,28.3,Social Life
+2023-11-18,32.6,Social Life
+2023-11-19,30.1,Social Life
+2023-11-20,19.8,Social Life
+2023-11-21,19.9,Social Life
+2023-11-22,23.8,Social Life
+2023-11-23,24.3,Social Life
+2023-11-24,17.4,Social Life
+2023-11-25,18.2,Social Life
+2023-11-26,18.4,Social Life
+2023-11-27,16.9,Social Life
+2023-11-28,24,Social Life
+2023-11-29,32.8,Social Life
+2023-11-30,18.9,Social Life
+2023-12-01,15.5,Social Life
+2023-12-02,16,Social Life
+2023-12-03,16.6,Social Life
+2023-12-04,20.8,Social Life
+2023-12-05,19.6,Social Life
+2023-12-06,18.5,Social Life
+2023-12-07,17.6,Social Life
+2023-12-08,20.8,Social Life
+2023-12-09,21.5,Social Life
+2023-12-10,25,Social Life
+2023-12-11,21.2,Social Life
+2023-12-12,22.6,Social Life
+2023-12-13,25.6,Social Life
+2023-12-14,25.1,Social Life
+2023-12-15,32.5,Social Life
+2023-12-16,27.8,Social Life
+2023-12-17,21.5,Social Life
+2023-12-18,20.7,Social Life
+2023-12-19,19.9,Social Life
+2023-12-20,18.4,Social Life
+2023-12-21,22.3,Social Life
+2023-12-22,24.6,Social Life
+2023-12-23,25.6,Social Life
+2023-12-24,19,Social Life
+2023-12-25,18.7,Social Life
+2023-12-26,29.2,Social Life
+2023-12-27,31.8,Social Life
+2023-12-28,18.4,Social Life
+2023-12-29,19.2,Social Life
+2023-12-30,30.8,Social Life
+2023-12-31,32.2,Social Life
+2024-01-01,22,Social Life
+2024-01-02,21.4,Social Life
+2024-01-03,20,Social Life
+2024-01-04,20.6,Social Life
+2024-01-05,22.2,Social Life
+2024-01-06,30,Social Life
+2024-01-07,40.4,Social Life
+2024-01-08,26.3,Social Life
+2024-01-09,39,Social Life
+2024-01-10,30.6,Social Life
+2024-01-11,39.2,Social Life
+2024-01-12,37.8,Social Life
+2024-01-13,28.8,Social Life
+2024-01-14,30.8,Social Life
+2024-01-15,38.7,Social Life
+2024-01-16,25.2,Social Life
+2024-01-17,20.6,Social Life
+2024-01-18,21,Social Life
+2024-01-19,25.6,Social Life
+2024-01-20,36.2,Social Life
+2024-01-21,24.9,Social Life
+2024-01-22,26.2,Social Life
+2024-01-23,20,Social Life
+2024-01-24,19.7,Social Life
+2024-01-25,20.3,Social Life
+2024-01-26,25.1,Social Life
+2024-01-27,29.1,Social Life
+2024-01-28,37.5,Social Life
+2024-01-29,39.2,Social Life
+2024-01-30,33.7,Social Life
+2024-01-31,19.5,Social Life
+2024-02-01,19.9,Social Life
+2024-02-02,21,Social Life
+2024-02-03,20.3,Social Life
+2024-02-04,22.6,Social Life
+2024-02-05,32.9,Social Life
+2024-02-06,21.3,Social Life
+2024-02-07,19.5,Social Life
+2024-02-08,19.2,Social Life
+2024-02-09,22,Social Life
+2024-02-10,27.2,Social Life
+2024-02-11,32.2,Social Life
+2024-02-12,25.4,Social Life
+2024-02-13,25,Social Life
+2024-02-14,25.2,Social Life
+2024-02-15,26.7,Social Life
+2024-02-16,25.3,Social Life
+2024-02-17,29.9,Social Life
+2024-02-18,27.6,Social Life
+2024-02-19,20.6,Social Life
+2024-02-20,21,Social Life
+2024-02-21,21.6,Social Life
+2024-02-22,24,Social Life
+2024-02-23,23.8,Social Life
+2024-02-24,21.9,Social Life
+2024-02-25,29.4,Social Life
+2024-02-26,37.4,Social Life
+2024-02-27,21.5,Social Life
+2024-02-28,21.1,Social Life
+2024-02-29,21,Social Life
+2024-03-01,36.3,Social Life
+2024-03-02,28.7,Social Life
+2024-03-03,19.4,Social Life
+2024-03-04,20.3,Social Life
+2024-03-05,20.8,Social Life
+2024-03-06,30.5,Social Life
+2024-03-07,30.3,Social Life
+2024-03-08,23.4,Social Life
+2024-03-09,25.7,Social Life
+2024-03-10,15.7,Social Life
+2024-03-11,19.3,Social Life
+2024-03-12,18.8,Social Life
+2024-03-13,17,Social Life
+2024-03-14,17.6,Social Life
+2024-03-15,18.5,Social Life
+2024-03-16,21,Social Life
+2024-03-17,26.9,Social Life
+2024-03-18,30.6,Social Life
+2024-03-19,32.7,Social Life
+2024-03-20,29.2,Social Life
+2024-03-21,25.8,Social Life
+2024-03-22,28.2,Social Life
+2024-03-23,24.7,Social Life
+2024-03-24,30.6,Social Life
+2024-03-25,30.6,Social Life
+2024-03-26,29,Social Life
+2024-03-27,26.5,Social Life
+2024-03-28,25.5,Social Life
+2024-03-29,24.9,Social Life
+2024-03-30,20.9,Social Life
+2024-03-31,23.4,Social Life
+2024-04-01,18.1,Social Life
+2024-04-02,20.7,Social Life
+2024-04-03,20.3,Social Life
+2024-04-04,21.1,Social Life
+2024-04-05,19.5,Social Life
+2024-04-06,20.4,Social Life
+2024-04-07,17.3,Social Life
+2024-04-08,18.5,Social Life
+2024-04-09,21,Social Life
+2024-04-10,23.5,Social Life
+2024-04-11,25.7,Social Life
+2024-04-12,23.1,Social Life
+2024-04-13,24.8,Social Life
+2024-04-14,22.4,Social Life
+2024-04-15,17.4,Social Life
+2024-04-16,18.3,Social Life
+2024-04-17,26,Social Life
+2024-04-18,25.5,Social Life
+2024-04-19,21.8,Social Life
+2024-04-20,21.2,Social Life
+2024-04-21,25.2,Social Life
+2024-04-22,21.7,Social Life
+2024-04-23,22.6,Social Life
+2024-04-24,24.3,Social Life
+2024-04-25,17,Social Life
+2024-04-26,20.7,Social Life
+2024-04-27,22.7,Social Life
+2024-04-28,25.4,Social Life
+2024-04-29,24.9,Social Life
+2024-04-30,25,Social Life
+2024-05-01,20.5,Social Life
+2024-05-02,20.2,Social Life
+2024-05-03,19.4,Social Life
+2024-05-04,21.4,Social Life
+2024-05-05,25.5,Social Life
+2024-05-06,19.4,Social Life
+2024-05-07,18.8,Social Life
+2024-05-08,17,Social Life
+2024-05-09,15.5,Social Life
+2024-05-10,16.2,Social Life
+2024-05-11,16.7,Social Life
+2024-05-12,20.1,Social Life
+2024-05-13,21.4,Social Life
+2024-05-14,16.4,Social Life
+2024-05-15,17.3,Social Life
+2024-05-16,17,Social Life
+2024-05-17,18.2,Social Life
+2024-05-18,17.5,Social Life
+2024-05-19,14.9,Social Life
+2024-05-20,18,Social Life
+2024-05-21,16.7,Social Life
+2024-05-22,17.1,Social Life
+2024-05-23,16.8,Social Life
+2024-05-24,17.7,Social Life
+2024-05-25,18.4,Social Life
+2024-05-26,18.5,Social Life
+2024-05-27,15.5,Social Life
+2024-05-28,15.4,Social Life
+2024-05-29,17.5,Social Life
+2024-05-30,16.8,Social Life
+2024-05-31,18.9,Social Life
+2024-06-01,19.4,Social Life
+2024-06-02,20.3,Social Life
+2024-06-03,19.3,Social Life
+2024-06-04,17,Social Life
+2024-06-05,16.4,Social Life
+2024-06-06,13.3,Social Life
+2024-06-07,13.6,Social Life
+2024-06-08,14.1,Social Life
+2024-06-09,14.8,Social Life
+2024-06-10,14.1,Social Life
+2024-06-11,17,Social Life
+2024-06-12,16,Social Life
+2024-06-13,16.5,Social Life
+2024-06-14,14.9,Social Life
+2024-06-15,14.4,Social Life
+2024-06-16,13.5,Social Life
+2024-06-17,11.3,Social Life
+2024-06-18,15,Social Life
+2024-06-19,13,Social Life
+2024-06-20,14.9,Social Life
+2024-06-21,14.6,Social Life
+2024-06-22,14.1,Social Life
+2024-06-23,15.5,Social Life
+2024-06-24,14.4,Social Life
+2024-06-25,12,Social Life
+2024-06-26,17.5,Social Life
+2024-06-27,13.3,Social Life
+2024-06-28,14.3,Social Life
+2024-06-29,14,Social Life
+2024-06-30,13.5,Social Life
+2024-07-01,13.3,Social Life
+2024-07-02,12.3,Social Life
+2024-07-03,12.6,Social Life
+2024-07-04,14.1,Social Life
+2024-07-05,16.6,Social Life
+2024-07-06,17.3,Social Life
+2024-07-07,17.1,Social Life
+2024-07-08,16.1,Social Life
+2024-07-09,15,Social Life
+2024-07-10,15.4,Social Life
+2024-07-11,14.6,Social Life
+2024-07-12,14.6,Social Life
+2024-07-13,16.8,Social Life
+2024-07-14,16.5,Social Life
+2024-07-15,15.6,Social Life
+2024-07-16,14.8,Social Life
+2024-07-17,15.2,Social Life
+2024-07-18,15.2,Social Life
+2024-07-19,15,Social Life
+2024-07-20,14.1,Social Life
+2024-07-21,15.5,Social Life
+2024-07-22,12.6,Social Life
+2024-07-23,12.9,Social Life
+2024-07-24,15.1,Social Life
+2024-07-25,13,Social Life
+2024-07-26,15.6,Social Life
+2024-07-27,13.4,Social Life
+2024-07-28,14.4,Social Life
+2024-07-29,14.5,Social Life
+2024-07-30,15.4,Social Life
+2024-07-31,16.7,Social Life
+2024-08-01,16.1,Social Life
+2024-08-02,16.6,Social Life
+2024-08-03,16.5,Social Life
+2024-08-04,13.8,Social Life
+2024-08-05,13.4,Social Life
+2024-08-06,11.9,Social Life
+2024-08-07,10.7,Social Life
+2024-08-08,13.2,Social Life
+2024-08-09,13.1,Social Life
+2024-08-10,12.8,Social Life
+2024-08-11,16.2,Social Life
+2024-08-12,18,Social Life
+2024-08-13,18.9,Social Life
+2024-08-14,18.3,Social Life
+2024-08-15,19.8,Social Life
+2024-08-16,19.3,Social Life
+2024-08-17,16.2,Social Life
+2024-08-18,17.6,Social Life
+2024-08-19,17.5,Social Life
+2024-08-20,13.2,Social Life
+2024-08-21,13.2,Social Life
+2024-08-22,13.4,Social Life
+2024-08-23,14.2,Social Life
+2024-08-24,16.1,Social Life
+2024-08-25,14.2,Social Life
+2024-08-26,14.3,Social Life
+2024-08-27,14.5,Social Life
+2024-08-28,17.1,Social Life
+2024-08-29,18.2,Social Life
+2024-08-30,22.2,Social Life
+2024-08-31,22.4,Social Life
+2024-09-01,15.6,Social Life
+2024-09-02,16.6,Social Life
+2024-09-03,14.5,Social Life
+2024-09-04,17.7,Social Life
+2024-09-05,21,Social Life
+2024-09-06,14.3,Social Life
+2024-09-07,20,Social Life
+2024-09-08,20.2,Social Life
+2024-09-09,19.2,Social Life
+2024-09-10,19.8,Social Life
+2024-09-11,14.8,Social Life
+2024-09-12,14.2,Social Life
+2024-09-13,17.2,Social Life
+2024-09-14,17.2,Social Life
+2024-09-15,22.1,Social Life
+2024-09-16,15.4,Social Life
+2024-09-17,16.1,Social Life
+2024-09-18,14.8,Social Life
+2024-09-19,15.1,Social Life
+2024-09-20,20.2,Social Life
+2024-09-21,22.3,Social Life
+2024-09-22,24.6,Social Life
+2024-09-23,18.4,Social Life
+2024-09-24,18.2,Social Life
+2024-09-25,23.4,Social Life
+2024-09-26,23.8,Social Life
+2024-09-27,20.1,Social Life
+2024-09-28,20.5,Social Life
+2024-09-29,19.5,Social Life
+2024-09-30,18.8,Social Life
+2024-10-01,19.8,Social Life
+2024-10-02,26.2,Social Life
+2024-10-03,21.2,Social Life
+2024-10-04,21.2,Social Life
+2024-10-05,17.3,Social Life
+2024-10-06,20.5,Social Life
+2024-10-07,19.2,Social Life
+2024-10-08,18,Social Life
+2024-10-09,17.7,Social Life
+2024-10-10,23.7,Social Life
+2024-10-11,16.9,Social Life
+2024-10-12,23.2,Social Life
+2024-10-13,22.3,Social Life
+2024-10-14,18.7,Social Life
+2024-10-15,24,Social Life
+2024-10-16,16.4,Social Life
+2024-10-17,18.8,Social Life
+2024-10-18,19,Social Life
+2024-10-19,26.7,Social Life
+2024-10-20,19.3,Social Life
+2024-10-21,19.5,Social Life
+2024-10-22,21.2,Social Life
+2024-10-23,17,Social Life
+2024-10-24,24.4,Social Life
+2024-10-25,29,Social Life
+2024-10-26,19.2,Social Life
+2024-10-27,24.6,Social Life
+2024-10-28,23.4,Social Life
+2024-10-29,22.6,Social Life
+2024-10-30,21.1,Social Life
+2024-10-31,29.1,Social Life
+2024-11-01,36.1,Social Life
+2024-11-02,23.1,Social Life
+2024-11-03,16.5,Social Life
+2024-11-04,16.2,Social Life
+2024-11-05,21.3,Social Life
+2024-11-06,25.4,Social Life
+2024-11-07,26.4,Social Life
+2024-11-08,21.1,Social Life
+2024-11-09,21.1,Social Life
+2024-11-10,19.7,Social Life
+2024-11-11,31.2,Social Life
+2024-11-12,34.5,Social Life
+2024-11-13,22.9,Social Life
+2024-11-14,13.5,Social Life
+2024-11-15,16.2,Social Life
+2024-11-16,15.3,Social Life
+2024-11-17,19.2,Social Life
+2024-11-18,29.4,Social Life
+2024-11-19,27.7,Social Life
+2024-11-20,19.6,Social Life
+2024-11-21,16.8,Social Life
+2024-11-22,19.9,Social Life
+2024-11-23,20.4,Social Life
+2024-11-24,18.3,Social Life
+2024-11-25,16.7,Social Life
+2024-11-26,16.9,Social Life
+2024-11-27,18.9,Social Life
+2024-11-28,17.6,Social Life
+2024-11-29,18.6,Social Life
+2024-11-30,21.4,Social Life
+2024-12-01,28.7,Social Life
+2024-12-02,28,Social Life
+2024-12-03,22.8,Social Life
+2024-12-04,17.2,Social Life
+2024-12-05,18.7,Social Life
+2024-12-06,19.9,Social Life
+2024-12-07,23,Social Life
+2024-12-08,30.8,Social Life
+2024-12-09,31.7,Social Life
+2024-12-10,20.8,Social Life
+2024-12-11,20.8,Social Life
+2024-12-12,25.2,Social Life
+2024-12-13,31.3,Social Life
+2024-12-14,32.1,Social Life
+2024-12-15,34.3,Social Life
+2024-12-16,33.7,Social Life
+2024-12-17,28.6,Social Life
+2024-12-18,19.2,Social Life
+2024-12-19,20.9,Social Life
+2024-12-20,21.1,Social Life
+2024-12-21,26.1,Social Life
+2024-12-22,26.4,Social Life
+2024-12-23,36.8,Social Life
+2024-12-24,26.3,Social Life
+2024-12-25,17.9,Social Life
+2024-12-26,21.3,Social Life
+2024-12-27,19.5,Social Life
+2024-12-28,20.1,Social Life
+2024-12-29,21.7,Social Life
+2024-12-30,19.5,Social Life
+2025-01-01,24.8,Social Life
+2025-01-02,30.2,Social Life
+2025-01-03,31.6,Social Life
+2025-01-04,19,Social Life
+2025-01-05,21.3,Social Life
+2025-01-06,20.6,Social Life
+2025-01-07,22.8,Social Life
+2025-01-08,33.2,Social Life
+2025-01-09,24.7,Social Life
+2025-01-10,21.3,Social Life
+2025-01-11,17.9,Social Life
+2025-01-12,18.7,Social Life
+2025-01-13,25.3,Social Life
+2025-01-14,31,Social Life
+2025-01-15,33.2,Social Life
+2025-01-16,31,Social Life
+2025-01-17,18.2,Social Life
+2025-01-18,19.1,Social Life
+2025-01-19,22.2,Social Life
+2025-01-20,20.3,Social Life
+2025-01-21,19.8,Social Life
+2025-01-22,18.3,Social Life
+2025-01-23,27.5,Social Life
+2025-01-24,29.8,Social Life
+2025-01-25,31,Social Life
+2025-01-26,32.9,Social Life
+2025-01-27,35.5,Social Life
+2025-01-28,36,Social Life
+2025-01-29,36.6,Social Life
+2025-01-30,21.7,Social Life
+2025-01-31,19.8,Social Life
+2025-02-01,26.7,Social Life
+2025-02-02,22.9,Social Life
+2025-02-03,19.8,Social Life
+2025-02-04,24.9,Social Life
+2025-02-05,24.8,Social Life
+2025-02-06,28.8,Social Life
+2025-02-07,32.7,Social Life
+2025-02-08,33.7,Social Life
+2025-02-09,24.7,Social Life
+2025-02-10,21.6,Social Life
+2025-02-11,26.2,Social Life
+2025-02-12,33.4,Social Life
+2025-02-13,22.9,Social Life
+2025-02-14,31.2,Social Life
+2025-02-15,23.1,Social Life
+2025-02-16,24.4,Social Life
+2025-02-17,30.7,Social Life
+2025-02-18,38.8,Social Life
+2025-02-19,21.5,Social Life
+2025-02-20,20.7,Social Life
+2025-02-21,20.3,Social Life
+2025-02-22,21.3,Social Life
+2025-02-23,30,Social Life
+2025-02-24,37.1,Social Life
+2025-02-25,21.1,Social Life
+2025-02-26,22,Social Life
+2025-02-27,34.4,Social Life
+2025-02-28,33.8,Social Life
+2025-03-01,37.8,Social Life
+2025-03-02,38.4,Social Life
+2025-03-03,32.8,Social Life
+2025-03-04,34.4,Social Life
+2025-03-05,26.4,Social Life
+2025-03-06,27.3,Social Life
+2025-03-07,28,Social Life
+2025-03-08,30.7,Social Life
+2025-03-09,30.7,Social Life
+2025-03-10,23.4,Social Life
+2025-03-11,26.1,Social Life
+2025-03-12,26.1,Social Life
+2025-03-13,21.8,Social Life
+2025-03-14,18.9,Social Life
+2025-03-15,18.5,Social Life
+2025-03-16,17.5,Social Life
+2025-03-17,21.5,Social Life
+2025-03-18,25.1,Social Life
+2025-03-19,21.9,Social Life
+2025-03-20,24.2,Social Life
+2025-03-21,24.2,Social Life
+2025-03-22,27.4,Social Life
+2025-03-23,21.3,Social Life
+2025-03-24,18,Social Life
+2025-03-25,18.7,Social Life
+2025-03-26,20,Social Life
+2025-03-27,20.9,Social Life
+2025-03-28,19.3,Social Life
+2025-03-29,19.3,Social Life
+2025-03-30,22.2,Social Life
+2025-03-31,17.7,Social Life
+2025-04-01,21.9,Social Life
+2025-04-02,25.2,Social Life
+2025-04-03,25.1,Social Life
+2025-04-04,28.5,Social Life
+2025-04-05,27.6,Social Life
+2025-04-06,19.6,Social Life
+2025-04-07,18.5,Social Life
+2025-04-08,19.2,Social Life
+2025-04-09,20.4,Social Life
+2025-04-10,22.8,Social Life
+2025-04-11,23,Social Life
+2025-04-12,20.3,Social Life
+2025-04-13,18,Social Life
+2025-04-14,18,Social Life
+2025-04-15,20.2,Social Life
+2025-04-16,18.1,Social Life
+2025-04-17,19.2,Social Life
+2025-04-18,17.8,Social Life
+2025-04-19,19.8,Social Life
+2025-04-20,20.3,Social Life
+2025-04-21,18.3,Social Life
+2025-04-22,18.3,Social Life
+2025-04-23,20.2,Social Life
+2025-04-24,22,Social Life
+2025-04-25,24.3,Social Life
+2025-04-26,24.7,Social Life
+2025-04-27,25.4,Social Life
+2025-04-28,19.9,Social Life
+2025-04-29,23,Social Life
+2025-04-30,21.8,Social Life
+2025-05-01,19.3,Social Life
+2025-05-02,18.5,Social Life
+2025-05-03,20.6,Social Life
+2025-05-04,17.2,Social Life
+2025-05-05,17.5,Social Life
+2025-05-06,19.1,Social Life
+2025-05-07,18,Social Life
+2025-05-08,18.9,Social Life
+2025-05-09,23.4,Social Life
+2025-05-10,19.3,Social Life
+2025-05-11,19.2,Social Life
+2025-05-12,21.2,Social Life
+2025-05-13,21.5,Social Life
+2025-05-14,17.2,Social Life
+2025-05-15,16.8,Social Life
+2025-05-16,16,Social Life
+2025-05-17,18.9,Social Life
+2025-05-18,20.6,Social Life
+2025-05-19,15.9,Social Life
+2025-05-20,16.7,Social Life
+2025-05-21,18.4,Social Life
+2025-05-22,16.2,Social Life
+2025-05-23,16.2,Social Life
+2025-05-24,15.8,Social Life
+2025-05-25,16.2,Social Life
+2025-05-26,18.3,Social Life
+2025-05-27,18.5,Social Life
+2025-05-28,19.4,Social Life
+2025-05-29,17,Social Life
+2025-05-30,14.6,Social Life
+2025-05-31,11,Social Life
+2025-06-01,12.4,Social Life
+2025-06-02,14,Social Life
+2025-06-03,10.8,Social Life
+2025-06-04,13.1,Social Life
+2025-06-05,15,Social Life
+2025-06-06,13,Social Life
+2025-06-07,17.5,Social Life
+2025-06-08,16,Social Life
+2025-06-09,10.2,Social Life
+2025-06-10,13.7,Social Life
+2025-06-11,15.4,Social Life
+2025-06-12,13.6,Social Life
+2025-06-13,12.9,Social Life
+2025-06-14,14.2,Social Life
+2025-06-15,15,Social Life
+2025-06-16,15.2,Social Life
+2025-06-17,18.2,Social Life
+2025-06-18,12.3,Social Life
+2025-06-19,13.8,Social Life
+2025-06-20,13.9,Social Life
+2025-06-21,14.6,Social Life
+2025-06-22,14.9,Social Life
+2025-06-23,12.6,Social Life
+2025-06-24,11.2,Social Life
+2025-06-25,12.9,Social Life
+2025-06-26,14.1,Social Life
+2025-06-27,12.8,Social Life
+2025-06-28,15.8,Social Life
+2025-06-29,16,Social Life
+2025-06-30,16,Social Life
+2025-07-01,16.6,Social Life
+2025-07-02,16.6,Social Life
+2025-07-03,16,Social Life
+2025-07-04,12.7,Social Life
+2025-07-05,12.3,Social Life
+2025-07-06,11.8,Social Life
+2025-07-07,14.1,Social Life
+2025-07-08,12.6,Social Life
+2025-07-09,12.9,Social Life
+2025-07-10,11.5,Social Life
+2025-07-11,12.9,Social Life
+2025-07-12,11.8,Social Life
+2025-07-13,11.9,Social Life
+2025-07-14,14.2,Social Life
+2025-07-15,12,Social Life
+2025-07-16,11.7,Social Life
+2025-07-17,11.8,Social Life
+2025-07-18,13,Social Life
+2025-07-19,11.4,Social Life
+2025-07-20,11,Social Life
+2025-07-21,12.3,Social Life
+2025-07-22,13.1,Social Life
+2025-07-23,11.4,Social Life
+2025-07-24,16,Social Life
+2025-07-25,15.3,Social Life
+2025-07-26,13.2,Social Life
+2025-07-27,15.9,Social Life
+2025-07-28,16,Social Life
+2025-07-29,19.6,Social Life
+2025-07-30,15.2,Social Life
+2025-07-31,10.6,Social Life
+2025-08-01,14.8,Social Life
+2025-08-02,15.8,Social Life
+2025-08-03,14.1,Social Life
+2025-08-04,14.4,Social Life
+2025-08-05,10.7,Social Life
+2025-08-06,13.2,Social Life
+2025-08-07,13,Social Life
+2025-08-08,13.2,Social Life
+2025-08-09,16,Social Life
+2025-08-10,13.2,Social Life
+2025-08-11,11.8,Social Life
+2025-08-12,11.6,Social Life
+2025-08-13,13.4,Social Life
+2025-08-14,15.2,Social Life
+2025-08-15,15.5,Social Life
+2025-08-16,13.5,Social Life
+2025-08-17,14,Social Life
+2025-08-18,18.5,Social Life
+2025-08-19,14.9,Social Life
+2025-08-20,13.9,Social Life
+2025-08-21,15.9,Social Life
+2025-08-22,11.3,Social Life
+2025-08-23,12.2,Social Life
+2025-08-24,13.8,Social Life
+2025-08-25,13.8,Social Life
+2025-08-26,11.3,Social Life
+2025-08-27,13,Social Life
+2025-08-28,13.6,Social Life
+2025-08-29,13.2,Social Life
+2025-08-30,16,Social Life
+2025-08-31,17.2,Social Life
+2025-09-01,14.7,Social Life
+2025-09-02,15.5,Social Life
+2025-09-03,15.2,Social Life
+2025-09-04,16,Social Life
+2025-09-05,16.6,Social Life
+2025-09-06,17.8,Social Life
+2025-09-07,19.8,Social Life
+2025-09-08,20.6,Social Life
+2025-09-09,19,Social Life
+2025-09-10,19.5,Social Life
+2025-09-11,12.6,Social Life
+2025-09-12,14.3,Social Life
+2025-09-13,14.9,Social Life
+2025-09-14,13.7,Social Life
+2025-09-15,14.2,Social Life
+2025-09-16,18.4,Social Life
+2025-09-17,15.4,Social Life
+2025-09-18,18.7,Social Life
+2025-09-19,16.9,Social Life
+2025-09-20,16.5,Social Life
+2025-09-21,20,Social Life
+2025-09-22,17.2,Social Life
+2025-09-23,15.8,Social Life
+2025-09-24,20,Social Life
+2025-09-25,14.3,Social Life
+2025-09-26,14.2,Social Life
+2025-09-27,14.7,Social Life
+2025-09-28,22.4,Social Life
+2025-09-29,25.3,Social Life
+2025-09-30,21.5,Social Life
+2025-10-01,15,Social Life
+2025-10-02,13.8,Social Life
+2025-10-03,15.6,Social Life
+2025-10-04,22.8,Social Life
+2025-10-05,18,Social Life
+2025-10-06,16.6,Social Life
+2025-10-07,20,Social Life
+2025-10-08,17.5,Social Life
+2025-10-09,18.1,Social Life
+2025-10-10,17.1,Social Life
+2025-10-11,18.4,Social Life
+2025-10-12,18.8,Social Life
+2025-10-13,21.8,Social Life
+2025-10-14,19.7,Social Life
+2025-10-15,26.1,Social Life
+2025-10-16,18.7,Social Life
+2025-10-17,20.8,Social Life
+2025-10-18,29.7,Social Life
+2025-10-19,21,Social Life
+2025-10-20,17.3,Social Life
+2025-10-21,16.8,Social Life
+2025-10-22,19.4,Social Life
+2025-10-23,16.8,Social Life
+2025-10-24,21.1,Social Life
+2025-10-25,20.4,Social Life
+2025-10-26,26.1,Social Life
+2025-10-27,15,Social Life
+2025-10-28,17,Social Life
+2025-10-29,24,Social Life
+2025-10-30,22.5,Social Life
+2025-10-31,16.3,Social Life
+2025-11-01,17.9,Social Life
+2025-11-02,17.7,Social Life
+2025-11-03,18.4,Social Life
+2025-11-04,25.6,Social Life
+2025-11-05,28.3,Social Life
+2025-11-06,15.1,Social Life
+2025-11-07,16.8,Social Life
+2025-11-08,19.6,Social Life
+2025-11-09,15.8,Social Life
+2025-11-10,16.9,Social Life
+2025-11-11,17.8,Social Life
+2025-11-12,18.2,Social Life
+2025-11-13,19.2,Social Life
+2025-11-14,19,Social Life
+2025-11-15,18.4,Social Life
+2025-11-16,22,Social Life
+2025-11-17,16.4,Social Life
+2025-11-18,16.7,Social Life
+2025-11-19,17.4,Social Life
+2025-11-20,20.6,Social Life
+2025-11-21,30.4,Social Life
+2025-11-22,30.3,Social Life
+2025-11-23,35.5,Social Life
+2025-11-24,18.8,Social Life
+2025-11-25,24.7,Social Life
+2025-11-26,27.3,Social Life
+2025-11-27,29.4,Social Life
+2025-11-28,32.5,Social Life
+2025-11-29,33.9,Social Life
+2025-11-30,25,Social Life
+2025-12-01,33.6,Social Life
+2025-12-02,25.7,Social Life
+2025-12-03,19,Social Life
+2025-12-04,18.4,Social Life
+2025-12-05,22.1,Social Life
+2025-12-06,25.2,Social Life
+2025-12-07,23.9,Social Life
+2025-12-08,28.7,Social Life
+2025-12-09,31.1,Social Life
+2025-12-10,29.1,Social Life
+2025-12-11,25.6,Social Life
+2025-12-12,23.2,Social Life
+2025-12-13,19,Social Life
+2025-12-14,17.1,Social Life
+2025-12-15,18,Social Life
+2025-12-16,20,Social Life
+2025-12-17,32.9,Social Life
+2025-12-18,32.1,Social Life
+2025-12-19,25.2,Social Life
+2025-12-20,18.5,Social Life
+2025-12-21,18.9,Social Life
+2025-12-22,20.8,Social Life
+2025-12-23,23.7,Social Life
+2025-12-24,28,Social Life
+2025-12-25,35.2,Social Life
+2025-12-26,23.2,Social Life
+2025-12-27,18,Social Life
+2025-12-28,19.8,Social Life
+2025-12-29,31.9,Social Life
+2025-12-30,21.5,Social Life
+2025-12-31,33,Social Life
+2026-01-01,21.6,Social Life
+2026-01-02,31.2,Social Life
+2026-01-03,36.6,Social Life
+2026-01-04,19.6,Social Life
+2026-01-05,23.1,Social Life
+2026-01-06,21.9,Social Life
+2026-01-07,21.1,Social Life
+2026-01-08,27.6,Social Life
+2026-01-09,27.3,Social Life
+2026-01-10,30.1,Social Life
+2026-01-11,33.5,Social Life
+2026-01-12,24.2,Social Life
+2026-01-13,21.4,Social Life
+2026-01-14,20.4,Social Life
+2026-01-15,20.3,Social Life
+2026-01-16,18.5,Social Life
+2026-01-17,29.5,Social Life
+2026-01-18,25.4,Social Life
+2026-01-19,25.2,Social Life
+2026-01-20,21.6,Social Life
+2026-01-21,21.8,Social Life
+2026-01-22,25.4,Social Life
+2026-01-23,36.6,Social Life
+2026-01-24,36.6,Social Life
+2026-01-25,28.7,Social Life
+2026-01-26,27.2,Social Life
+2026-01-27,25.5,Social Life
+2026-01-28,23.6,Social Life
+2026-01-29,25.6,Social Life
+2026-01-30,35.9,Social Life
+2026-01-31,19.1,Social Life
+2026-02-01,15,Social Life
+2026-02-02,20.7,Social Life
+2026-02-03,21.9,Social Life
+2026-02-04,18.2,Social Life
+2026-02-05,21.9,Social Life
+2026-02-06,25.3,Social Life
+2026-02-07,29.6,Social Life
+2026-02-08,29.9,Social Life
+2026-02-09,24.4,Social Life
+2026-02-10,20.2,Social Life
+2026-02-11,23.5,Social Life
+2026-02-12,26,Social Life
+2026-02-13,25.9,Social Life
+2026-02-14,27.4,Social Life
+2026-02-15,31.5,Social Life
+2026-02-16,35.8,Social Life
+2026-02-17,23.9,Social Life
+2026-02-18,27.8,Social Life
+2026-02-19,26,Social Life
+2026-02-20,31.1,Social Life
+2026-02-21,35.2,Social Life
+2026-02-22,27.8,Social Life
+2026-02-23,21.3,Social Life
+2026-02-24,21.5,Social Life
+2026-02-25,23,Social Life
+2026-02-26,24.4,Social Life
+2026-02-27,27.4,Social Life
+2026-02-28,23.8,Social Life
+2026-03-01,25.2,Social Life
+2026-03-02,28.5,Social Life
+2026-03-03,25.3,Social Life
+2026-03-04,25.6,Social Life
+2026-03-05,24.1,Social Life
+2026-03-06,19.3,Social Life
+2026-03-07,22.7,Social Life
+2026-03-08,31.2,Social Life
+2026-03-09,25.8,Social Life
+2026-03-10,21.5,Social Life
+2026-03-11,20.3,Social Life
+2026-03-12,18.9,Social Life
+2026-03-13,25.2,Social Life
+2026-03-14,26.8,Social Life
+2026-03-15,19.2,Social Life
+2026-03-16,21.5,Social Life
+2026-03-17,30.8,Social Life
+2026-03-18,18.6,Social Life
+2026-03-19,19.8,Social Life
+2026-03-20,21.3,Social Life
+2026-03-21,21.3,Social Life
+2026-03-22,29.9,Social Life
+2026-03-23,32,Social Life
+2026-03-24,32.4,Social Life
+2026-03-25,32.5,Social Life
+2026-03-26,32.6,Social Life
+2026-03-27,31.5,Social Life
+2026-03-28,21,Social Life
+2026-03-29,20.6,Social Life
+2026-03-30,19.7,Social Life
+2026-03-31,19.7,Social Life
+2026-04-01,20.1,Social Life
+2026-04-02,17.8,Social Life
+2026-04-03,22.1,Social Life
+2026-04-04,28.8,Social Life
+2026-04-05,26.8,Social Life
+2026-04-06,27.1,Social Life
+2026-04-07,19.4,Social Life
+2026-04-08,19.1,Social Life
+2026-04-09,22.5,Social Life
+2026-04-10,26,Social Life
+2026-04-11,22.2,Social Life
+2026-04-12,28.4,Social Life
+2026-04-13,25.2,Social Life
+2026-04-14,20.9,Social Life
+2026-04-15,17.6,Social Life
+2026-04-16,17.2,Social Life
+2026-04-17,17.2,Social Life
+2026-04-18,18.7,Social Life
+2026-04-19,18.6,Social Life
+2026-04-20,21.8,Social Life
+2026-04-21,16.7,Social Life
+2026-04-22,17.9,Social Life
+2026-04-23,20.8,Social Life
+2026-04-24,21.2,Social Life
+2026-04-25,17.5,Social Life
+2026-04-26,16.6,Social Life
+2026-04-27,17.5,Social Life
+2026-04-28,18.1,Social Life
+2026-04-29,18.5,Social Life
+2026-04-30,19.8,Social Life
+2026-05-01,23,Social Life
+2026-05-02,21.2,Social Life
+2026-05-03,21.2,Social Life
+2026-05-04,23.1,Social Life
+2026-05-05,20.2,Social Life
+2026-05-06,18.1,Social Life
+2026-05-07,16.2,Social Life
+2026-05-08,18.7,Social Life
+2026-05-09,21.2,Social Life
+2026-05-10,19.3,Social Life
+2026-05-11,21.8,Social Life
+2026-05-12,19.9,Social Life
+2026-05-13,13.6,Social Life
+2026-05-14,14.7,Social Life
+2026-05-15,18,Social Life
+2026-05-16,19.3,Social Life
+2026-05-17,17.7,Social Life
+2026-05-18,14.6,Social Life
+2026-05-19,14.5,Social Life
+2026-05-20,14.4,Social Life
+2026-05-21,15.4,Social Life
+2026-05-22,14.5,Social Life
+2026-05-23,16.2,Social Life
+2026-05-24,14.2,Social Life
+2026-05-25,13.2,Social Life
+2026-05-26,15.2,Social Life
+2026-05-27,17.4,Social Life
+2026-05-28,13.7,Social Life
+2026-05-29,16.8,Social Life
+2026-05-30,17.7,Social Life
+2026-05-31,16.2,Social Life
+2026-06-01,13.2,Social Life
+2026-06-02,16.3,Social Life
+2026-06-03,16.3,Social Life
+2026-06-04,14.6,Social Life
+2026-06-05,13.9,Social Life
+2026-06-06,16,Social Life
+2026-06-07,18.4,Social Life
+2026-06-08,19,Social Life
+2026-06-09,17.4,Social Life
+2026-06-10,16.2,Social Life
+2026-06-11,16.3,Social Life
+2026-06-12,16.8,Social Life
+2026-06-13,14.6,Social Life
+2026-06-14,14.2,Social Life
+2026-06-15,13.3,Social Life
+2026-06-16,14,Social Life
+2026-06-17,11.7,Social Life
+2026-06-18,12.9,Social Life
+2026-06-19,12.7,Social Life
+2026-06-20,14.6,Social Life
+2026-06-21,15.1,Social Life
+2026-06-22,16.1,Social Life
+2026-06-23,16.2,Social Life
+2026-06-24,13,Social Life
+2026-06-25,12.4,Social Life
+2026-06-26,12.6,Social Life
+2026-06-27,9.7,Social Life
+2026-06-28,11.8,Social Life
+2026-06-29,15.8,Social Life
+2026-06-30,13.6,Social Life
+2026-07-01,8.9,Social Life
+2026-07-02,12.2,Social Life
+2026-07-03,13.2,Social Life
+2026-07-04,15.2,Social Life
+2026-07-05,12.6,Social Life
+2026-07-06,12.9,Social Life
+2026-07-07,15.9,Social Life
+2026-07-08,15.4,Social Life
+2026-07-09,15,Social Life
+2026-07-10,14.2,Social Life
+2026-07-11,15.7,Social Life
+2026-07-12,14.4,Social Life
+2026-07-13,14.7,Social Life
+2026-07-14,14.5,Social Life
+2026-07-15,15.5,Social Life
+2026-07-16,19.2,Social Life
+2026-07-17,18.2,Social Life
+2026-07-18,13.9,Social Life
+2026-07-19,15,Social Life
+2026-07-20,15.8,Social Life
+2026-07-21,15.7,Social Life
+2026-07-22,15.6,Social Life
+2026-07-23,17.7,Social Life
+2026-07-24,18.8,Social Life
+2026-07-25,15.2,Social Life
+2026-07-26,14.5,Social Life
+2026-07-27,13.5,Social Life
+2026-07-28,13.4,Social Life
+2026-07-29,12.4,Social Life
+2026-07-30,15.5,Social Life
+2026-07-31,13.2,Social Life
+2026-08-01,14,Social Life
+2026-08-02,14.1,Social Life
+2026-08-03,15.1,Social Life
+2026-08-04,17.2,Social Life
+2026-08-05,15.1,Social Life
+2026-08-06,14.5,Social Life
+2026-08-07,13.6,Social Life
+2026-08-08,13.1,Social Life
+2026-08-09,13.1,Social Life
+2026-08-10,13.3,Social Life
+2026-08-11,14.8,Social Life
+2026-08-12,15,Social Life
+2026-08-13,16.4,Social Life
+2026-08-14,15.3,Social Life
+2026-08-15,13.8,Social Life
+2026-08-16,13.5,Social Life
+2026-08-17,12.7,Social Life
+2026-08-18,13.1,Social Life
+2026-08-19,15.8,Social Life
+2026-08-20,16,Social Life
+2026-08-21,14.4,Social Life
+2026-08-22,11.9,Social Life
+2026-08-23,13.2,Social Life
+2026-08-24,12,Social Life
+2026-08-25,11.6,Social Life
+2026-08-26,12.1,Social Life
+2026-08-27,17.3,Social Life
+2026-08-28,17,Social Life
+2026-08-29,14.7,Social Life
+2026-08-30,17.8,Social Life
+2026-08-31,13.7,Social Life
+2026-09-01,16.6,Social Life
+2026-09-02,14.5,Social Life
+2026-09-03,13.6,Social Life
+2026-09-04,15.8,Social Life
+2026-09-05,16.4,Social Life
+2026-09-06,16.8,Social Life
+2026-09-07,14.6,Social Life
+2026-09-08,15.7,Social Life
+2026-09-09,19.7,Social Life
+2026-09-10,20.7,Social Life
+2026-09-11,18.6,Social Life
+2026-09-12,13.7,Social Life
+2026-09-13,11.9,Social Life
+2026-09-14,14,Social Life
+2026-09-15,14.6,Social Life
+2026-09-16,13.4,Social Life
+2026-09-17,16.6,Social Life
+2026-09-18,21,Social Life
+2026-09-19,23.2,Social Life
+2026-09-20,23.9,Social Life
+2026-09-21,17.8,Social Life
+2026-09-22,16.2,Social Life
+2026-09-23,22.1,Social Life
+2026-09-24,24.3,Social Life
+2026-09-25,19,Social Life
+2026-09-26,16.5,Social Life
+2026-09-27,17.1,Social Life
+2026-09-28,17.3,Social Life
+2026-09-29,16.8,Social Life
+2026-09-30,21.7,Social Life
+2026-10-01,20.1,Social Life
+2026-10-02,15,Social Life
+2026-10-03,14.8,Social Life
+2026-10-04,19.8,Social Life
+2026-10-05,24,Social Life
+2026-10-06,14,Social Life
+2026-10-07,15.3,Social Life
+2026-10-08,14.8,Social Life
+2026-10-09,16.8,Social Life
+2026-10-10,20.8,Social Life
+2026-10-11,12.9,Social Life
+2026-10-12,14.3,Social Life
+2026-10-13,18.9,Social Life
+2026-10-14,22.6,Social Life
+2026-10-15,24.7,Social Life
+2026-10-16,19.6,Social Life
+2026-10-17,20.2,Social Life
+2026-10-18,23.9,Social Life
+2026-10-19,15.1,Social Life
+2026-10-20,17.1,Social Life
+2026-10-21,15.3,Social Life
+2026-10-22,16,Social Life
+2026-10-23,16.8,Social Life
+2026-10-24,19.8,Social Life
+2026-10-25,27.2,Social Life
+2026-10-26,29.1,Social Life
+2026-10-27,31.4,Social Life
+2026-10-28,33.2,Social Life
+2026-10-29,33.7,Social Life
+2026-10-30,19.6,Social Life
+2026-10-31,31.8,Social Life
+2026-11-01,22.4,Social Life
+2026-11-02,21.4,Social Life
+2026-11-03,22,Social Life
+2026-11-04,21.6,Social Life
+2026-11-05,30.7,Social Life
+2026-11-06,30.2,Social Life
+2026-11-07,32.6,Social Life
+2026-11-08,26.6,Social Life
+2026-11-09,22,Social Life
+2026-11-10,16.3,Social Life
+2026-11-11,17.2,Social Life
+2026-11-12,25.5,Social Life
+2026-11-13,32.1,Social Life
+2026-11-14,18.4,Social Life
+2026-11-15,21,Social Life
+2026-11-16,16.8,Social Life
+2026-11-17,15.6,Social Life
+2026-11-18,18.5,Social Life
+2026-11-19,21.5,Social Life
+2026-11-20,28.1,Social Life
+2026-11-21,31.4,Social Life
+2026-11-22,20.9,Social Life
+2026-11-23,18.7,Social Life
+2026-11-24,19.9,Social Life
+2026-11-25,21.9,Social Life
+2026-11-26,19.1,Social Life
+2026-11-27,28.5,Social Life
+2026-11-28,26.2,Social Life
+2026-11-29,20.1,Social Life
+2026-11-30,19.9,Social Life
+2026-12-01,22.2,Social Life
+2026-12-02,31.4,Social Life
+2026-12-03,24.1,Social Life
+2026-12-04,35.2,Social Life
+2026-12-05,36.9,Social Life
+2026-12-06,33.2,Social Life
+2026-12-07,35.7,Social Life
+2026-12-08,21.1,Social Life
+2026-12-09,21.6,Social Life
+2026-12-10,18.6,Social Life
+2026-12-11,18.8,Social Life
+2026-12-12,18.7,Social Life
+2026-12-13,21.6,Social Life
+2026-12-14,22.4,Social Life
+2026-12-15,20.9,Social Life
+2026-12-16,23.3,Social Life
+2026-12-17,34.4,Social Life
+2026-12-18,20.7,Social Life
+2026-12-19,24.2,Social Life
+2026-12-20,22.2,Social Life
+2026-12-21,23.5,Social Life
+2026-12-22,30.3,Social Life
+2026-12-23,19.8,Social Life
+2026-12-24,23.3,Social Life
+2026-12-25,29.3,Social Life
+2026-12-26,20.9,Social Life
+2026-12-27,37.6,Social Life
+2026-12-28,23.2,Social Life
+2026-12-29,25.1,Social Life
+2026-12-30,24.4,Social Life
+2026-12-31,24.6,Social Life
